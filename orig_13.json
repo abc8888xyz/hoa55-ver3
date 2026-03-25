@@ -1,0 +1,2455 @@
+{
+  "status": "ok",
+  "doc_id": "SRKLdph5ToDAAXxNKzslNwPcgLb",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/VE6WwLR4WiQPOXkvmtRlIIreg6d",
+  "title": "OpenClaw 能干什么？一个重度用户的 10 个真实用例拆解",
+  "revision": 154,
+  "total_blocks": 147,
+  "translatable_blocks": 125,
+  "blocks": [
+    {
+      "block_id": "SRKLdph5ToDAAXxNKzslNwPcgLb",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "OpenClaw 能干什么？一个重度用户的 10 个真实用例拆解",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghsuWLm6616UmR4YAAwG1Kd",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔗 原文链接： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://x.com/yanhua1010/status/202...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fx.com%2Fyanhua1010%2Fstatus%2F2025069629123781031"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVKzVLlWzZtCkoJPlo3o4bg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "小伙伴们也可以通过阿里云百炼",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Coding Plan ",
+          "style": {
+            "background_color": 13,
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "来部署",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgN1D0CIakEFX9SImajZ8jub",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "首购低至 7.9 元，续费 5 折起，支持Qwen3.5、Qwen3-max、Qwen3-coder、GLM-5、GLM-4.7、Kimi-k2.5等模型",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWl3UFVKf15023XBSAvq3af",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "👉戳链接直达：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://t.aliyun.com/U/0iiOuy",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg19iRZMjBjlGSfQDRgUlaOb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "👉查看详细部署教程：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://t.aliyun.com/U/MNkA9b",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDIuu8fkcN5ETMBN0kDoUvg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "最多三步，即可拥有 7x 24小时在线、随时响应的AI助手",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgr2u5SoiScYpyCBiKBjvySb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "最近 OpenClaw 爆火，到处都在讨论。但说实话，大部分内容都在讲理论、讲架构、讲愿景。真正用这玩意能干啥？日常工作里怎么落地？讲清楚的人不多。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvfAIz8IRANbuqOh0H63akd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Matthew Berman 最近出了一期视频，把他用 OpenClaw 搭建的所有用例一次性摊开了。不讲概念，全是实操。CRM、知识库、商业顾问团、安全审查、社交媒体追踪、视频选题流水线、每日简报、食物日记……一个人，一台 MacBook，干了一个小公司中台团队的活。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjyNYVaSLyVP9HjuGd2HEDh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我把他最核心的用例拆开聊聊。不吹不黑，每个用例是什么、怎么跑的、好在哪，一个个过。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUbvOBJ3JaXEKWnBeCzKbcf",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用例一：自然语言 CRM，30 分钟从零到可用",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgq6jJuBME4NtFtmf2VC5CPc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这是 Berman 展示的第一个用例，也是最直观的一个。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgv8MWpfw7KE3RYXGO5jpQwb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "搭建过程 ：他用自然语言告诉 OpenClaw，「帮我建一个 CRM，从 Gmail、Google Calendar 和 Fathom 里提取数据，过滤掉营销邮件和冷推销，只保留有价值的对话和联系人。」没有写一行代码。30 分钟就跑起来了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrRcXdTJBGxIRMn6G8j7sQg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "数据摄取 ：系统每 30 分钟扫描邮件，每 5 分钟在工作时段检查 Fathom（AI 会议记录工具）。所有数据在存入之前，先经过一个 LLM 判断：这封邮件值不值得存？这个联系人重不重要？",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWHOy3mtE0etazMN16NdRCc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "371 个联系人，全部可以用自然语言查询。「我上次和 John 聊了什么？」「X 公司最后跟我对接的是谁？」",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1OKFrrb616HT8wenHzmPYK",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "关系健康评分，自动标记长期没联系的人",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgV3ANv326S6QhEukYryN1eg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "重复联系人检测和合并建议",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgybvKJLNP2Rl9mvuZLaQW0g",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "向量嵌入搜索，支持语义级别的模糊匹配",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwpULtPYsNGDlrLpmAPjnGb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "最惊艳的细节 ：当 Berman 在其他场景（比如想视频选题）时，CRM 会主动插嘴：「你之前和某个赞助商聊过类似话题，也许他们愿意赞助这期。」系统跨模块联动，不只是被动存数据，而是主动创造连接。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgpYnZjIWeQQDmOYQAx5xORb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Berman 的原话：「如果我 30 分钟就能搭一个完全定制的 CRM，再花一两个小时迭代优化，那我为什么还要付费给 CRM 公司？」",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOwrqFLD1ojMLdFWhGdvAZf",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用例二：会议行动项自动追踪",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXP7RYh6jQPLEDx5Aeb6cwf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这个用例和 CRM 紧密配合，但值得单独拎出来说。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBU8ayVtkMWujHI3rOIeaIh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "工作流 ：会议结束 → Fathom 转录全文 → OpenClaw 匹配 CRM 联系人 → 提取行动项 → 发 Telegram 给 Berman 审批 → 审批通过的自动进入 Todoist",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg80gJZpcqD1F7wqWGznrCof",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "几个关键设计：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIC3yxMbkBTyGyKlxorXnDf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "区分「我的」和「对方的」行动项。 对方承诺要给你的东西，系统标记为「waiting on」，自动追踪对方是否兑现。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGdV0e6IJtonSSTzBAWHI0f",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "自我学习过滤。 如果 Berman 拒绝了某条行动项（「这不算我的任务」），系统会学习原因并更新提取规则。下次同类情况不会再抓。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEAu6YrWT5qh9YRSTeWpGcg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "每天自动检查 3 次完成情况。 比如你在会上说「我今天把邮件发过去」，系统会检查你是否真的发了，发了就自动打勾。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGOPGB8qWrxipwvBE6tjapd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "14 天自动归档。 超期未完成的自动清理，保持清单干净。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOjaefY81JGLpJwiqcv2SDg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这套东西的价值不在于某个单点功能，而在于 它把「会议后续」这个最容易烂尾的环节完全自动化了 。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAhpLZrhztkk915FfdQ3s1l",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用例三：个人知识库，丢个链接进去就行",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgacgdAjJg75csvmBZL4rWWh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Berman 长期有一个痛点：看到好内容，收藏了，然后再也找不到了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHcZvKQl64jlOT5KbHfNCLb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "他的解决方案极其简单： 所有链接丢进 Telegram，剩下的交给 OpenClaw。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqaOsnPGgyMbMYtX8dpBYIh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "系统会自动处理这些类型的内容：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgD6z3lEZpSHQ0UiwoZ2I1Zd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "文章 ：直接抓取全文，对付费墙网站用浏览器自动化登录后提取",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFRDeSceeXR8h9q64xzOxyc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "YouTube 视频 ：抓取字幕/转录文本",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkqNKj56w4JSxcUd20lt9nd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "X 帖子 ：不只抓单条，会自动追踪整个帖子串，外链文章一并摄取",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGmWjuKJSX4Pq7NPgsK8DRc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "PDF ：直接解析文本",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLcqCrp4NNkierGtHErGG3b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "所有内容做向量化嵌入，存入本地 SQLite。之后可以用自然语言搜索：「给我看所有关于 OpenAI 的文章」，一键检索。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7ZU3mM1CBvN9MPXqKweGvh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "团队协作加成 ：每条入库内容自动以「Matt 想让你们看看这个」的形式同步到 Slack。团队知道这是老板亲自读过的，不是 AI 随便推的。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguw9t9FMm4WyEa0RVfuWFSg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这个用例的关键不是技术多复杂，而是 使用门槛极低 。不需要打标签、不需要分类、不需要整理。丢进去就行，AI 帮你做剩下的。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqDeinJIEB8Lws6z9Hpmnns",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用例四：商业顾问委员会，8 个专家每晚帮你开会",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqKania8Ua7RONaonVDXmKe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我个人觉得这是整个视频里最疯狂的用例。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgY0HOs7Unqe1lN8iGUneGZf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "数据输入 ：14 个业务数据源。YouTube 分析、Instagram 每帖互动、X 分析、TikTok 数据、邮件活动、会议记录、Cron 任务健康状况、Slack 消息……基本上涵盖了他业务的所有维度。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDZ7V7USb0vv6vUPJWj9akh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "分析流程 ：8 个 AI 专家角色（财务、营销、增长、运营等），各自独立分析全部数据，并行运行。分析完成后它们互相讨论发现，综合分歧，然后合并成一份按优先级排序的建议清单。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZuwbvbu5B7qY9u67zVGExS",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "交付方式 ：每天凌晨自动运行，结果以编号摘要发到 Telegram。Berman 起床后扫一眼，对任何一条都可以追问：「展开说说第 3 条。」",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgazWH3IX5qKfnnSJthOETVd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这个用例的启发性在于 多 Agent 协作模式 。不是一个 AI 给你建议，而是一群 AI 互相辩论后给你建议。就像真正的董事会，财务说要省钱，营销说要花钱，最后折中出一个务实方案。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAJDIHStaf177sihotS5Gqf",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用例五：安全委员会，AI 每晚审查 AI",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWXz48Jd2WPq6sD5bYfgcZc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "和商业顾问类似的架构，但方向完全不同。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguiCLUHNDrKEHVeRKb9OtVc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "运行时间 ：每晚凌晨 3:30（错开其他任务的时段，避免 Anthropic API 配额冲突）。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgoUcnMIxjm6DK8tdn7jzK6e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "审查团队 ：四个维度的安全专家。进攻视角、防御视角、数据隐私视角、操作真实性视角。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyumdxtlEK767vO0bnRCHpc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "审查范围 ：整个代码库、Git 提交历史、运行日志、错误日志、存储数据。不是静态规则扫描，是让 AI 真正读代码并理解逻辑。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcbbAQ3SQGk4KPpSKD5IDOd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "输出 ：Opus 4.6 综合所有发现，编号后发到 Telegram。关键问题立即告警。Berman 可以直接回复「fix it」，系统自动修复。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgERtB4PgXWcnnGjwFj1sVje",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "自我进化 ：每次修复后的经验会被记住，审查规则持续迭代。有些夜晚没有新建议，因为系统确认当前状态是安全的。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgp048ZX5V9pte97uMUNQ5ie",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这个用例最妙的地方是 用 AI 来审查 AI 自身 。Berman 很坦诚：提示注入的防护永远不可能完美。但与其假装风险不存在，不如让系统自己每天体检一次。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0Hgp4m2LpDGspqdVRzO6Jf",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用例六：社交媒体追踪 + 每日简报",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSVIO8ArEYPu9dHZ9Up0fld",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "追踪范围 ：YouTube、Instagram、X、TikTok 四个平台。每天自动拉取快照，存入 SQLite 数据库。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg85hITH8GDa0OPp1HcptJOf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "数据维度 ：YouTube 按视频追踪观看量、观看时长、互动率；其他平台追踪帖子级别的表现数据。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsOLck3hen2PtTqbsXvjYmd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "双重用途",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGy7Y0a0g70L40lqhj4xkaf",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "每日简报 。每天早上发到 Telegram，告诉他昨天哪些内容表现好、哪些不好",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvJconkCtmYXjr88qEnM8cg",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "喂给商业顾问委员会 。社交媒体数据是 14 个数据源之一，直接参与每晚的业务分析",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNUlLU4Bvbc1VxSCLRaeJLb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这里体现了整个系统的 飞轮效应 ：社交媒体追踪模块不是孤立运行的，它产生的数据同时服务于简报和顾问委员会两个下游用例。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgu3zfW4066hdXitDngL4H0c",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用例七：视频选题流水线，从一句话到 Asana 卡片",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGRCO2DXcoVdIqd2daLD9lk",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "触发方式 ：在 Slack 讨论中，任何人在帖子下面回复「",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "@Claude",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": true
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，这是一个视频创意」。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxJh0pzLC6zujIHJn793yKe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "自动化流程",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgm75zMNv2WO1FZcHM2kwMVh",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "读取 Slack 讨论串的完整上下文",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvvLVLXvIq0G8CHdZUgATPg",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "全网搜索 + X 趋势调研",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvFYCBkEmo8v9Gu5o1KdQ3g",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "查询知识库，看是否有相关已存素材",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7fGgeC8mhOM2CHRm0cyiTc",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "查重，检查是否和已有选题重复",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWtawFAFJextuA99ywhSupd",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "生成完整视频大纲：标题建议、缩略图建议、开场 hook、视频流程框架",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtaPUmcdmyX2X41LGFt8OzK",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "做一个「这个选题值不值得做」的评估",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQG7VHqqaxaPQ2fjbh9M8te",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在 Asana 创建项目卡片，附带所有研究资料和链接",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTocL9zxEqhcrIrSWYcbWYc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Berman 在视频里演示了一个实际案例：Quen 3.5 发布的消息被分享到 Slack，有人标记为视频创意，系统自动生成了完整的选题包，包括 Twitter 上不同 KOL 的讨论、开源社区的反应、以及建议的视频角度。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggKv2DtUHPq1diMletwkvtf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这个用例的价值 ：把「灵感捕捉」到「可执行方案」之间的距离压缩到了接近零。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9re83ix0WdSpvdDO9TVNHf",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用例八：记忆系统，让 AI 越用越懂你",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYvja5q5IMjUEZ42DOeI5Ed",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "大多数人用 ChatGPT 的体验是：每次对话都像初次见面。Berman 的 OpenClaw 不是。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxY16nbfPdybydfSyLOUTnd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "记忆层级",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglka67qvpxQNueJklOOjFlc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "对话记忆 ：每日对话自动保存为 markdown 文件",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgf3Il9tzfGe1IlKerfF7yDc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "偏好提炼 ：从对话中提取写作偏好、语气风格、关注兴趣、股票追踪、邮件分类规则等，存入",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "memory.md",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtzoGq8j7miDaO5mQL2GkUg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "身份更新 ：每次新对话开始时，系统读取记忆文件，更新 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "identity.md",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": true
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " 和 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "soul.md",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjKj7NWnr9jEBFOXO9l1AwM",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "向量化检索 ：所有记忆文件向量化，支持 RAG 搜索",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPk01bZH416JKQBcdgefD7n",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "场景化人格切换 ：Berman 给 AI 配了两套性格。Telegram 私聊时像朋友，幽默随意；Slack 团队频道里自动变成专业同事风格。这些都在",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUUmzcnxqSvF0OeFiL8edJb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "里定义。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgk826GGTFbKf2AtSDa5enUb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这个用例让 AI 从「工具」变成了「伙伴」。它不只是执行指令，而是真正理解你是谁、你要什么。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqkDFIPHWjtaWMwMFI1tTue",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用例九：食物日记，AI 帮你发现过敏源",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOVFTMQNTzudYW2WQEnqJMw",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这是最出乎意料的用例。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAnRU66PuOmi120NbGUcqQg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "使用方式 ：拍食物照片发给 OpenClaw，它自动识别并记录。每天收到 3 次提醒，汇报胃部感受。所有数据存入食物日志。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjVjQq3nTRTCU6IlCHIgDRg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "分析能力 ：每周触发一次分析，交叉比对食物记录和症状报告，识别模式。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDpYaEpsLhUc09YwDOVbbhi",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "真实成果 ：系统通过分析照片中的食物成分和 Berman 的症状反馈，发现他的胃对洋葱敏感。这是他自己完全不知道的。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZkpRZx9ST5S88YAXDqygxb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "一个聊天机器人，帮人做了食物过敏原排查。这在以前需要去医院做专项检测。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzbU5gfw2SmDfIKoa0QzSod",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用例十：定时任务 + 自动备份 + 自动更新",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGcdemqfNvO40GrzlIkwNBf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这部分不那么性感，但可能是最重要的基础设施。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggMtdKWsDGR7S0c8rx2vCfd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cron 任务清单",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgomMCUOe10igJb8bdZs3HFf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "| 频率 | 任务 |",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgx4Mimqck8YRRPGlhEtivaf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "|------|------|",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgScIbEy8dQceXBUupDgjMwc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "| 每 5 分钟 | 检查 Fathom 会议记录 |",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlga375rfvpfGgaO4ABfqJPce",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "| 每晚 | 文档同步、CRM 扫描、安全审查、日志摄取、视频数据刷新、晨间简报生成 |",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlge1KVuyJjtFXIqV9WSsdQqb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "备份策略 ：所有 SQLite 数据库自动发现、加密、打包上传 Google Drive，保留最近 7 天。代码每小时 Git 推送 GitHub。任何备份失败，Telegram 立即告警。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSQzieQ8eNwNdgHkHQsfWXc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "自动更新 ：每晚 9 点检查 OpenClaw 新版本，展示 changelog，一句「update」就自动升级重启。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHKZ5H5Ug5vQT14zKk9IwZg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "API 追踪 ：记录每次 LLM 调用用了哪个模型、消耗多少 token。甚至下载了各模型官方的 prompting 指南，让系统根据实际使用的模型优化 prompt 写法。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguUDNX6orH3w4EyrX5TvZyg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这套基础设施的设计理念就一条： 你睡觉的时候，系统在干活；系统出问题的时候，你第一时间知道。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguJeEflAIoLl8L8nZcWZpUb",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "图像和视频生成：按需创作视觉内容",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgD3OJ8KzT3MQ4tnB6NqnSqe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Berman 把 Veo（视频生成）和 NanoBanana Pro（Gemini 图像生成）接入了 OpenClaw。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglMrAWoieAA8eJgzuLINYzf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "使用方式很简单：在 Telegram 里说「意大利托斯卡纳别墅视频」，系统调用 Veo 生成，自动下载发到 Telegram，然后删除本地文件节省空间。图像同理，告诉它想要什么，NanoBanana Pro 生成后直接推送。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgImHoGlNTCwDIdhUqIXDaac",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这个用例本身不算惊艳，但它的价值在于 可以被嵌入到其他工作流里 。比如视频选题流水线生成缩略图建议时，可以直接调用图像生成来出图。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgmt70NLVjA8ugZF0h7YJP6f",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "回到全局：这些用例之间的关系才是重点",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8EtBOT1LNbvpuMhJRIS4hf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "如果你只看单个用例，会觉得「挺酷，但好像也没那么特别」。ChatGPT 也能帮你查联系人，Notion AI 也能帮你整理知识库。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcq8XA3EnTmHpfZKkv0Bdlh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "但 Berman 系统的真正威力在于 用例之间的数据流动 ：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg03kss6VVXbuSu3PnfjMr3g",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "CRM 数据 → 喂给商业顾问委员会",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg18QSwiLnjJkyvlWzzgVWk8",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "知识库内容 → 喂给视频选题流水线",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSY3aqrT0Ma4Vk2nprMKJfh",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "社交媒体数据 → 喂给每日简报 + 顾问委员会",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEA6cj3tE4AMfgrAimFOwYb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "会议记录 → 喂给 CRM + 行动项系统",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2SIEXDIlM5M86FbMoatv2c",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "所有模块的运行日志 → 喂给安全委员会",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKwX4SpwAXARqnwG2d5k0Vd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "每个模块都不是孤岛。它们构成了一个互相强化的数据飞轮。这才是为什么一个人 + 一台 MacBook 能产出一个小团队的效果。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgD3Jpq08waBaJnZNr5toujm",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Berman 有一句话我觉得特别到位：「你会开始看到我搭建的所有不同部分是如何相互作用、让彼此变得更强大的。」",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgd4TDhZlyzvYSsIfRh6e9bo",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "安全提醒：跑之前先系好安全带",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkaqiWqt7zLazShPIVxJyvd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Berman 在安全上下的功夫值得单独强调：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJuHUcLkXpx0Csee1HfOThb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "提示注入防御 ：所有外部内容视为潜在恶意，入库前确定性代码预扫描",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEdhzHMZlS1JEIzVvsdvEFc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "权限最小化 ：邮件、日历只读，不给写权限",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgX35g1cn3BjObE0BirDRJDh",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "输出控制 ：总结不逐字复述，自动过滤密钥和令牌",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLaxAsjr2oWkLVu0o72Jk0c",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "发布审批 ：发邮件、发推文前必须人工确认",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgccLMbK3wNI7a2bUxo2Wazg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "加密备份 ：双重密码保护，.env 文件永不入库",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxeeU0Ke3oMZgU4CkdVbTQe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "他自己说得很清楚：「没有完美的安全方案。大语言模型是非确定性系统，完全防住提示注入是不可能的。但这不意味着你什么都不做。」",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgH4NMZlxhQ9x9RqYkjBGXhg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "看完这些用例，我最大的感受是： AI 时代的「全栈」不再是指会写前端和后端，而是指能搭建和管理一整套 AI 工作流。 Berman 不写代码，但他对自己的需求有极其清晰的认知，并且知道怎么用自然语言把这些需求翻译成可运行的系统。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUTh0vR3qw9AiHEV8kKo2Eh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "基于 Matthew Berman 视频「21 INSANE Use Cases For OpenClaw」，播",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Podwise",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "link": {
+              "url": "https%3A%2F%2Fpodwise.ai%2F%3Fs_aff%3DYANHUA"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3n4Ymi6arBzNxTH7vgDQk5",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "整理，原视频包含每个用例的完整 prompt，推荐观看获取。如果你也在用 OpenClaw 或类似框架搭建自己的 AI 系统，评论区聊聊你最先搭的是哪个用例。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

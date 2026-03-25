@@ -1,0 +1,3572 @@
+{
+  "status": "ok",
+  "doc_id": "Bro6dKIE8oCPICxP7vAluviEg3b",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/JpyewCw4NiUx9VktygKl8Zihg6c",
+  "title": "社区组织者操作手册-3月21日 龙虾街区盛大开业",
+  "revision": 153,
+  "total_blocks": 153,
+  "translatable_blocks": 152,
+  "blocks": [
+    {
+      "block_id": "Bro6dKIE8oCPICxP7vAluviEg3b",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "社区组织者操作手册-3月21日 龙虾街区盛大开业",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaXERqvyiBzcZ8x5c5bd5Kd",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "活动概览",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyvmNi7ROTTRBRrBn0jDCDf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "活动名称",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：小龙虾街区线下活动（杭州站）\\",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0V92Ta48iMxJqK9OuQmP3b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "活动时间",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：2026 年 3 月 21 日\\",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaUBg0nSqd1pkjhIo4iK9Bg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "活动地点",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：云谷中心\\",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgR2PisamKHRa0Rai2HLrVTd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "核心亮点",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：百炼新版本内测 + 200 元 Pro 版代金券“0 元用百炼”",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglH8pcM3J2t5vt7u1J2JsKh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "---",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgz7skX0f11rXceD392IDxAg",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "完整活动流程",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYWurazkpuHBpMVbUrxbetE",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "阶段一：签到准备（13:30-14:30）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQ4nZ5aYCxtdxp3nW99kawc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用户动线",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghvjCqIv3TG1K1pirZ5Mt7c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1. 到场签到，工作人员引导完成百炼账号登录",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqzX5RZW9zlTS38k5j4y6Cb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2. 采集用户 UID（用于后续代金券发放）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOtDmg5s2j7BMxseWryFg3f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3. 发放“龙虾档案”纸质地图（含活动流程与打卡指引）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgK9bAIFw8qwkoVfOR0CEwIe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "4. 引导至“待产包准备区”，通过 KT 板/电视屏了解活动规则",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTs6xnncNcjOtvW1KDwlFon",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "现场设置",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0w4ozgfc4FqyDkCY4O2yAb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 签到台：采集 UID + 发放龙虾出生纸",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaJv6oyvXkovdCURxrxw9kh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 待产包准备区：入口处 KT 板/电视屏展示“出生前准备”指引",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFilEe1BrinWK5LqSkoG4if",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 倒计时屏幕：可移动电视显示距离“出生仪式”剩余时间",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg11nuLPjNjSDwSDhWYx4bOf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用户分流",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgY8lOrW7n5DCUUimBA77aDe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "新手用户",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：引导至分享区，参与产品介绍",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOyJvTUUrw4iSnewNs8F8nb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "资深用户/饲养员",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：可直接前往黑客松区、技能套圈或医院摊位",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRMjiNccGZdqdoZtN8I6S95",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "---",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWWtCPnvZpwAw5VUA8c4dtL",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "阶段二：小龙虾出生仪式（14:30）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSF75w173mFuAWXTJEnrF7P",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "仪式流程",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFMo1ujsN7F2Euic4CWtdpc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1. 远长主持开场",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8EKGo9TmJ5untzSDLXl0ng",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2. 完整介绍活动流程与玩法规则",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgb9Kg0XyLPnW54OqRtFPf7e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3. 宣布统一发放 300 张 200 元 Pro 版代金券",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHddC6llS2UpT52NosMPJ7c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "4. 现场用户通过个人 UID 线上抢领（绑定 UID，不可转赠）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZdgGwu0f9RjNpTs8aF3LTl",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "代金券使用规则",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJDEwZKkUjhNBF8Ye4rc2hb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 新用户：可抵扣全款，实现“0 元用百炼”",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvUz06ovoc611jHGXM2ynbb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- Light 版用户：可升级至 Pro 版",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguTwPRHPJX3233HOOvaPnIg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- Pro 版用户：可续费抵扣",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNQAKSeF1yHRTWu878JXDFd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- Coding Plan 老用户：可直接激活使用",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgozpoDRQKVpKxp6OpHEs2Ub",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "--",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2xHD09GzeRZh0aq8iyKNhg",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "阶段三：自由体验与互动（14:30-18:00）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnADJfumLuEmrz14kQhpOjE",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "核心玩法区域",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghiObZ4y1EphTybP8v0GNDb",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1. 黑客松区",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2UJ5lKvy6LTM0PnWHCjuRe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "任务",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：完成一个 Skill 开发并提交上墙",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNpyIlcGUa9mLxvCVmleYxh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "奖励",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：龙虾玩偶或钥匙扣（完成即得）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgj8YyBu2mOgTq35Cxfy1XMf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "加分项",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：愿意上台分享者可获得“龙虾大礼包”（T 恤、卫衣、日历、双肩包等）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzk5gahup5MMrk6YDBDeoHf",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2. Skills 展示墙",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3Sevg2KDEf91pI8xvQxqef",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 使用 A4/A5 空白模板，用户手写填写：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbGlXS6l88yDTzoM7Xz1huh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "  - Skill 主人名",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2JB5T8vFfCNsUJo0Vu3lvh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "  - Skill 名称",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgejzps7rfblZzsChvSKp8xh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "  - Skill 介绍",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTryiPQ61pm0sG107Ej0kHf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 写入 NFC 链接（现场提供 NFC 标签）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7g3fWMtIptwYpk448VWYOf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 张贴至专用展示区",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfjPtDVa47fvjLSkU1gNgUx",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3. 技能套圈区",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEkZhe4A9LsFUzNm1XGHDGb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 互动游戏体验",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgon7F6RIgN1ndg1aGeyTonf",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "4. 医院摊位",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRaNUTKmT6eluO8Znl0DKcJ",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 产品咨询与技术支持",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5Zq0QvgnDW0DrAaMEwEUOg",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "5. 开发者分享区",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgc6fkMzMx1AlqNjVcQIgh0f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 远长产品分享",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQbpQhIxQwfvw6e1YWV5beg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 2-3 位开发者代表分享实战案例",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdcYygnQ4OUCDHwlHU9Hrkb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "---",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzfOPUDB9VRAd6wyukWiKQh",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "阶段四：晚间直播（19:00）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgR8RnX8o3632y1jHFA0qv4c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 从现场分享者中遴选 2-3 人参与线上直播",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTOklw5VOYRkWlGib1PnWOb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 直播脚本需提前与银海、远长及开发者对齐",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQZADLShVyh5DKCv4FwA1cl",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "---",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwbqKWzWO2UjN1s9DfAx9fc",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "技术能力说明",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguwNu9cGHQVvJ0KFyWS5bie",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "百炼内测版本（3 月 19 日上线）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvYRbBjIyeI01B5k7BHnQrd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "内置 18 个 Skills",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNN9BU59vtT9yW5lKTCNdab",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 搜索、信息检索",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXhmU8ZEjhA1XqeIzmzRqZf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 文章生成",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLNBeq51SrpJwfT98eHz86c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 图像生成（通义 Image 2.0）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkUosIdtxnOe3IQq8DnxWyh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- TTS、ASR",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1cEUKbiO8Cupvu3K3dweDe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- Y2.6 等",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMaHXtUffVcEEz15Gb8oaJb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "技术特点",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg19nnxBneWiig0ArCtfSVHT",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 所有功能调用通义系列模型",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRUkcAk54DA2iHuf4Ev3A7c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 图像生成需用户手动配置 API Key（月底版本将支持自动读取）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnVZfWJpysqe2y4znkJf14d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 支持用户自行配置其他厂商 API Key 接入",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8I3vRojlFKoV11sTnLGQPd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "当前限制",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgoFrOrB3Z6F2dzeZR8aiohg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 网页生成功能暂不支持在线部署",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNRHEIzC0bhNONdj4WT6jkg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 无本地部署链接",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0SxOyIXhFcgDuEvpKhAmig",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "---",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSr80nVoO6mHoFaFa7FBkzg",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "物料与场地布置",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgER9hzlloqxe8637rPBZkHf",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "电视屏使用方案",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgybSe8ijbCDisw6Uki6juEg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "门口屏幕",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：倒计时 + 待产包指引",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8KGTlkHeehtnaQs1ZfLnld",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "主屏幕",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：PPT 轮播展示活动规则（便于动态调整）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg64UItiqI6l3IkAjOt45p4g",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "KT 板内容",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOq2e1QouWY8Lk5ORK3A1kg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1. 待产包指引",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfhmYhhYBbFozFsFlzw6bOf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2. 出生仪式倒计时",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbshiOSImtutbTISDnD6xo3",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3. 黑客松兑换规则",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgexMcIlBihD4ZlMIVmW2hec",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "4. 区域导览图",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqcURlsTw0FEe5PiRWQlQ7e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "5. Skills 空白海报模板墙（供用户填写）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgu3T0kWOhnnhqrGCz6O8igf",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "礼品准备",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDZTDpjAk3cJ74uyJ9BG9Rd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "普惠礼品",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "（完成即得）：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0OLeFP6Dav0hfkNBFqbIGg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 毛绒玩偶：50-100 个",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgV3RuB5nNjtixpMRDDNtV0d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 钥匙扣：200-300 个",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9pDYnx5utZmCQ2nJfdBq0g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 贴纸、帆布袋",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsJkeLpygh3X6HylnigqVNh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "高价值礼品",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "（分享奖励）：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg32WklQSUra2ti8SRifo5rh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- T 恤、卫衣",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgB2KtTeGfDYPFQkrnaJjPVc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 定制日历",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQqhzKFEHoLNG8sXr3knRMf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 双肩包",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguIhWgDubsDEQBl7UdvhWSg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 杯子",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfx71o2jmIwrOCkqMP3YdZc",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "印刷物料",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbFlaejEpUbLNj4UZjo0bMc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 龙虾档案纸质地图",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg46dW9Dx9GahjTwvq7L1d9f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- Skills 空白海报模板（A4/A5）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2JhUpSgMVrsfCsvzRgIiMd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- 活动海报（含报名二维码）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtXwplUbE7gim7WM8ypSgLf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "---",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgT0LFqWSdZo4EUSIe5OoWxd",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "待办清单",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvH519sOWbtOJrsHCev2sqh",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "紧急（3 月 18 日前完成）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzpb92fpzrxf3mM87pYjfXb",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "设计类",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3YbYH8j3o11WScHLG92Fxc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "确认主 KV 设计初稿并推进延展",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "（负责人：怀远 + 设计师）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZ5Kd3i947OJJauXlI6vwo7",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "整理所有 KT 板与物料文案并交付设计",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "（负责人：怀远 + Helen + AJ）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnREf8C6xXyCIL3pR5WNXmd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "设计并印刷 Skills 空白海报模板",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "（A4/A5 规格）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwa2BzQiNnmzng2xbtfsuSc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "完成活动海报微调",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，将报名二维码打在公屏供训练营使用",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6Jg3mqi1Iqw6Yfa4GH2Reh",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "场地类",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIQebjiPo4dcony1JC4c6Kh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "协调云谷中心确认可用墙面与电视设备",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "（负责人：怀远）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg07oOUfi5gOnDChdd2k3Roe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "对接云谷中心申请专用上墙区域",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，用于 Skills 海报成果展示",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTBuN1bg9I6MfjeCZ4Lq8Wb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "设置临时 NFC 张贴区",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，确保黑客松成果可即时展示",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3rP0T9Z1CJrEx5mN5SELPc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "完成线下物料搭建与现场动线验收",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "（负责人：庄庄 + 怀远，3 月 18 日下午）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgmw9H3k2tdmkCIsFFeXmxLe",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "规则类",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUs1g7pkHSG5cA3jRuRbdSL",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "书面固化龙虾接生大礼包与黑客松礼品兑换双规则",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，并同步 KT 板/电视公示",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgubU2LYUe2XQq5shug1lBWh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "明确礼品分发规则",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，按上台分享/贡献度分档打包龙虾大礼包",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgst1RqPPqayDofXCKije8rf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "确认两台电视使用方案",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：门口倒计时+主屏轮播玩法规则图",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUYZzP73fUaHiPHrubsJLAg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "---",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOzPUrARfADLxgq58cyNtCf",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "重要（3 月 19 日前完成）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPpfHHt4DTfnAVScofVLFRb",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "技术类",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgltYhIV7j7azfknnFan2DKf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "19 号上午联合内测",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，银海负责上线后定向邀约开发者进群测试",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWesswUwrPzqbPGzRDQ4Ebs",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "发布内测群二维码并组织首批测试",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "（负责人：银海）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7VjyQWJ8ER1K9wvH5NGAib",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "内容类",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfalxbMxgCHxXqUowcBXUKc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "确认开发者分享名单并组织脚本对齐会",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "（负责人：AJ + 银海）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgm8OEhQaxpKJxyuBsjrVDkb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "完成直播脚本",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，与银海、远长及开发者对齐",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0FXDEsRs39M3gDXhJ1dsid",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "宣传类",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYVQsu56HsCJkR0tQ6OECnf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "明日（3 月 21 日）训练营中预告 21 日杭州活动",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，并收集 Skill 需求许愿池",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqHUBumCQtJgwFYpoKBC0ue",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "---",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnUHa1uCs1vJMg9LwpZNKsb",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "活动当天（3 月 21 日）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYfDnVMuqJLHDvvxZXRvngp",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "13:30 签到阶段",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgI8clTB3fyzHZCSg2u8oLNf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  设置签到台，采集 UID 并引导开通百炼",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAjUJK7Ibs2MPFJ861uinWf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  同步发放龙虾出生纸",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcQVw5HXn30h7oz7loTYQie",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  门口倒计时屏幕启动",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgz6RMI5LLfNZ3N1rteSJNtc",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "14:30 出生仪式",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGmMPsutbZW0OlBnezf6EVb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  远长主持开场，完整介绍流程并引导开通百炼、采集 UID",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFdMzmj0MY21bZUPLPsWwpq",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  统一发放 200 元 Pro 代金券，仅限现场用户线上抢领",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPTSJdFrzkdgFCTFeOanrtb",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "14:30-18:00 自由体验",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgErNW979jULKZVlv5jNmm2f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  黑客松区运营",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgpWSrcg0UW7SD9RDQhyopGg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  Skills 展示墙维护",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOB0HOoX4nk2PBoFhbKRqQf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  礼品发放管理",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghuUYHsbRYAIjpbI5eA3JDb",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "19:00 晚间直播",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgh74hZPZHeTC5NcSqcsxqXf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "- [ ]  2-3 位开发者参与线上直播",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJeEC8HKFJ9NhdXPZxsLEBb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "---",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDgcNOkvryBMpIpCiflH1Rb",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "关键决策共识",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdW8eWF4F85glHi8G3nFF8g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1. ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "代金券发放机制",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：采用 UID 绑定方式，仅限现场用户领取，实现“0 元用百炼”核心卖点",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4oBxE2ZaStS6xFlnaeiTlf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2. ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "取消独立装机环节",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：合并装机与福利发放，优化用户体验",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglFGXAggfdaXZFNnamovJ0e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3. ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "简化礼品规则",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：取消积分制，采用“完成即得”模式",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSoaZ9Te7e9O4xmmWhEdAJe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "4. ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "电视屏优先投屏",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：关键规则通过 PPT 轮播展示，提升信息传达灵活性",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgS4fPE62nKONOxfCEXi4pMd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "---",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIF63dWHZ9usAXucPZtADeh",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "风险提示",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgksWfyh85KqgGFrwz9D3Zqc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2. ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "动线风险",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：取消强制装机后人流易分散，需加强现场引导",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCuaafEziou4LLwHU3VyO2b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3. ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "墙面使用",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：原定软木墙 4 月才可用，需确认临时方案",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZ1iDfQ6q8bmJBnUc9DFjjd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "4. ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "设计压力",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：主 KV 设计时间紧张，需一次性整理完文案减少反复修改",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

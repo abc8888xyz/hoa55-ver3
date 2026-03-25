@@ -1,0 +1,880 @@
+{
+  "status": "ok",
+  "doc_id": "AJCedlc60oeKT8x6WJFlhoJWgKc",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/EUBwwwpsUiknOZk0452lylgpgNd",
+  "title": "3.22北京 | OpenClaw OPC Day：打开眼界，玩在一起，一起创造",
+  "revision": 45,
+  "total_blocks": 44,
+  "translatable_blocks": 42,
+  "blocks": [
+    {
+      "block_id": "AJCedlc60oeKT8x6WJFlhoJWgKc",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3.22北京 | OpenClaw OPC Day：打开眼界，玩在一起，一起创造",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9BGyfNJcpEoPWMthjWQGVg",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔗 原文链接： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://mp.weixin.qq.com/s/5UmbV7qI...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5UmbV7qIO4e9E_53XyovyA"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg43T9JOFyUfBfVWuInxpI7b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "原创 超越之路 超越之路 超越之路WAYTOUM",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026年3月19日 15:55  北京",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTDVLPLQDyDwPWqlG63gOUc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🦞OpenClaw 点燃 2026年AI创业的第一把火，Agent 商业化窗口正在打开。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxmIiLKS8gajHq9sRPnkVYb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "有人说这是泡沫，有人说这是奇点。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6mB4IpaoYsmeZchoKuDOmC",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2026 年的 AI，究竟走到了哪里？ ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMWBEt8JbVLLoPD7Zp09Oqe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "没人知道答案——",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfwxAt0sRX1Sr15mxLPlwnf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "但有人，正在现场找答案。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQY7zW7rOLbfe5LneXR8vjj",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🗓️ 活动信息",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgb1xDF0Sf9vF6rpWtEkwnAh",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "时间 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：3月22日（周日）9:30 – 21:30",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIXWJ1euLJ4mPzjHSLhQe4f",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "地点 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：北京 · epark（花园路社区）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRf4OzV2xhO4QPawG28AyXb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "规模 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：限 160 人 · 免费 · 报名审核制",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyHH8UQhvVzgSJYsVSE1Cmb",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "✨ 一天能发生什么？",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGQ0VgpczPaue3FTJVV8mRg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔭 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "OPEN · 打开眼界",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlge8yl74GF04RlUFJr553iEd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "MiniMax、百度秒哒、智谱、知名美元基金…… ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHixkJinfCbTs2o9LXzTM4e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "不讲 PPT 里的未来，只说一线的真实。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWAZNHpAdXdS8msGOQXE8zc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "圆桌压轴：「你的Token余额还剩多少？」 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgviEyvkXnju0TG5GzHBTyle",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "当面问，当面聊，当面给你答案。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghAchF3KiTGE8juhvM4n0Rf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🎮 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "PLAY · 玩在一起 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnsjOHWgNudyTHfcaT3svje",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Demo Show + 主题分享，独立开发者 × 创业者 × 产品人同台碰撞。 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgni8ewi3xpDhGMSoJlTTKqt",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "ChatExcel、得到 Get 笔记、PingCAP…… ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNjds6e7yKlBYd4Znz1LT3g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "不是来讲故事的，是带着真实案例来秀的。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEhzluP3JzaGOQc2dM0yOif",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🚀 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "CREATE · 一起创造",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNo77xPqavazlaiQx8V7o2g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ultra Maker Hackathon 2026 北京站现场发布。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRDDBtCJj6p7b3WTNrv4Old",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "不只是听，是真的要一起做点什么。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9u8G1Litc1Z2PxaFkUBoLf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🍻 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "AFTERPARTY · AI 创造者夜话",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYB6ZB0pLeApycOUWtGTh8b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "白天聊 AI，晚上聊人生。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJQSMc7bKCYLE2RwlgyO9Lg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "最好的 connection，往往发生在散场之后。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrU2NsDZ8fAK513YLx1dRDR",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "👥 你会遇见谁？",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEkzj7TSc2Ts3shHTFlzN3g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "投资人 · 大厂 PM · 独立开发者 · 超级个体·AI 创业者 · 技术架构师……",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZqWjv1udTSSQcjwKKCcd4d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "一个房间里，刚好都是你想认识的人。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5TP59KfW2PRTlyxMEUmWrh",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "📌 报名方式",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbiXIYKZzBgEQ7S9nc8hWKg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "免费入场 · 限 160 人 · 审核制",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHYancUOQH4OZzpivQmXFQc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "扫描文末二维码报名",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgW8oKcFb2KBO9ojkJz3FMkM",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "合作·演讲·咨询： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "fimmo723",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7froBQhDgW441FaE3HGWZd",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Open · Play · Create",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKh0nWoqGQZ6klMVNCyCHJb",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "打开眼界，玩在一起，一起创造。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2LN8BO9CpVVHcrpCPcvash",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "周日见 🙌",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgA6MEOYCQpcalhzZEC6e2gh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "⚠️ 友情提示",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6mSdcSK8gneMqLZ8eEubwh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "本次活动分为：上午场、下午场和AI创造者夜话，采用分开按需报名的形式；",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSPiY7RrYikTXCdXNBUysUP",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "报名通过后可在活动行查看详细地址；",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMx1r2buWaqQx3wqbqxuDye",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "报名手机号请与微信绑定手机号保持一致，方便快速进场。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

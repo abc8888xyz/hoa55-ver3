@@ -1,0 +1,1786 @@
+{
+  "status": "ok",
+  "doc_id": "PmyIdutugoSFGExnhq3lfRsfgPc",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/XJbZwss9KiSTTYkX8EylgeJHg4c",
+  "title": "Sim：moltbot超详细保姆级教程（原clawdbot）--discord版本",
+  "revision": 178,
+  "total_blocks": 136,
+  "translatable_blocks": 86,
+  "blocks": [
+    {
+      "block_id": "PmyIdutugoSFGExnhq3lfRsfgPc",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sim: Hướng dẫn moltbot cực chi tiết dành cho người mới (tên cũ clawdbot) -- phiên bản Discord",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg857tciKi2HvycaK9Mm8Xqb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Các bạn có thể triển khai thông qua Alibaba Cloud Bailian ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Coding Plan ",
+          "style": {
+            "background_color": 13,
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "để triển khai",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ":",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguL6gLx2tbu6FkeY8nEIchg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mua lần đầu chỉ từ 7.9 tệ, gia hạn giảm từ 50%, hỗ trợ Qwen3.5, Qwen3-max, Qwen3-coder, GLM-5, GLM-4.7, Kimi-k2.5 và các mô hình khác",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBEDP11EYBvrdhWAeOz7Gqe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "👉 Nhấn vào link truy cập ngay: ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://t.aliyun.com/U/0iiOuy",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdp0Ojkeket1yXVmgK7fuCg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "👉 Xem hướng dẫn triển khai chi tiết: ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://t.aliyun.com/U/MNkA9b",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNs5A18wRGNOeIOhQJdEiqb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chỉ cần tối đa ba bước, bạn sẽ có trợ lý AI hoạt động 7x24 giờ, phản hồi bất cứ lúc nào",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4du9YiR586VF00Pd07OEkg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vừa test xong skills, đã thấy mọi người đang bàn tán rần rần về 🦞 clawdbot (giờ đổi tên thành moltbot)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZBWpTJuUEL5RmMYqTHBtwd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Các kiểu như moltbot là nhân viên AI đầu tiên của bạn, phân thân kỹ thuật số...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7KwXwEyHh03oqc4FuTnECc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Thậm chí mọi người còn đặc biệt đi mua Mac mini chỉ để chạy moltbot",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg48iGpV2TPZcHOxNw7dvzId",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đến mức Mac mini hết hàng luôn",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfD01Du3Tmml4eHYqOgxKpf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hơn nữa trên GitHub đã có 93 nghìn star, vì quá hot nên cũng bị Anthropic kiện, đổi tên thành: moltbot",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0PWjBSmMeclK595337uryf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lý do là vì tên cũ clawdbot khiến người ta nhầm tưởng là sản phẩm khác của Claude Code",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBY13T38QzK1CM7GdqYRvoc",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "「Nói về bối cảnh trước」Moltbot là gì",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXB5H65SwIj13mHTfqYp7se",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Địa chỉ GitHub chính thức: ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://github.com/moltbot/moltbot",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwvdyYk9Lti4lL1fjJ8HZ9g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Theo lời giới thiệu chính thức: moltbot là một trợ lý AI cá nhân chạy trên thiết bị của chính bạn",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcbHigJtwNbIPjmjBht0FGc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Theo mình, nó là một Agent cục bộ có quyền hạn cực cao, có thể được kích hoạt trên các phần mềm chat khác nhau.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgiPIli6qdkx4wIYdXkr3mBd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quyền hạn cực cao nghĩa là nó có thể dễ dàng đọc các file trên máy tính cục bộ của bạn, thậm chí chỉnh sửa chúng",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqW0hyHRXc798sHxj4NHQLe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đó là lý do mọi người đều đi mua Mac mini, vẫn không yên tâm giao máy chính cho AI",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgasVJxOaqHf0o3LDaDYIQXd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhưng để thử nghiệm, chẳng lẽ đi mua một cái mini, lỡ chơi xong hết hứng thú, bỏ ra 3-4 nghìn tệ để bám bụi thì không đáng lắm.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvFJCLrkXq608Oeypy1S2ke",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vì vậy chúng ta chuyển sang dùng máy chủ đám mây, chỉ 20-30 tệ một tháng, còn có thể chạy 24 giờ, tiền điện cũng chẳng đáng lo.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDW7KXda66KI6F5G1y33tKh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hiện tại Tencent Cloud và Alibaba Cloud đều đã hỗ trợ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgmwclHLHvb8Iv0pNdMSg9fc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hướng dẫn sẽ sử dụng Tencent Cloud để làm ví dụ, có triển khai một cú nhấp, không cần cấu hình môi trường phức tạp.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvzJSTIQ8ewnBPrtfbAsi4d",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "「Cách cài đặt moltbot」",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3VMrJaBbKPCqlk4wMFeDmb",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mở máy chủ đám mây",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgREUmqa5KWWvITyVLUOiGzd",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trước tiên vào Tencent Cloud: ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://cloud.tencent.com/act/pro/double12-2025?fromSource=gwzcw.10342314.10342314.10342314&utm_medium=cpc&utm_id=gwzcw.10342314.10342314.10342314#MS",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJ8ReZs8qg5JpHnXMB0iAue",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tìm Lightweight Application Server, cấu hình tối thiểu chọn 2 nhân 2G trở lên, ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "khuyến nghị chọn khu vực Singapore/Hong Kong",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ", đừng mua server đại lục, có vấn đề về mạng, mở mua một máy, nếu chưa xác thực danh tính thì hãy đi xác thực nhé.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBGQK6nJulaGEGFYQ8k8tHc",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhớ chọn ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "image moltbot",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgA9EyYpf4PRv2FtCKZAXPPf",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau đó vào góc trên bên phải trang web tìm Console để vào, tìm Lightweight Application Server",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQxgBM6M0SNCKMJKLXX6GD1",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đăng nhập máy chủ đám mây",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgblRh64Xz26HrI98C23hC5b",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quét mã đăng nhập",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg082Rg3i2cKPZ8WgtCgsDXb",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cấu hình moltbot",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjYiU5JIa2bbspG9g6INYzg",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhập lệnh: clawdbot onboard, nhấn Enter",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3nwRZmFb34xgVYX1MkPXkd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chạy ",
+          "style": {
+            "background_color": 15,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "clawdbot onboard xong, cần dùng bàn phím để hoàn thành ",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 2,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "các thao tác cấu hình tiếp theo, thao tác chính: phím mũi tên điều khiển lựa chọn, Enter để chọn và xác nhận.",
+          "style": {
+            "background_color": 15,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgncVABnGvy6fm1qY6Sjpbmf",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đây là tuyên bố miễn trừ trách nhiệm chính thức, ý nghĩa là: Tôi hiểu rằng nó rất mạnh mẽ và có rủi ro lớn",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgB2KbqpknWifPBmK6XV9p5d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đó là lý do mình khuyên cái này không nên cài trên máy chính, hãy tách biệt môi trường",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2VBTtUtXo8W413VHPx0VAd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chọn ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Yes",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 2,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " là được.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgw92GTagcfb3LApUSvWyYlg",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chọn cái đầu tiên: QuickStart (khởi động nhanh), thực hiện một số cấu hình",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDp4CCt4G7zi3U3nR53yz3d",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ở đây mình chọn Z.AI (Zhipu), trước đó đã chia sẻ skills với glm4.7 nên ở đây tiếp tục sử dụng",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7VlJFS8wdhQaDiVw0R1kJe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bạn nào không biết cách cấu hình, có thể vào: ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://mp.weixin.qq.com/s/ee4iIdFLYKtr4VKVoz2Ynw",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " xem bài viết trước của mình",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwd9RYXykGLoePdaj96nxzh",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhập API key của Zhipu",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlge6bspYGRR5C1wWKEK352Fg",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sẽ yêu cầu bạn chọn lại model một lần nữa, chọn cái đầu tiên keep current (zai/glm-4.7) giữ nguyên lựa chọn là được, nếu muốn đổi model khác thì nhấn phím để chuyển",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLZMRMf2z8CpqYys09RYfIb",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cấu hình model xong rồi, bây giờ cần bạn liên kết phần mềm chat, nếu chọn Discord thì ở đây chọn Discord",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6WGBfr80ifilezlbwqjiQE",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cấu hình Discord với moltbot",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIEnUeFpaL7LLgCbS84bszU",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bây giờ chúng ta cần vào Discord để lấy token và tạo bot.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGMVvHAkmtedMuqfbLW4NOT",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vào trang quản trị dành cho nhà phát triển Discord: ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://discord.com/developers/applications",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeJMlX9UOWdq5jCM3ke0pYl",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhấn Applications, ở góc trên bên phải tạo một Applications mới",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJJ89NX5F2wObepa1nzx7Df",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tìm mục Bot, kéo xuống cuối cùng",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8GGVjDGcT0pnWRjwgSSUAb",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhấn reset token để đặt lại token, sau đó copy token này lại",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgO51bVoS5YY5KEBdQScWPZd",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quay lại Tencent Cloud, dán token Discord vào",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgc8RBRzWyV8Yny3tvXJPFEg",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau đó quay lại nền tảng phát triển Discord",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSTl0igmak7ERnV2qeLPHmd",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tìm Message Content Intent (ý định nội dung tin nhắn), bật tùy chọn này lên",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIp3nYPBhHgN4l0qvKwPKdc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhớ ở phía dưới cùng có nút lưu",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnO4LAn0pEA5WDTQ4sFucmd",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau đó tìm OAuth2",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1wrGW1c3v3egYJ2hBuPsSd",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bật bot trong Scopes, bật manage messages và read messages history trong bot permissions (quyền bot)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdKNc1BpyWQkDhwWmtk1ATf",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau đó ở phía dưới cùng copy địa chỉ này, ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "đây là link mời bot",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgv5QjgSOfb6ah22mYMAy2Oh",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đăng nhập Discord",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYw4v4iZKfOxOoziixrkhqd",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhấn dấu + bên trái, tạo một server",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGk00acVmbVWvGWrneXaEmd",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau đó dán và truy cập link mời bot đã copy từ Discord vào trình duyệt, thêm bot vào server vừa tạo",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDsO4XTOkHhQ0F3cSioj9Ie",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quay lại Tencent Cloud, chúng ta tiếp tục cấu hình moltbot",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSZgSpsqrOjlxEWjOlsxmFe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cấu hình kênh Discord chọn yes",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfgOBcMMlGswqYc1Vy6YiZf",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quyền kênh Discord chọn cái thứ hai, cái thứ nhất nếu cấu hình không tốt thì chat nhóm dễ bị hạn chế",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBs2TQZ5VUKZN8bzd571J4e",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bây giờ nó thiếu skills (kỹ năng), ở đây cho nó cài đặt là được, chọn yes",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGF3RByFbWzinYpsAnYYFOg",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cần hiển thị lệnh cài đặt homebrew, chọn yes",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgamT9muBl4EYCstN2q96RYb",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Skills thì dùng npm để cài đặt",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9lUj1KW3ZaIFGzWRDvJvJf",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bây giờ yêu cầu bạn cài đặt các skills còn thiếu, nếu thấy phiền có thể chọn cái đầu tiên Skip for now (tạm thời bỏ qua), sau này cũng có thể cài",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgg4i4dyEBoDk294c07C4SNd",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nếu nhấn Enter trực tiếp, nó sẽ yêu cầu bạn nhấn Space để chọn/bỏ chọn, Enter là bước tiếp theo",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgT9qcFb3YZFl97Zr6QvVX9o",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mình đã liệt kê hết tác dụng của các skills này, ai cần thì cũng có thể chọn cài đặt",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHUwL7AGBt3xJomY07IMnMg",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hiện ra mấy cái này, ai có API thì điền, nếu không có thì chọn No hết",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0Af50QbrYoyZ1owB6QWYrb",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lúc này sẽ hỏi bạn có muốn cài hooks không",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggy9AwumfeCKy6md5Do2BgM",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tổng cộng có ba plugin:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzWWcBjJpWyacp5Mv1bWNcg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🚀 boot-md (đưa các sở thích thường dùng, thông tin cơ bản của bạn cho AI)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg66grFq443zmkGXarPy4sLP",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "📝 command-logger (mọi thao tác của moltbot đều được ghi lại)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvYMHvSF4at7VQ09FaMpYJg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "💾 session-memory (lưu lại bộ nhớ hội thoại giữa bạn và AI)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgV3QBR1HBhi3d8cZNYo5ppf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đều khuyến nghị cài",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjjbSGsMKVI7lCjhPDxoMJh",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau đó đợi một lát, bạn sẽ thấy nó chuyển thành root@VM-0-XX-ubuntu:~# ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8H9co7gXdzxxuOeg5kbxWg",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khởi động moltbot",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2Sdx9W2bUPxaPsggDMY7kc",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhập lệnh: clawdbot gateway --port 18789 --verbose",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQVmVRQr6Bn6FeUmDzvJ6CO",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vậy là nó đã khởi động, nhưng bạn không được đóng cửa sổ hoặc trang trình duyệt, nếu không nó sẽ tự thoát, vì đây là khởi động tạm thời",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9V4BpNnG5gw2gkFA5L0hXb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nếu muốn khởi động lâu dài, các bạn có thể dùng lệnh này (tắt máy cần khởi động lại): nohup clawdbot gateway --port 18789 --verbose > /tmp/clawdbot-gateway.out 2>&1 & disown",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFqg4ibo6zGleHfwvrrdJ5g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nếu gặp vấn đề có thể nói với AI: Tôi đang cài đặt moltbot, dùng lệnh clawdbot gateway --port 18789 --verbose để khởi động, bây giờ tôi cần nó chạy lâu dài, hãy hướng dẫn tôi",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgimb7ASSnYwGDxPAtpwF7fe",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cấu hình cuối cùng để Discord kết nối hoàn toàn",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6WYeJhlN46aRhnhHrKuD0f",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vào Discord bên trái tìm server đã tạo trước đó, trong hộp chat @ bot đã tạo, gửi tin nhắn, sau đó nhấn vào tên bot, nhắn tin riêng cho nó",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgySc0f2iZukBiWRzpjcZwIb",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau đó trong cửa sổ tin nhắn riêng, nói bất kỳ câu gì với nó, nó sẽ trả về một tin nhắn",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgt1PRCiuEVJJZ2guCYpgG9Q",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quay lại server, dùng Ctrl+C để dừng Gateway, thực hiện lệnh sau để ghép nối. Trong đó, ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "<code>",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " là mã ghép nối của bạn. Lệnh: clawdbot pairing approve discord <code>",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguefKIHC7BH91paMkJzwb9c",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau khi ghép nối xong, thực hiện lệnh sau để chạy, quay lại Discord trò chuyện với bot đã tạo trên server, nếu phản hồi bình thường thì triển khai thành công. Lệnh: clawdbot gateway --port 18789 --verbose",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8Br3rdPWZ4ApYUHy8VaPng",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🎉 Chúc mừng bạn đã hoàn thành kết nối moltbot với Discord, tuyệt vời 👍",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

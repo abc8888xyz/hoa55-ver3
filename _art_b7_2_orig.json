@@ -1,0 +1,1369 @@
+{
+  "status": "ok",
+  "doc_id": "UOLMdvFeNojKh6x8J2YlbGltgpd",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/Qf4Twmp3QiBgVxkoAKHlPHDpg6e",
+  "title": "小白必看！彻底终结 OpenClaw 安装难的问题 🦞",
+  "revision": 114,
+  "total_blocks": 93,
+  "translatable_blocks": 67,
+  "blocks": [
+    {
+      "block_id": "UOLMdvFeNojKh6x8J2YlbGltgpd",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "小白必看！彻底终结 OpenClaw 安装难的问题 🦞",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0LHXxhFpBBBgx66Y62uxVg",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔗 原文链接： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://mp.weixin.qq.com/s/1pl5HqLH...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1pl5HqLH8DGW7zFptRnSOA"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglI7s1iS7QbCR5DV4XOZyDf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "原创 贾克斯的平行世界 贾克斯的平行世界 贾克斯的平行世界",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026年3月8日 14:39  上海",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3tbgROwqkyPjooLkxNGfce",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "贾克斯的平行世界",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3SvwoZN9jdHpxpfLaKhvJf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "读完需要",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "5分钟",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGqrm1s9cbhO7MUWETY722g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "速读仅需 2 分钟",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPDuf0XladglhmCkq8oUezh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "OpenClaw 本身安装并不复杂,但是由于各个操作系统上存在差异，导致很多 Windows 系统的用户在安装时候出现了各种各样的问题。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxO2Z6354Owj9WA23FWAJBc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我所创建的群聊中，因为 Windows /Mac 系统安装异常碰到各种各样问题的人，简直是数不胜数，惨不忍睹。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQsTGab8DGikU9aLUZTqRrb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "今天我们彻底把这个问题给终结掉：",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaApZNAtPw4BWV4jSnnnVUd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "第一：不再需要让用户输入任何命令！",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgy5nk2FeFrVvaOfTYObpbse",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "而是直接采用开源的自动化安装工具，通过鼠标点击就能一键安装 OpenClaw！Mac 和 Windows 实测下来准确率可以高达 80% 直接做到一键安装。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4dnhpzPiaO2YS9YQX0v55f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "第二：如果因为系统差异，你在使用自动化工具安装的过程中，也出现了异常，不要慌！",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnluMJiF8iYBmiRDunwWcCd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这里把我调试了一下午的系统提示词分享给你，把这个系统提示词，直接丢给 AI，AI 会一步步引导你选择你想使用的小龙虾模型，以及是否需要卸载重装，并且碰到任何异常问题时，全部自动化进行处理。相信 AI 的力量！",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3NSuSRRJxwMG7vduXIZxEe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "两套组合拳打下来，保证你的安装成功率高达 99.99 %",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguEUGSteJLZZRSWHGhQxAWd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "结合一键部署的自动化能力以及 AI 驱动安装 OpenClaw 的能力，说是现阶段业内首创，没毛病。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkwx0npmWXcQPThwAnlWF8e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接下来，我们按照顺序一个一个来。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVnQuLWEZLqn49kwHFfaXoh",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "/ ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 4,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "安装自动化部署工具/",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKzLEWXp1GGBuLt0JtTeM4d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cherry Studio 是一款国产开源的 AI 助手平台，集成了多模型对话、知识库管理等一系列功能。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvytfg7OgePIRLJZeMjih8e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "由于 Cherry Studio 是开源工具，所以你不需要担心在使用这个工具时的隐私泄露等问题。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguTQEtdaDBk3IXGzyu86iHf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "访问： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://www.cherry-ai.com/download",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLwYoVilT5yEbfcuu7002qh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我们直接选择适合自己系统的版本进行安装，安装完成后页面效果如下。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjRRsELltLBpmN38nNmVxHg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "此时我们点击点击右上角的设置按钮，配置对应的模型 API KEY",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguL8dJWcJRaCFokcDUnv3xb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "关于什么是模型的 API KEY，以及如何购买 API KEY，可以参考之前的这篇文章： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "OpenClaw 保姆级教程：你要知道的都在这里了！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUxNjI3NTg4Mg%3D%3D%26mid%3D2247484211%26idx%3D1%26sn%3D49fbaa6df92ae7c77bca57c7474ac6aa%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg85pJ5Aj0qB5vvRxyrjluGU",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这篇文章详细列出了国内模型的购买方式，以及什么是 API KEY，如何获取 API KEY，所以这里就不赘述了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgoHxLdBKFbfMQhZEGxNDT9x",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "上面我们配置完 API KEY 后，直接点击下面截图的 + 号",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2pxB68IovwngNe5BgGBFYg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "此时我们直接点击 OpenClaw 就会开始引导进入后续的自动化安装流程。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg67cpKI69Ik7C4JGzSZ3F6d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我们直接点击下面的安装 OpenClaw，然后全程跟着引导进行点击执行即可",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUQuARSJas4RyJMzS2anbTc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "安装过程会显示对应的安装进度",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTat28wbyBfyhaPRLeswkYg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "安装完成后，会提示你选择你要使用的模型，还记得最开始我们在设置界面填写过模型的 Key 吗，此处直接下拉框选择对应的模型即可，然后点击启动。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgj37onrRk7QKiwugiaYtN2e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接下来就会看到对应的启动成功页面",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNBqOIXcqmAYwlfX9eprOge",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "以及对应的 OpenClaw 的控制台页面",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDRWttFiKihcSizxqvtPmMh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "恭喜你，这个时候就安装完成了，Mac 和 Windows 的安装步骤都类似，中间需要人工下载其他依赖的时候，我们直接按照程序的安装引导进行安装即可。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeUbzLA8iJi41jrWUJa78Eb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "但是，我说过，Cherry Studio 的自动部署，并不能解决所有系统的安装问题，大家可以先使用上面的安装步骤进行安装，如果没有任何异常，恭喜你。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPskjFkpe03o96gTqGwKdLd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "但是如果安装过程中有异常，不要急，我说了，剩下 20% 碰到安装问题的用户，这篇文章也会通通给解决掉的，那就是！",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjacRGbbCKbK480p7MpmXGd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "上黑科技，上 AI ！",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6k5HlUdzjysQ1eD9MaSqRf",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "/ ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 4,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "AI 来驱动安装 OpenClaw ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "/",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 4,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdNk3fqGXEzeSi0LMVkOxyc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我们直接点击左上角添加助手，这里选择添加 Agent",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHlPcbYmZyZRxWoYkaz44xq",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这里选择我们前面在 Cherry Studio 设置中已经填写好的模型，以及权限模型必须给放开到“全自动模式”，这样 AI 会自驱解决安装过程中的所有问题。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1qoXq6axqceTyk8NAlXHd5",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "新建完成后，我们直接把自己的系统提示词发给该 AI Agent",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggZKupPeNSYHrbUDOXt55Rh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "然后模型就会问你，你要使用哪一款模型来驱动 OpenClaw，因为前面我选择的智谱来自动安装的，所以这里我选择基于阿里百炼进行验证。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6fwpZ6E37ihiLvRV1vimMb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接下来AI 检测到我本机已经安装过 OpenClaw，所以提示我是否要卸载重装！我选择是，卸载重装！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFUpPGyOpt9DzLk400dALG5",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "如果你本机前面用自动化安装失败了，那么这里可能也会有残留的 OpenClaw 文件在你本地，所以你也直接选择卸载重装即可！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsmlOYNO84MGG3EL3qQ5Rex",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "如果你是首次安装，AI 是不会提示你是否要卸载重装的，而是直接给你进行自动安装了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtRl1WJ0BlpCduUsRV4kIng",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接下来 AI 就会进入自驱安装的过程了，遇到的所有问题他会自行进行解决。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeGRlEkMrMKma5LtWN0ANkh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这里安装完成后，会提示让你输入模型的 API KEY，直接发给他即可。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJTHHh6047SQEIZHiDM7NBb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "然后 AI 开始再次进入自动配置 OpenClaw 的阶段",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUjNY47ihnc12CTQF4rclHf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这里可以看到 AI 已经在启动 OpenClaw 的网关服务了",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcPnuHKcgRDsZo0FFOnRi0b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "恭喜，OpenClaw 安装配置完成！接下来我们直接在浏览器打开该访问地址，即可开始使用 OpenClaw ！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzwu23iHwbH8BOdznHy4gke",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "上面我们演示了如何通过 AI 来驱动部署 OpenClaw，这种场景，非常适合大家采用自动部署脚本，依然碰到问题的情况。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqpo9ucW0Do0XAbSAjplz0f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "而上述流程中，AI 之所以可以一整套流程一气呵成，先问你要使用什么模型来驱动 OpenClaw，再问你的 API Key 是什么，最后帮你配置并启动 OpenClaw，就是因为最开始我们丢给他的第一套系统提示词。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwIeDmwREVNZjhJD6Qyg83Z",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "/ ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 4,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "AI 提示词 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "/",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 4,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguqqx0ZwgEPouWaRYLSRR5b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "下面就是该提示词的详细信息，大家直接按照上述流程拷贝到你的 Agent 里面，让 AI 自动驱动安装部署即可！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAmyDCSQ7CFKpKpdOrWKvad",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "写到这里，感觉 Cherry Studio 应该打钱才对，但是讲真，本文纯分享，无任何广告！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrWc7x9hF2L0WGWi0VfOGDh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "AI 时代已经到来，但是没想到今年竟然是龙虾年！",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghsqEiMWTXa3WNjEec3BUie",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "大家抓紧按照上述流程部署好小龙虾，接下来会继续更新关于小龙虾更多的实战技巧！",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgpbOBKt22yEzLyhXIfz88ok",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "部署好小龙虾只是第一步，如何真正用好小龙虾！用爽小龙虾！让小龙虾真正的为你服务！这才是王道！",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDrMuPIKOO2EWM9iig86Aec",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "为什么本文说可以解决 99.99% 的部署问题，而不是 100% ，因为这核心取决于 AI Agent 模型的上限。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgP1fXEoyCYMZftY8uiFKNhf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "如果遇到非常非常复杂的问题，其实只要你配置的 AI 模型能力足够强，AI 也是可以解决的，但是这需要你不断的和 AI 会话进行调试才行。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgiOkCM8vYtVV0ZfYqkAhGpf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "并且，大家后续使用龙虾遇到任何问题，也可以在上述的 AI Agent 窗口中，直接告诉你的 Agent，让他帮你修复对应的问题，不单单是帮你部署，还能帮你更好的用好小龙虾。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgesevW909dTWvuZBZS74rZf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "上述玩龙虾内容有任何疑问，也欢迎进群交流。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDbpJZwWAYCBQs6u8eMJTAb",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "欢迎日常交流",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAfAHQIcPjMo404oc8ZrHJg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "AI 时代，单打独斗不如抱团成长， 欢迎大家加微信互相交流心得。 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsXyekGKa8vYWn6EJRhpmAc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "👉 想要进群的朋友，扫码时备注 “AI实验群”，看到消息后会第一时间拉你进群。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdCojy3oElc2vyQN0OjNanb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "群定位： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "AI工具提效/实战经验互助",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXEExLoz1nlBiZ5whwu3tIH",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "群规则： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "不水群、不广告、干货优先",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3tqhZ5kh1Y9X2ef3ClBi6c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "好文章值得被更多人看见！既然看到这里了，随手点个赞👍和关注，并转发给更多的朋友吧！感谢。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzvuIJKqtLKRq6BCsIYd23D",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "> 作者：贾克斯的平行世界、微信：x_h886688",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

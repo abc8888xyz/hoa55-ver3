@@ -1,0 +1,1974 @@
+{
+  "status": "ok",
+  "doc_id": "I8wIdmoiHo743Fxm0EJlPQS5gqg",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/O3BRwq4atiMRFpkDMj6lnTrWgnB",
+  "title": "用Openclaw+Obsidian搭建内容工厂，写100W+阅读爆文，单篇6000元",
+  "revision": 154,
+  "total_blocks": 135,
+  "translatable_blocks": 95,
+  "blocks": [
+    {
+      "block_id": "I8wIdmoiHo743Fxm0EJlPQS5gqg",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用Openclaw+Obsidian搭建内容工厂，写100W+阅读爆文，单篇6000元",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlge6quE81ivU2J32fbWTCbQO",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔗 原文链接： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://mp.weixin.qq.com/s/aY3CDZ33...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaY3CDZ33ufjKfLwCiuYI-Q"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjLZQD9tGSHj9T7yqzDAk7g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "原创 饼干哥哥 饼干哥哥 饼干哥哥AGI",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026年3月1日 10:29  美国",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9wlvhN3bWfPgwL2fFgiiZc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "去年，我做过公众号爆文项目，凭借以前做内容的网感，爆了一篇百万级阅读量的文章。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXvoK3soXGPCtCHHrfrMD7f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "当时还小复盘了一下：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgW9H8rLniD5bIbtuuQrvpEc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "一篇公众号百万阅读量的文章，有多少钱？附10 条「独家」公众号真相",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI5Mzk5MzA5Mg%3D%3D%26mid%3D2247485133%26idx%3D1%26sn%3D9dd502af1f46f23a206478cb1d462aa4%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtO2GHaNgJ0kDnu40ENBKyd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "那篇文章发在我现在这个号上，单篇直接带来了6000多元的收益。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHcXI7om5eDAprM86YgBSCd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "后来我反复在想一个问题：这到底是内容本身的胜利，还是因为我这个老号本身自带权重？",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZg6uBOm1jqO3plWxIAdm6c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "为了验证这个逻辑，我单独开了一个全新的号，叫「第二曲线增长」， ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "用纯粹的数据和工业化逻辑把这件事重新做一遍。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8G5WjQgmBF9vi2fDQ4Hx4d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "为了白嫖 Claude 模型的能力， ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": true,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "当时是直接用 Cursor 来处理整个流程的。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKWSKfr4oiGSWHV7NR74oOg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我先是抓了一批细分赛道的高赞爆款内容，一共28篇。我把这些文章一股脑塞给模型，强行让它全部看完，要求它严格划分出内容类型、情绪爆点和文章结构。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwGLjGW2rrBJkriXX1niMw3",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接着，我让它照葫芦画瓢，直接拉出100个痛点选题。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3rdjLoolEX0690jQTeHQce",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "前期我还专门总结了一套固定的写作风格和提示词框架。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWusytNeeudaniHOH53lrle",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "就让模型按照顺序逐一生成文章，拿到文本后我连标点符号都不改，直接复制粘贴发布。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgpFlQXEK9cCGUjzaQPkD8fg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "甚至连封面图都是同一张。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWaCId9npAZLm7QnFUWyAPd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "结果非常夸张。发到第四篇的时候，文章直接触发了推荐算法，开始疯狂进池子爆流量。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeWHb4CON1G3JjoGm8PEuzh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "再接着，同样的方式，我做了4、5个号吧，也是成功了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgszqVeEIil6UVPP4Z3hEAPb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "甚至 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "做教培的时候 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NDI4MTY3NA%3D%3D%26mid%3D2257494163%26idx%3D1%26sn%3Ddcfbfa524851224a837db075aa435090%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，也是这样做成了几个号带来了不少客资。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgX9VlCeUtyiEaz6pbrtg6Hg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "但现在没做了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgh6bzvxGOCUfhL4zLRrRlig",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "因为这种做法太驱逐流量了，没有任何复利，也没有任何个人资产沉淀。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHTdQNXTa8CURhcqKCJCvBg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "但是，那套工业化生产内容的底层逻辑，非常能打，价值极高。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgftU9jUQ7wZssuBK5f2XLee",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我近期发现，如果把这套逻辑平移到现在的智能体架构上， ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "用OpenClaw配合Obsidian来做，效果不仅好十倍，而且能真正建立起长期的数据壁垒。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGLk1XkoTtsrHAZkha3RTud",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "今天这篇文章，直接给你全套开箱即用的实操教程。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgm6nQuokg4mOOn5IvaRR5qd",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "01 为什么是 OpenClaw 加上 Obsidian？",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvpw3BdzCO29O19zJ8kOz1e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "很多人每天都在用各种大模型，但依然觉得效率没有质变。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcjIv5vvNuRQ9sUw3B4o6Ef",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "原因在于使用方式极其碎片化。想到一个点子，去问AI，得到一篇文章，复制发布，然后关闭网页。下次再有想法，又得重新设定背景、重新调教语气。每次都在重复无效劳动。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPDbvvna527qKOLGR9rFxhg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "真正的系统化创作，应该是这样的：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMDbsW7LCypdcMmtTiGilhc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "你有一个想法，记录进本地的选题库；",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2HhZ2PrPK5MJviIN90yl5e",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "AI 接收到指令，自动去检索你积累了几个月的爆款素材库；",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeLWAlZb6IRVTwUKPb1BTcw",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "找到匹配的理论框架后，复用已经被市场验证过的内容结构进行写作；",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgH3Bm51sKpBMqqJapVJDGVn",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "文章发布后，数据表现会再次沉淀到你的方法论里。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggNRwVkYm9L7sl1h2h8zRxc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "要实现这个闭环，你就必须拥有两个核心组件：一个能持久化保存知识的底层数据库，和一个能在后台全自动执行指令的驱动引擎。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1NvnBgNVo2NL5Npz14i9JJ",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Obsidian 就是那个数据库。它是一个完全本地化的 Markdown 知识管理软件，核心优势在于双向链接功能，能够把孤立的文本碎片连接成立体的知识网络。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJ7SednGfvAjbVzxirOPR4e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "OpenClaw 就是那个驱动引擎。它是一个可以 7x24 小时在后台静默运行的守护进程。它不需要你打开对话框去聊天，你只需要通过手机绑定的接口发一条指令，它就会在后台自动读取 Obsidian 里的文件，执行检索、拼接和写作。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBHCTBmMRzmABiulscSMlbc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这个组合，无论是对于做个人 IP 的小红书博主、公众号创作者，还是对于需要大规模铺设海外独立站 SEO 博客、运营海外社媒的跨境电商企业来说，都是一套极具统治力的基础设施。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgX8InN8nlNoFGYvrFwsKAue",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "02 先看看效果：内容生产流程被彻底重构",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSMQshL5BksWLYf9xUEdD4d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "有了这个内容工厂以后，你走在路上，看到一篇优质的行业报道，随手复制链接发给手机上的Agent。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWWT3PtX6Zt65TH3o0re4Gg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "OpenClaw会在云端静默抓取正文，提取核心逻辑，打上正确的YAML标签，并自动同步到你本地Obsidian的灵感库中。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgizqFUTcRD3OlC9tv6CErch",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "晚上坐在电脑前，你只需要发一句指令开始处理今天收集的灵感。Agent会自动调取素材来给你选题角度。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3UmKb15YnpYCNiVajhSINc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "甚至可以网上实时搜索。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgstlj79c1jMaZcRgUOMo3jh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "老实说，他给的选题其实都不错：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgiTabbMg5chvvLBuNkBi69g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接着让它生成大纲、写文章就很丝滑了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7CszI7yZoELY5NByvgLylb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "期间有什么问题都可以更新记忆，这种形式特别好，后续想改，直接改md文件就好了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg846a0uIOW5iGGABMWAQayf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接下来，废话少说，直接上教程。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg06wqCu9lHWqnhXbYSo5G6b",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "03 配置本地底层系统",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgb45HS4b3FkLuPBFmD35mEf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "搭建这套系统，第一步是安装 Obsidian 软件。直接在官网下载并在本地新建一个空文件夹作为仓库（Vault），以我自己为例，命名为 bgggcontent",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglhU8xkAmipeAzQodDzoEAg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "注意，此时绝对不能让OpenClaw直接操作这个文件夹。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5tu3VxsLL6wkUGLpsq2gwc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "大模型在操作系统层面执行命令非常直接。如果你直接赋予它文件读写权限，当它判断某篇笔记需要重新归类时，它会直接调用底层系统的原生「mv」指令。这个动作在普通的文件夹里没有影响，但在Obsidian里会导致严重错误。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXcIt379I0ncSJncZI3vOzd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Obsidian的底层结构依赖双向链接。一旦源文件被外部系统强行重命名或移动，所有指向该文件的内部链接会全部失效，整个知识系统会出现大量死链。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWE5pBjtv3Mh2zDq6WQRdbh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "为了防范这个灾难，我们要引入 obsidian-cli 命令行工具",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3qYCBtLA6RxlhAYEzFsEbb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "并在 OpenClaw 中严格挂载官方的 obsidian-skills",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPNrlMdtnV11MuTsQsIM6SR",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这个工具确保了未来 AI 在移动或删除任何一篇笔记时，都会向 Obsidian 底层引擎发送信号，使得全局引用关系自动更新。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtXf2UW3H7BZjB3mvrZ53dg",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "04 架构设计：利用软链接打通多 Agent 矩阵",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbhg5BJk5jB6rgpPVFwJOmb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "此时，就要考虑一个问题： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Obsidian的文件夹要放到哪？",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMl3zT1cXuhQ8VpP3gY6Sae",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "内容中台的终极形态，绝对不是由单一智能体包揽所有工作。未来必然会进化出多个专职 Agent：一个负责全网监控抓取素材的研究员，一个负责撰写小红书种草文案的专员，以及一个负责统筹全局的审稿总管。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCrcqW77tas77l0kcfFrpfg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "而OpenClaw 的安全沙盒机制极其严格，每个 Agent 只能访问自己工作区内的文件。如果把库建在单个工作区里，其他 Agent 就彻底丧失了访问权限。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgg2F2W6u9aGm3INBB7y696g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "所以， ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "最佳实践方案是建立中立的物理存储，并通过操作系统的软链接（Symlink）进行跨界映射。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlge8x04R0q02DsmyUgBkFTMg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "将真正的实体库文件夹建立在极其安全的个人文档路径下： /Users/binggan/Documents/bgggcontent",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgogxiaOJmaLSzlzdpknDGce",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "然后打开终端，通过软链接命令，为各个 Agent 建立直达中央数据库的专属通道：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqznpOWAt0QnoDCletTHYnh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "例如给我的多个agent（大总管、小红书、公众号）链接上obsidian工作区，这样它们就能直接操作了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbrWoFWDFyeze7f9jMMMHAd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "效果是这样，可以看到openclaw的agent workspace文件夹里都有一个 bgggcontent 相互链接了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1W04VlpoRbtPZszg26xzvf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "通过这种架构部署，素材库成为了唯一的真实数据源。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCAM2eIz1VtPaImLHZNqUYg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "研究员刚刚把一份深度竞品分析丢进爆款素材库，公众号撰稿 Agent 就能在零延迟的情况下瞬间读取并投入写作。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlge0Xei2Lu4yxMfqIskeHbmk",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "05 核心目录映射与内容流转规则",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXwnTgRMmuvRTOGCh5fq3Gu",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "完成底层通道打通后，我们需要在 Obsidian 内部确立流转目录。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAyHtKRfUeN4YLLe34cMfKd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我们不需要繁琐的嵌套结构，只需要遵循内容生产的生命周期：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMAjaX24uEawHlZIqq8lDyg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "01-灵感与素材库： ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "分为日常灵感剪报和爆款素材片段。平时刷到的优质长文直接扔进前者，极具杀伤力的金句和逻辑框架提炼后存入后者。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgG03YkdgxVZODtliKjKRHgd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "02-选题池： ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "存放经过人工确认或 AI 基于灵感衍生出的待写命题。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6OvslKmnP0R6FC4o21spQc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "03-内容工厂： ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "细分为大纲挑选区、初稿打磨区和终稿确认区。这是 AI 高频读写的核心车间。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyPOkHCze9oKd1PLqnjZVLM",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "04-已发布归档： ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "所有在公网发布的成品最终沉淀于此。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4jdqsR6fXji4cet7K9YTIo",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "为了让 OpenClaw 在面对海量 Markdown 文件时能够精准定位所处环节，必须强制推行 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "元数据（Metadata）管理。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSUGVQoKkYA4OYmBOLKNHkh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "系统内严禁出现任何纯文本的裸文件。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgE7xqbjc9628rbCVEj3jtXd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "每一篇新生成的文档，顶部必须携带 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "标准的 YAML 属性表头 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrMmV3FpJVBm7HTTrDyYXxg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这就是 AI 识别文件状态的唯一索引标识。缺乏这块属性区，大模型就会在图谱中彻底迷失方向。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnGgpDmch8Cj8IBvgrmZQpd",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "06 配置Agent执行准则",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeX8qabX2PNIPhgoYer10tf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "物理环境就绪后，最后一步是配置OpenClaw Agent的配置文件。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgONZNlz49LTUBbuWGbePzKd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "进入公众号Agent的专属工作区（workspace-gzh），我们需要建立或修改四个核心的底层规则文件。这些文件决定了AI的行事边界和执行逻辑。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkc3KsFyuEk2qyE1CvnE4Th",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "直接复制以下内容到对应的文件中。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7lq6TsJP4WTvbeYre2Qszu",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "第一份文件是SOUL.md ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，这是安全防线的底线声明。 你必须在其中设定极其严厉的安全红线。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxWDKz5sQSCF09N8anlkIy9",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "第二份文件是USER.md ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，这是对你个人风格的设定。 明确指出你拒绝所有带有机器生成痕迹的词汇。强制要求它多用短句、频繁换行。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQzn09mGh2pfoEdJlSDlg4b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "第三份文件是AGENTS.md ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，控制AI每次启动的必读列表。 在其原有的基础上，追加SOP的读取要求。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0GEPFZkWQegKNLYEUAIyog",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "第四份文件是SOP_GZH.md ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，将业务逻辑固化为标准执行程序。 在日常高强度的内容输出中，你不可能每次都重新输入工作流指令。你需要在这份文件里把流程拆解为精确的触发条件与对应动作。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLaRPZMdH1urHDNIVKNw2mM",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "07 一键初始化启动指令",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCp8hAHHpVPbvhXpKE9Vyhb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "以上所有的文件配置好后，我们需要让OpenClaw在本地硬盘上把这些文件夹真正建立起来。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgww246z6mtsDsvemLeoyWJb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "参考提示词：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9HduSFuU5QWBzCY8o32qIg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "至此，配置都好了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvPriAOsSVoe9tZgam3y1Xd",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "最后",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIxeYzFEVX5ChoW6R8kfDxe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "你退到了幕后，成为了一名制定规则、把控边界的数字系统架构师。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHok2O6umRwqMB5vVYXx2Eg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "你维护的不再是几百篇散落的文章，而是一台7x24小时不间断吸收外部信息、不断自我强化的内容处理引擎。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCRDo6zna1z7SevCjRxDYsc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "补充阅读：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFMcR12DfxWdO88tmQ67t4e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "OpenClaw真变态！我跑通了跨境电商的10个落地场景",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI5Mzk5MzA5Mg%3D%3D%26mid%3D2247486947%26idx%3D1%26sn%3Df5661d9b8f9386652b816d0e68ccfbd0%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTliCGsN3XU5IBUDAXqM6qh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "好变态！用OpenClaw做了28个跨境电商数字员工",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI5Mzk5MzA5Mg%3D%3D%26mid%3D2247486961%26idx%3D1%26sn%3D09bb646716a857abbbc74f4aadca12da%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXeswSAxKDPiHdPtRRGTe1d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "跨境电商用OpenClaw做GEO，屠杀传统谷歌SEO流量",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI5Mzk5MzA5Mg%3D%3D%26mid%3D2247486969%26idx%3D1%26sn%3D62eae5040f961b61b5dc873fc0597642%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDpzxTcDxUBDRyHQFBNfj7e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "90%跨境电商工作流会被Kimi OpenClaw+Skills替代",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NDI4MTY3NA%3D%3D%26mid%3D2257498856%26idx%3D1%26sn%3D8259c3a63ecc997f0a92ee9fd5ec8408%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZmhnDYYXUqAd9mJFBVR2ge",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1句话抓100个独立站数据？用第一性原理看懂OpenClaw的架构",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NDI4MTY3NA%3D%3D%26mid%3D2257498867%26idx%3D1%26sn%3D3d594f2818a4bc0d639869837c4395f0%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

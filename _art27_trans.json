@@ -1,0 +1,2712 @@
+{
+  "status": "ok",
+  "doc_id": "GhoTdKqN9o4lbwx28RslwRM8gfb",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/MWWtw9HVdiz5PEkm3azlrUTxguh",
+  "title": "开源AI助手 ClawdBot 火爆全网，已狂飙50K Star！附喂饭级安装使用教程",
+  "revision": 201,
+  "total_blocks": 180,
+  "translatable_blocks": 136,
+  "blocks": [
+    {
+      "block_id": "GhoTdKqN9o4lbwx28RslwRM8gfb",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trợ lý AI mã nguồn mở ClawdBot bùng nổ toàn mạng, đã vượt mốc 50K Star! Kèm hướng dẫn cài đặt và sử dụng chi tiết từng bước",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgL9odhvIvMQvorlsiVTZr5g",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔗 Link bài gốc: ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://mp.weixin.qq.com/s/nAC-Z-Bz...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnAC-Z-Bzyaat5e7AsNtyCg"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgofknaQ49zPwUfOmp9h5HDb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nguyên tác Đại Thử Đế Đại Thử Đế Quán trọ AI Đại Thử Đế",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Ngày 27 tháng 1 năm 2026 12:33 Vân Nam",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjZdb4DGMKyLGVRjk1w5Mpl",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Các bạn có thể triển khai thông qua Alibaba Cloud Bailian",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Coding Plan ",
+          "style": {
+            "background_color": 13,
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " để triển khai",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ":",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbUpndmsd0yXdqItIha3nCc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mua lần đầu chỉ từ 7,9 tệ, gia hạn giảm từ 50%, hỗ trợ các mô hình Qwen3.5, Qwen3-max, Qwen3-coder, GLM-5, GLM-4.7, Kimi-k2.5 v.v.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgg6vFsXxVc7kY3Ys0DD7qCE",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "👉 Nhấn link truy cập trực tiếp:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://t.aliyun.com/U/0iiOuy",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgiq0jaCrXLTFAeyiJdkXzXc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "👉 Xem hướng dẫn triển khai chi tiết:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://t.aliyun.com/U/MNkA9b",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyRKvBCJdn9I1Zfh4e9vIMe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chỉ tối đa ba bước, bạn sẽ có trợ lý AI trực tuyến 7x24 giờ, phản hồi mọi lúc",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0pVyVYfpf5A1spShclZh1f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Xin chào mọi người, tôi là Đại Thử Đế.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgT6aEg17u7HYU1hnbr9oK2g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sáng hôm qua tôi lờ đờ bò dậy, theo thói quen mở X lướt tweet, kết quả cả người tỉnh táo hẳn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnMpGGhzA9jqzyhI6YmlC0e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Một dự án mã nguồn mở tên clawdbot, giống như bất ngờ mọc lên từ dưới đất, chỉ sau một đêm đã bùng nổ khắp mạng!",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIiT5KovdzzDihEi9FnOO4d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mọi người đều phát cuồng:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgShTXgQuSW6cSlWjjYXNDBh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "https://github.com/clawdbot/clawdbot",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtjNEUpWGI5GYrjJdNzRx4f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tôi kiểm tra dữ liệu GitHub của nó, thật sự đáng sợ, chỉ trong vòng 20 ngày ngắn ngủi, số Star từ vài trăm tăng vọt lên hơn 40K, riêng hôm qua đã tăng mạnh 30K.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7FrRPWylEY5JxjlaDQtZLg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đây chắc chắn là dự án mã nguồn mở cấp hiện tượng.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFp2jVSt3YACfDVr0NwBgbe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Điều vô lý hơn nữa là nghe nói vì dự án này mà doanh số Mac Mini cũng tăng theo một đợt.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgn0PgRBCCLx7pk8AMjNDLcd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phải biết rằng một chiếc Mac Mini cấu hình tốt không hề rẻ, mấy vạn tệ, vậy mà lại được một phần mềm mã nguồn mở kéo doanh số? Nhưng thực tế rào cản sử dụng thứ này không cao lắm, hơi khó hiểu 🤔",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1hci547FFouEXMl6e3kzPe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Xem ra mọi người đã khao khát có một trợ lý AI thực sự thuộc về mình quá lâu rồi.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaJQYXtW3YlYn3CMiUUfzOG",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hôm qua tôi vừa giới thiệu cho mọi người ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "CodeBuddy Code của Tencent ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzkwMzE4NjU5NA%3D%3D%26mid%3D2247513610%26idx%3D1%26sn%3D87c35ba0a1e03fa9fb70cbe48ecbf79e%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ", nó cũng là Agent chạy cục bộ, tương tự có thể triển khai lên cloud làm trợ lý cá nhân.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgc6RLKZe3Ctgcy4bmPBl0Lb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tiện thể nói thêm, tối qua họ lại ra một bản cập nhật thú vị, bây giờ codebuddy code đã trở thành công cụ CLI đầu tiên trên thế giới hỗ trợ tạo ảnh. Vậy nếu tôi tích hợp x-skills mã nguồn mở trước đó vào, việc sản xuất tweet dạng hình ảnh + văn bản chẳng phải cất cánh sao? ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguLaUf3DMsxk3d0NxJFs43f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hôm qua nhận được tin nhắn, phát hiện codebuddy gần đây có hoạt động năm mới, bạn nào quan tâm có thể xem thử:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqbRAMAua9hST59Jm5gO1zf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "https://www.codebuddy.ai/promotion/",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFNbfQi8qkuAoWB93hnJLqg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bài này cũng cùng xem nhé, Clawdbot rốt cuộc khác gì so với CodeBuddy Code, Claude Code và các công cụ CLI khác? ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgofjfxtYNleGZDtGucccNTf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Công cụ khiến các geek toàn cầu phát cuồng này, rốt cuộc là thần thánh phương nào?",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbm226EhN1vcF1Jsz1EXYvc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Rốt cuộc nó có sức hút gì mà khiến mọi người đặt mua server và Mac Mini xuyên đêm? Rào cản cài đặt có cao không?",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguoswuhBfQTWiFmDxMYlyQe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Rốt cuộc chuyện gì, xuất phát thôi!",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSfcrWVB2Pwobns4mBhui6g",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Một, Clawdbot rốt cuộc là gì? ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgj87sMu5mY2zNOmwASEBb0Z",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nói đơn giản, Clawdbot chính là một trợ lý AI sống trong phần mềm chat của bạn (ví dụ WhatsApp, Telegram, iMessage).",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAZ5HjfFL8ChLoj62Y7bTld",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trước đây chúng ta dùng ChatGPT hoặc Claude, logic là: tôi có câu hỏi -> mở trang web/App -> đặt câu hỏi -> AI trả lời, đây là \"người tìm AI\".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMUzmvnysfIg4fiPTVuXLhf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhưng logic của Clawdbot thay đổi hoàn toàn, nó là \"AI tìm người\".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgF41kkkGhFrIyie7MaHDjzc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Clawdbot là một chương trình chạy 7x24 giờ trên server (hoặc máy tính rảnh rỗi trong nhà bạn).",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLzk5NovadNRY21DThkRWnd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nó kết nối với phần mềm chat của bạn, bạn có thể nhắn tin cho nó như nhắn tin cho bạn bè qua WeChat.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgX0CiriJjdA0fAtQFx4CMef",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Điều quan trọng nhất là, nó không chỉ trò chuyện, nó còn làm việc được.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxX11EK2G2yKItlcMjhx48b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nó còn có thể kết nối GitHub, Google Drive, Gmail, lịch của bạn, thậm chí giúp bạn theo dõi cổ phiếu, lướt Twitter.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWpgRusGkSukwJ6Y0FUGjob",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Có một anh bạn chia sẻ trên X, anh ấy kết nối Clawdbot với tất cả các công cụ, rồi gửi một tin nhắn thoại: \"Phân tích dữ liệu website của tôi, viết một bài blog, cập nhật metadata, rồi đăng bài lên LinkedIn.\"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5cIiSpnIdO653vJlt6H4Uc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau đó anh ấy đi ngủ, sáng hôm sau thức dậy, Clawdbot đã hoàn thành tất cả công việc, còn tiện thể gửi cho anh ấy một bản báo cáo ngày!",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLKdTyd43TyiX0M5LSjSrlc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Còn có một trường hợp tuyệt vời hơn. Có người dùng để Clawdbot giám sát một cổ phiếu, một khi giảm xuống dưới một mức giá nhất định thì thông báo cho anh ấy.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVP6A4x3bc226iFbWntIN7e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Kết quả hôm đó anh ấy đang lái xe, Clawdbot trực tiếp gửi cho anh ấy tin nhắn Telegram: \"Sếp ơi, cổ phiếu giảm rồi, đề nghị mua thêm.\"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMt93RvFs0fIWxzMy9wqkQc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đây chính là lý do tại sao mọi người phát cuồng đến vậy.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnwenghxgesJmiAPOaBw0Wg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phần lớn công cụ AI chỉ là máy hỏi đáp, còn Clawdbot là một nhân viên số thực sự có thể làm việc, có trí nhớ, có thể chủ động tìm bạn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglkZ1ta7dnxFGP3tAEOpNRf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nói thật, \"AI làm việc thật\" đã nói mệt rồi, trên thị trường hầu như mọi Agent đều nói mình là AI làm việc thật, nhưng mà, vẫn còn nhiều việc không làm được, không thể thực sự giải quyết vấn đề của đa số người dùng, kỳ vọng của người dùng cũng ngày càng cao.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXfTAaAFOV4Gtdx3U7uI0Ed",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hơn nữa, điều quan trọng nhất là clawdbot là mã nguồn mở! Bạn có thể tùy ý tùy chỉnh, DIY trợ lý AI chuyên dụng của riêng mình, đây mới là điểm thú vị và thực dụng nhất.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgiloUyqQ7N7oAeXvn5u6G2c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tại sao mọi người nghĩ nó cần Mac Mini?",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPJqCzfXQjR0XRqoShaCXfb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Thực ra đây là một hiểu lầm, vì Clawdbot chạy cục bộ nên nhiều người nghĩ phải có máy tính hiệu năng cao mới được. Thực tế, yêu cầu cấu hình của nó cực thấp.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFctP0h9Zs9OkwfnXGQkjng",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bạn hoàn toàn không cần mua Mac Mini, một cloud server vài chục tệ một tháng, thậm chí một chiếc laptop cũ trong nhà, đều có thể chạy mượt mà.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2oywS8Us1q6trfA9Ibt7wd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nó có ba ưu điểm cốt lõi:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1xJQAmU0Bc6QblV1yD94DY",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1. Nó \"sống\": nó có trí nhớ, hôm qua bạn nói với nó bạn không ăn rau mùi, có thể tuần sau khi nhờ nó đặt đồ ăn nó vẫn nhớ. Không như Siri, mãi mãi như một bệnh nhân mất trí nhớ.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgF63k3sG2F07xsQMAtFJKvb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2. Nó rất chủ động: nó không ngồi chờ bạn hỏi. Nếu bạn cấp quyền, nó sẽ chủ động nói với bạn: \"Sếp ơi, ngày mai sẽ mưa, chuyến bay của bạn có thể bị trễ, đề nghị đổi vé.\" Điều này rất quan trọng, vì AI hiện tại hầu như không có tính chủ động...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPwihm8igcQWhITQFdhzKEf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3. Nó là của bạn: dữ liệu đều nằm trên server của chính bạn, không giống một số AI đám mây, quyền riêng tư của bạn có khả năng nhỏ bị lấy đi để huấn luyện mô hình.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggq486WNntJZhTd6l3NPU5d",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hai, Hướng dẫn cài đặt siêu tốc trong 30 phút ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBZH6XbuCgxis2z1BKAFb2b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhiều người vừa nghe đến triển khai server, lệnh terminal, lập tức bỏ cuộc, nghĩ rằng đây là việc chỉ lập trình viên mới làm được.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqbbg9qUmdaezDX15kgisfg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Thực ra không phải vậy..",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnIW51oLH5Ju8ktYgWd2RLh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quy trình cài đặt Clawdbot đơn giản đến mức khó tin, cơ bản chỉ là việc copy paste vài dòng code.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgN0v7xU9fZWyCFTahqXtEmc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tôi đã soạn cho mọi người một hướng dẫn cầm tay chỉ việc, chỉ cần bạn biết đọc chữ là làm được.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCASR2WwewYibAHTnxcKd7e",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bước một: Kiếm một server miễn phí/giá rẻ (5 phút) ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIprOLTSS50IqviDBEFP8td",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Clawdbot cần một nơi chạy 7x24 giờ không tắt máy.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgx8W6FwaoSzZotyNjxzbX7g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phương án A (bản đại gia): Mua một chiếc Mac Mini hoặc dùng máy tính ở nhà bật liên tục.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnCx99B1YGnSkMfoGLyKRU9",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phương án B (bản khuyên dùng): Thuê một cloud server.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8ui299Pn6eKhbIejA3MWKc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ở đây khuyến nghị dùng VPS nước ngoài, ví dụ Evoxt hoặc gói miễn phí của AWS.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEjpU9r0qR0cQjio44ZOwU1",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chọn một node gần bạn (ví dụ Hong Kong hoặc Singapore), hệ điều hành chọn Ubuntu, cấu hình chọn 2 nhân 4G hoặc 8G RAM là đủ.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTnDcIl8wovtnIIFdNKCMQr",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau khi mua xong, bạn sẽ nhận được một địa chỉ IP và mật khẩu.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLZltC3Dzce7SZgUeJqfwhc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cũng có thể dùng Qiniu Cloud, họ có server nước ngoài, chủ yếu là Tokyo và Đông Nam Á",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqJllG4Fr8UFE3l2FVGMhVc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "https://www.qiniu.com/products/las",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGlIeixzKLTYX3eqjRpsEHg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Giá cũng không đắt, tôi xem thì chỉ khoảng 20 tệ một tháng",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHSnjabbCb03z1zA5fHHCUg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Rồi họ hành động thật nhanh, đã tung ra image tích hợp sẵn clawdbot rồi...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjvhbHpKaZeJZQ4ROWvHHIg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Rồi họ tặng một số phúc lợi, có 100 coupon 100 tệ không điều kiện, like-share-comment bài viết này, rồi bạn nào cần có thể thêm WeChat: ai-kangarooking, nhắn riêng tôi để nhận",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgT5d1kWak3cft25wKD0rjVe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nếu mọi người còn có lựa chọn giá hời hơn, hoan nghênh chia sẻ ở phần bình luận nhé",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMqrmDKUeU8CWnzO9BMfqAe",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bước hai: Cài đặt một click (2 phút) ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNebn9QjlENmhXyXqt1vBRe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Kết nối đến server của bạn thông qua công cụ SSH (ví dụ Termius hoặc terminal có sẵn trong hệ thống).",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtoYgKCFhbxfrTQ37mM18ob",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Copy dòng lệnh thần kỳ bên dưới, dán vào, nhấn Enter:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfl9QKmJhQ4M63JWkJBZO2b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau đó bạn có thể đi pha một ly cà phê. Script sẽ tự động giúp bạn cài đặt toàn bộ môi trường và dependency.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPt6otz4XeltkkOSjxPVmbV",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cuối cùng cũng đợi khá lâu mới cài xong, vì giữa chừng đi làm việc khác nên cụ thể bao lâu thì không rõ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgpZlZ2I0Bx4whIxfEwHuQog",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bước ba: Trình hướng dẫn cấu hình dễ như chơi (10 phút) ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgy0tGzyEs9DhEqqjFDxJCLh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau khi script cài đặt chạy xong, sẽ tự động hiện ra một trình hướng dẫn cấu hình.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgquOfj9NCeT1gE6HWhWUJFf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chọn \"Quick Start\".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdJs1Vpj8webQmOk48cbDje",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cấu hình mô hình: ở đây cần dùng API Key (còn hỗ trợ khá nhiều nhà cung cấp).",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4UXzhiG4pixJRaASPlu7vt",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bạn có thể vào MiniMax hoặc GLM tạo một API Key, rồi dán Key vào.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggCFoRC6Hu8npBlnoIWTDxc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tôi vừa hay mua bản coding plan max của GLM",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguplM9jvjib428sACkRCNre",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nên tôi dùng luôn API Key của Zhipu",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZGKBeVyo8sWoMjYKpm96Tg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chọn kênh chat: khuyến nghị chọn Telegram Bot, ổn định và tiện lợi.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6zEQiX4nYsVNIXZO6wxHVg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Giá mà hỗ trợ được WeChat trong nước thì tốt quá, tôi định nghiên cứu thử 🤔",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyLIbQlwnAbr93X3yJ6o5pb",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bước bốn: Tạo bot Telegram của bạn (3 phút) ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtnvjA9sZmLrUOjwOMcpRZN",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mở Telegram, tìm kiếm @BotFather.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrFojeI7eqfzxgxy7mox3Wg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Gửi lệnh /newbot.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCPfr4WS17UFJBdGERpCCth",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau đó đặt tên cho bot của bạn (ví dụ \"Tay sai của Đại Thử Đế\").",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgL0gzeji4rIRACa8scCLdbP",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tuy nhiên chưa dùng được tiếng Trung, cuối cùng tôi dùng kangarooking_bot",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5bU7mwlc9uP5jmseXChmhc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "BotFather sẽ cho bạn một chuỗi Token, hãy copy nó.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnXsfzAhzl1sxKRSltipxXd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quay lại trình hướng dẫn cấu hình trên server, dán Token vào.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgiARVYhXIiwcFiZblmuW3xU",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Để đảm bảo an toàn, có thể còn cần lấy User ID của bạn, đảm bảo chỉ mình bạn có thể điều khiển nó.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPIX7W3RSHUtdjsN91c6vae",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tìm kiếm @userinfobot trên Telegram, lấy ID của bạn, điền vào clawdbot.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeCK1cAT0hozkH00cGRHamf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "PS: Tuy nhiên bước này tôi không gặp",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJUPvL8kMZxlG0t9wiYE4De",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Còn có thể cài đặt rất nhiều công cụ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5tpN7IFCOB6JwB1WU0qmKf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Có thể tích hợp NanoBanana Pro",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDNEZEKLMN5on8rsctr3EFh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Còn có thể chọn cách khởi động bot (terminal TUI, giao diện web UI)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbRxRngof688R1XoQOcw2id",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tóm lại, chỉ là một loạt lựa chọn đa chọn hoặc đơn chọn, đa chọn thì phím lên xuống + phím cách để chọn nhiều, Enter là gửi, tuy nhiên toàn tiếng Anh, có thể chụp màn hình đưa cho Doubao dịch hộ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqsGCqYX8ykkFBDhhZdqq3f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Có một vấn đề, nếu cài trên server trong nước, clawdbot khởi động sẽ do vấn đề mạng mà không thể kết nối được với Telegram, nên nếu trước đó đã cấu hình Telegram thì phải tắt đi, nếu không khởi động sẽ báo lỗi",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJd2yVAN8kcyqFjqNvbTarc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Địa chỉ file cấu hình ở /root/.clawdbot/clawdbot.json",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg09MNmNR8MXlkA9PuxEXMGh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tìm phần telegram, đổi giá trị enable thành false là xong",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgmsGy8AuvMUW8nYTcnVrg4b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau đó nhập clawdbot gateway để mở gateway",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXZU3zh30VyUE798vhScM0b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau đó nhập clawdbot tui để khởi động và vào clawdbot",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjFPZxc0pVnXbOPbnVKhx8Y",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bước năm: Trao linh hồn (1 phút) ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLO9reHYqZyeIrl2J4ODsPc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau khi cấu hình xong, Clawdbot sẽ chủ động nhắn tin cho bạn trên Telegram.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg45uNg52cvjG8v4vNWcx0sf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lúc này, bạn có thể thiết lập nhân vật cho nó. Ví dụ: \"Bạn tên là Jarvis, nhiệm vụ của bạn là giúp tôi quản lý lịch trình và sắp xếp thông tin.\"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQRjkdluj64xTiIXhAMMw9d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vì lần này tôi dùng server trong nước, do vấn đề mạng không thể kết nối Telegram, nên tôi chỉ có thể khởi động thử nghiệm cục bộ trên server bằng TUI trước",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDG41I5M4qRGo5uD7sMMkxh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trí nhớ của nó thật sự tốt, thứ này nếu kết nối được WeChat thì chắc chắn làm được rất nhiều việc.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgiIzueW7D6AvsHtrlJTme1g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🐂🍺",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6eDmU6NnZa50QbSs9f9AFf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đến đây, một trợ lý AI chuyên dụng của riêng bạn đã ra đời.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKNCZc3EUKDJBHiXcI6mc5b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bài tiếp theo về clawdbot, sẽ hướng dẫn mọi người cách kết nối API tùy chỉnh, cũng như cách kết nối mô hình Claude",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1VaQSjiOvcpIbCJOSH6zHb",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ba, Thực nghiệm ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZu7ouCteCd7PdYgvgLA67c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Để kiểm chứng khả năng của nó, tôi chạy thử một tác vụ đơn giản: tạo bản tin sáng",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxXUoHVBiAUpSyrmGyQpTDS",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ôi trời, cảm giác thật sự rất 🐂🍺, xem quá trình nó thật sự crawl rất nhiều thứ để sàng lọc.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgU9CBMEsTliajF9XsPZL4Rg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vì giới hạn bài viết, tôi sẽ không thử những tác vụ quá phức tạp trước, nếu muốn liên kết các ứng dụng khác nhau cần cấu hình, phần này sẽ chia sẻ sau",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgom3eLIvWqCXCMXSg1u1rdK",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đánh giá sử dụng",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1XOTXJzuA1XQ7VO0OSSkvb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ưu điểm:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgssUZQEecJ2IcwdHHT8DrAd",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tương tác tự nhiên: ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Giống như trò chuyện với người thật, không có cảm giác rời rạc khi dùng phần mềm, thân thiện hơn. ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "\n",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Năng lực mạnh mẽ: ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Chỉ cần cấp quyền, nó có thể điều khiển gần như mọi công cụ.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjxm5vg7HPedmuFh3TgMlJf",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quyền riêng tư an toàn: ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Dữ liệu đều nằm trên server của mình, yên tâm hơn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgR5auzGazVetNplPNV2ZK6g",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mức độ kỹ thuật hóa cao: ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Tôi cảm thấy, so với các Agent cục bộ cần tùy chỉnh như Claude Code, mức độ kỹ thuật hóa của clawdbot cao hơn, bản thân nó đã hướng đến mục tiêu làm trợ lý AI cá nhân.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1AmKv6rk7BrgLedQxnaB0b",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chi phí thấp: ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Ngoài chi phí server và chi phí API, bản thân phần mềm là miễn phí mã nguồn mở.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgq93e3FVvekgIyx7VVKqdDd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhược điểm:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggaOWaJqV6BGoQKcN29BXmg",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vẫn có rào cản nhất định về thực hành: ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Mặc dù đã rất đơn giản, nhưng với người mới hoàn toàn, mua server, cấu hình API Key vẫn hơi phức tạp, cần bỏ chút thời gian, tuy nhiên bây giờ có AI rồi, những thứ này đều có thể hỏi. ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "\n",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Độ ổn định phụ thuộc API mô hình: ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Nếu API không ổn định, thì bộ não của nó cũng sập",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaWoZhSTGZH7WzwbQ3GdUUc",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tác vụ phức tạp cần điều chỉnh: ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Muốn nó thực hiện hoàn hảo các workflow phức tạp, giai đoạn đầu cần bỏ chút thời gian chạy rà.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTtfkSSWgGfl7dwX9Rx2iUe",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Điểm dừng tiếp theo của AI ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgx7WOgaK69LmtkHAsjRR73e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sự bùng nổ của Clawdbot thực ra đã phát đi một tín hiệu mạnh mẽ: năm 2026, AI sẽ chuyển từ \"bị động\" sang \"chủ động\".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQHRbZolBSmw2IyV9EH61te",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vài năm qua, chúng ta đã quen coi AI như một chatbot, hoặc là công cụ tạo nội dung. Nhưng tương lai thực sự, là AI trở thành trợ lý trong cuộc sống và công việc của chúng ta.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgi8rfga3jwNFadK8sV1U83b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mọi người ngày càng không cần một bộ bách khoa toàn thư chỉ biết trả lời câu hỏi, cần hơn là một trợ lý AI có thể giúp đặt vé, giúp trả email, giúp theo dõi công việc, có thể chủ động làm việc.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg25xRG3tNvGM0kImddt5dhe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Clawdbot chỉ là một khởi đầu, trong tương lai, điện thoại, máy tính, thậm chí tủ lạnh trong nhà bạn, đều sẽ kết nối với Agent như vậy.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgecsd6u7TToGPtbQXJwpIp5",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khoảng cách hiệu suất giữa người có trợ lý AI 7x24 giờ và người không có sẽ ngày càng lớn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOMcv2dBB2TGT6XP73uUyhg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hãy xây dựng một trợ lý AI của riêng bạn, ngay hôm nay, bắt tay vào hành động thôi~",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1xqdIpSV8iVzvpsoRnFN5f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tôi là Đại Thử Đế, một blogger dẫn bạn khám phá AI.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDpWznpr53Om3zEocRnFPNb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nếu bạn còn thắc mắc về quá trình cài đặt, hoan nghênh để lại bình luận.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg84nByECiTTFraxYzYxbhlD",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tôi là Đại Thử Đế, một du mục kỹ thuật số trong thời đại AI, liên tục chia sẻ kinh nghiệm thực chiến AI, đồng hành cùng bạn tiến hóa.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAZjO8aQgDfBRzACfh43Gec",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhấn theo dõi tài khoản bên dưới, bạn sẽ cảm nhận được một linh hồn punk.",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2a7ZGgVydSSg9M4mfeH8kg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ai đọc được đến đây đều là những người hiếm hoi!",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUFNtMSDedF20f99AkX9etd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nếu thấy hay, tiện tay nhấn like, xem, chia sẻ ba liên hoàn nhé~",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglxwDidKQDiZoDN4rW1daEf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nếu muốn nhận thông báo đầu tiên, cũng có thể đánh dấu sao cho tôi ⭐",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZ8sndbZWEmgn5bpGBb5KKc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cảm ơn bạn đã kiên nhẫn đọc hết bài viết của tôi~",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2933 @@
+{
+  "status": "ok",
+  "doc_id": "Q1HpdVYUzoD1pYxV5Y3lzsRrgaf",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/SMFRwZZgqiN0g0kac2LlxaGYgEF",
+  "title": "林月半子：OpenClaw多Agent实操：一个人指挥一支AI军队",
+  "revision": 201,
+  "total_blocks": 198,
+  "translatable_blocks": 95,
+  "blocks": [
+    {
+      "block_id": "Q1HpdVYUzoD1pYxV5Y3lzsRrgaf",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "林月半子：OpenClaw多Agent实操：一个人指挥一支AI军队",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0ThX20WOG7EzSMQm8pHgge",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔗 原文链接： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://mp.weixin.qq.com/s/OmlRx3K8...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOmlRx3K8Ij-5nHxNB4YNfQ"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxLADLhUcTtVIJm37e3YRpc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "原创 林月半子聊AI 林月半子聊AI 林月半子的AI笔记",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026年2月17日 18:30  浙江",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYg2EuilhB1mRMFjURluRpe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "小伙伴们也可以通过阿里云百炼",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Coding Plan ",
+          "style": {
+            "background_color": 13,
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "来部署",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgB9uytl6OMtFj1BssHSuVSc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "首购低至 7.9 元，续费 5 折起，支持Qwen3.5、Qwen3-max、Qwen3-coder、GLM-5、GLM-4.7、Kimi-k2.5等模型",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8mBnWTeh7vIFfOA4y4gdef",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "👉戳链接直达：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://t.aliyun.com/U/0iiOuy",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgmbgsXH1zZ1oK3nSLe5G7h3",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "👉查看详细部署教程：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://t.aliyun.com/U/MNkA9b",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbzvJzdWvVV978vr0pJwq9f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "最多三步，即可拥有 7x 24小时在线、随时响应的AI助手",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDb92I9AW1FgOB5x4Fpt0hb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "关注 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "「 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 6,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "林月半子的AI笔记 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "」 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 6,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "， 设为 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "「 星标 」",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtfoMcZdJjVC3EmVOiPh5zg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我是林月半子，帮你用AI和自动化工具， ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "「 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 6,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "提升10倍工作效率 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "」！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 6,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNxUZA6mf5BC04R1vPoG3vb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "上一篇文章 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "《我的 OpenClaw Token 账单降了 72%，只因装了这个插件》 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU4MjY5NTc4OQ%3D%3D%26mid%3D2247498704%26idx%3D1%26sn%3De174edad3a57c2d47a7d1410b8555357%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，我的本意是教大家怎么减少 Token 消耗，结果评论区和后台的画风全是：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRS8q1Yl4ji6fWXSaMhdKBG",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "“你那个多 Agent 到底是怎么配出来的？”",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1a8ACtrcKhJJ5CL5Al6AVb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "“飞书不同群对应不同人格是怎么实现的？”",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4hj5t7ZT6noyyAdVR9QYgf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "看来大家对省钱只是基础需求，对搞个 AI 团队才是真爱。既然大家最感兴趣，那今天我就把实操逻辑全盘托出。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgz8kTKUxxyZkl1aP8a80zwg",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "为什么需要 Multi Agent？",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9B7qoYyZNGcWXmC6Dx5LHf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我发现很多群友在使用 OpenClaw 时，都是“一号通吃”：写文案、改代码、生图全在一个主 Agent 里搞定。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtO1MC6NWFFweMEQqLQjbBg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这样做的坏处显而易见：",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQDIAKaq4Mi8YiK6gWhxFvh",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "记忆负担 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：时间久了，主 Agent 的记忆文件（USER.md, memory/等）会变得极其臃肿。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguCt25HyalXFq5QhS12QwBf",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "神经错乱 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：当你让它写公众号时，它可能会联想到你昨天改过的代码逻辑。上下文污染会导致 AI 响应变慢，甚至逻辑打架。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgA9CZ7e4g5pc47CYa3TVcif",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "成本高昂 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：每次对话，它都要读取大量无关的背景资料。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvdbuDO2aZcbnxeW8GC0Vbc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "所以，我的方案是： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "单 Gateway 模式 + 同一个 Bot + 不同飞书群组 = 物理隔离的专家团队。",
+          "style": {
+            "background_color": 12,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXTqEDTpAJTRSt2dEOEDNsa",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "也相当于你给大龙虾设置了无限的分身。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3YLvjF3l8i48jEqu7bqUbc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这并不是简单地把同一个机器人拉进不同的群 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": true,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，而是让每个群里的 Bot 虽然看起来是同一个，但 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "底层连接着 ",
+          "style": {
+            "background_color": 12,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "不同的 Agent、独立的工作区，甚至不同的模型。",
+          "style": {
+            "background_color": 12,
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCrKf1vQbLD1VYU2tnWu4Bf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "比如： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "头脑风暴助手 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "群我配了 glm-4.7 ，利用它强大的中文创意能力；而 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "公众号写手 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "群我配了 deepseek ，追求极致的性价比和逻辑输出。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg923Y3lYUbpnoe5BbcPTEvI",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "同一个机器人，在不同群里，换个脑子干活。",
+          "style": {
+            "background_color": 12,
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggASFcX0awCMh1BiVBFebif",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "每只🦞都有自己的办公室、记忆和会话，完全隔离。但它们又能通过“内线电话”互相协作。这就是 OpenClaw 多 Agent 模式的魅力。",
+          "style": {
+            "background_color": 15,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsugyT6n3YfPZ7j91yN2jIe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "两种流派：分身术 vs 独立团",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtsGhg5DITAUyltfNGDCnce",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "有硬核网友在上一篇文章评论：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgp43y2drXHLJMZwbaH59IBf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "没错，OpenClaw 的灵活性就在这里。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgotNbZMmPKugKzO6QJGSBjg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "那么到底是搞一个机器人好，还是搞一堆机器人好？",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg67VzDEQlM0B44T8Yc6Bovc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "分身流 (本文重点)： ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "飞书里就一个 Bot，但你把它拉进不同的群，通过 bindings 路由，它就自动变成不同的“大脑”。 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "优点： ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "配置简单，适合追求效率的个人用户。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgs4j016E0g1PHtLn4rC2k4g",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "独立团 (硬核玩家方案)： ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "为调研、设计、代码分别创建独立的飞书机器人。 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "优点： ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "角色感极强，每个机器人的头像、名字在所有群里都是固定的，完全符合 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "多实体协作 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "的直观感受。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghJVLD3Lh1yll7rayYDIpah",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "💡",
+          "style": {
+            "background_color": 15,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHTmsZPJrQcrubvvk5vEVcc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "无论你选哪种，底层都是 OpenClaw 的多 Agent 隔离机制。有兴趣挑战多 Bot 的可以去翻翻飞书插件的 PR: https://github.com/m1heng/clawdbot-feishu/pull/137 。",
+          "style": {
+            "background_color": 15,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEYKEjiFJDLEdyRrbF92wab",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "它支持了飞书多机器人的接入。",
+          "style": {
+            "background_color": 15,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQNSpOCn0SzaEGbKwK6hthh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "本文以飞书为例来演示，但 OpenClaw 支持的渠道不止于此，Telegram、Discord 同样可以接入，玩法完全相通。关于飞书的基础配置，我之前写过一篇 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "详细教程 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU4MjY5NTc4OQ%3D%3D%26mid%3D2247498566%26idx%3D1%26sn%3D1b605bbba9cd1288cf32195de58bf563%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，没配过的可以先去看那篇打底。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWdoHLPYGRO2msYXVDWZYWc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "今天我们先拆解最适合个人、门槛最低的 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "单 Bot 路由模式 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdmpyvbARYnU8Y0MDm0tFmV",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "核心思路：单 Gateway 模式",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgF4NCgPZ23GzWHkJxo1u5Ug",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "对于我们个人日常使用，我建议用 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "单 Gateway 模式 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "就够了。它能利用 bindings 功能实现“一号多用”，体验最丝滑，管理也最简单。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqwHV5xrbQszFrgp1wQ209e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在动手配置前，先同步一个概念：在 OpenClaw 中，一个 Agent 不只是一个名字，它是一个 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "独立的“虚拟员工” ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，拥有自己的：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsfa6uIn2ua29bqfVSUIKHh",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Workspace (工作区) ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：它的个人办公室（文件、 SOUL.md 、提示词）。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUJb1FSm9jxMRj2N7GQvYOL",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "AgentDir (状态目录) ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：它的身份证（认证信息、模型配置）。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaXiy6P2yfGFUuYbwnfqqKb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Sessions (会话存储) ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：它的私人记忆（独立的聊天记录，不跟别人串味）。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgknKuKVxt6bRpVdBb4waCMh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这种隔离，才是我们能把任务“拆包”给不同人做、从而节省 Token 并防止“大脑宕机”的根本原因。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVMSzbRcSOSb5Qeh9TTPw6b",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "实操配置",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvRBatIHfXeBOCnpTgFssve",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Step 1. 通过命令行添加新 Agent",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKyz6CCSyo64gQOjxK7gxad",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这是最简单的方法。你可以使用内置的向导来创建一个隔离的 Agent：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsYU2xnh8gA44QBuYlj0FjJ",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这会自动在配置文件中创建一个名为 work 的新 Agent。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNdrMLfXBAsfrEy38xNnVud",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "员工招募进来了，办公室（Workspace）也分好了，接下来得给它发一张显眼的“工牌”，好让我们在飞书群里一眼认出它。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzatH2WH0z1mtgxEEipVH1h",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Step 2. 编写“入职材料”，把 AI 捏出灵魂",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHHTCefHpWRlQQoLkKg1JXN",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在每个 Agent 的独立工作区（Workspace）下，我强烈建议配置 SOUL.md 、 AGENTS.md 和 USER.md 。如果说命令行给了 Agent 身体，那么这些文件就赋予了它大脑和记忆 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKtxtZCNgymB2CSnI3KwwJc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这种基于文件的管理方式，不仅让 AI 的表现更稳定、可控，也让你的自动化工作流真正具备了 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "‘专业直觉’。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgs7VFNDhTXRauQQqjt75qxh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "💡",
+          "style": {
+            "background_color": 15,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgI2rYk2GrBwLBqBzdN1TlVb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "大家可以根据自己的 ID 来灵活调整。比如你建的是 coder ，那 SOUL.md 就要写得像个资深程序员；我建的是 work ，所以它就是我的全能管家。",
+          "style": {
+            "background_color": 15,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgA1Wp6aWQnOl4CQTq7jQaRe",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Step 3. 将 Agent 和通信渠道绑定",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIaDHbK9mEdetp1omRtlfhh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "首先我们需要在飞书建一个群组，然后添加群机器人",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYttEYzBjVLm0MOh054bJvh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "最重要的是需要拿到群会话 ID",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgm6Bbe3X1qQUvi7nA8Uu3fd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "打开 openclaw.json 追加路由，在 bindings 数组中添加你的飞书群组规则：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0r6Q3ELwVdd0emJQH7DG1d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "实际上我们现在已经配置好了这个 Agent 分身了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZTbrNwdBhcp79p2LvCL0Nb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "但是现在我们在群里必须@这个机器人，才会给到我们回复，如果不加的话，它是给不到我回复的。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeXN5WWRSUh1LxB9deuaLYc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "如果你想像和真人聊天一样，不用每次都艾特机器人，那就必须把 requireMention 设为 false 。这样，这个群就变成了你和该 Agent 的专属私人办公室。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgpPtJvZbsxt7JVSoqWgPiHj",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "另外需要同时开放飞书权限： im:message.group_msg ， 两者配合一起才有效果。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgoWnfZdYj01bCKk5eG85tsh",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Agent 之间如何通信",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRGf4oZMoLt7ymKKHrXuizg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "很多小伙伴觉得多 Agent 就是各干各的，其实不然。 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "多 Agent 模式的核心意义在于：安排一个 Agent 负责监督，当其他执行任务的 Agent 卡住或出错时，监督者能及时介入进行修复工作，确保流程不至于中断。",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsVaawl5F8SXShuybFCfd9c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "有了各司其职的专家，接下来最关键的就是让它们协作起来。在我的系统里，机器人 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "首席牛马官 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "的背后，其实是一个严密的组织架构。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgctf6I5eVGCSC75E8PYNO5g",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "首席牛马官：你的 AI 部门主管",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgr7XQxLKWgdJ1mpU5dZjDwh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我设定了一个名为 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "main （首席牛马官） ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "的主 Agent。 它的核心职责不是自己埋头干活，而是 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "“接单”与“派单” ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrFwG5HOSjYP73Ce4rxptDf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "接住需求 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：它负责直接对接我（林月半子）的所有原始指令。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLbLFq2WZ0tWpu8Rx1rq9KG",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "精准调度 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：它会判断任务类型，然后像主管一样喊对应的 Agent 起来干活。比如让 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "brainstorm ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "去做头脑风暴，让 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "writer ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "去写公众号文章，或者让 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "coder ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "去写代码。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRHuEqwXlUpBK8VezmyGEqh",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "串联全场 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：它是整个流程的指挥官，负责把各个环节串联起来，确保任务不掉链子。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNjGKhLHwMGApZ1QFNFy3Db",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "核心机制： sessions_send",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbwsmw9aqDNzNRHgN2BfWHn",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Agent 之间相互通信并不是靠大声喊，而是通过 OpenClaw 内置的 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "sessions_send ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "工具实现的。 简单理解，这就是它们之间的“内线电话”。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtifJhHJoALhlxfCW5anJlO",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "硬核配置：开启 agentToAgent",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPgqUUbl5GF2Zx6uLmPIhnd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "要让“内线电话”打得通，你必须在配置文件里给它们开通权限。这涉及到 agentToAgent 的关键配置：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghOc9IcbXdY2sAeXg1pHaQh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "💡",
+          "style": {
+            "background_color": 15,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPWNDqAMIdKpqU49o7hBGBh",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "必须启用 ",
+          "style": {
+            "background_color": 15,
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：首先要将 enabled 设置为 true 。",
+          "style": {
+            "background_color": 15,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggIsAl4e2X7oDfRhoj70qUi",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "设置白名单 ",
+          "style": {
+            "background_color": 15,
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：在 allow 列表里明确规定谁能跟谁说话。",
+          "style": {
+            "background_color": 15,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIcKbLeyFAVFoEr4JKNkJRg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "比如，我想让我的首席牛马官 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "（main） ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "能够指挥专门负责生图的 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "mulerun ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "以及其他agent，配置如下：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgklNW1t8oW4ZtRqhX6ue9oc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "通过这种配置，首席牛马官就获得了给 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "mulerun ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "下达指令的权限。 这样，复杂的任务就会被拆解并在专家之间流转，而你只需要在飞书里对“首席牛马官”发号施令即可。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgG0DSCZmoGOuwEFLFxheQvd",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "写在最后",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9xHPKAkf1iQnxtUPl1zebc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "搞定了多 Agent 架构，你手里已经握着一支随时待命的 AI 军队了。但要让这支军队真正产生战斗力，重点不在于堆砌模型，而在于你作为“架构师”的 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "组织设计 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBgrXYoCZMMvioZO8bwOq6b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "AI 时代，一个人就是一支军队。 ",
+          "style": {
+            "background_color": 12,
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "我一直认为，与其强求一个 AI 像超人一样无所不能，不如像组建公司一样，设计出最适合你的 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "团队协作模式 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1AQfjLCQScoVYgThgJ4OIb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在我的设想里，你的“牛马团队”可以进化出以下几种高级阵法：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvo1xZCwbLPALFosuGQwWCc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "线性流水线 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：前置 Agent 交付，后置 Agent 接力。比如： 调研员 挖深度资料 -> 写手 出初稿 -> 校审官 降噪纠错。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg416ARtxvWNqVH1OKWjHlKg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "依赖并行 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：复杂任务拆解，多路齐头并进。比如： 架构师 定大框架， 后端 和 前端 专家同时开工，最后交给 质量监督 统一把关。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgc8CXx7OSufsxbn7B5d30Ke",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我很好奇，你的牛马团队目前是怎么分工的？",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNx3zz2DrKYkysIxI07KZKc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "是打算搭建一套 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "高效的流水线 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，还是设计一个 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "复杂的并行阵法 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "？",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgM6uLC6GYoXo0briPDPNZzg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "欢迎在评论区晒出你的 Agent 配置清单或协作构想！ 让我们一起看看，谁才是最硬核的AI 架构师！",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8DP4SkLImqFgK7pMB15DWe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "看到这里，你大概已经知道多 Agent 能干什么了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGUTBLeCl4VhPDJuI51SvTc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "下一步是你自己跑起来。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2ImG80JSMY5B7sjckyVEwh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "如果卡住了，或者想少走弯路，后台找我，我自己从搭环境到落地跑了一遍。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyulWdQ37bc6So1T9NH4VSb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "感兴趣的私信我，备注「 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "龙虾 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "」。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfgltiTOXiEs8BFxPaKu4de",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "感谢看到这里 👏",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzSPVPjvJdEJsRYuUpuPKmh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "觉得有用的话，点赞 👍 / 在看 👀 / 转发 🫱 / 评论 📣",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYpdvbK6e44yoKv7jGPZaRD",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "星标 ⭐ 一下，下次更新不迷路",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

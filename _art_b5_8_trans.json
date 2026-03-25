@@ -1,0 +1,1405 @@
+{
+  "status": "ok",
+  "doc_id": "RiGjdlZpno2bDVxx7vOlkXjlg6f",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/Mnn2wqWmEiktKNkcBPOljKFjgpo",
+  "title": "彬子：拯救金鱼记忆，OpenClaw 记忆系统演进系列（二）——构建主被动记忆的防线",
+  "revision": 109,
+  "total_blocks": 119,
+  "translatable_blocks": 74,
+  "blocks": [
+    {
+      "block_id": "RiGjdlZpno2bDVxx7vOlkXjlg6f",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Binzi: Cứu vớt trí nhớ cá vàng, Chuỗi bài về sự tiến hóa hệ thống bộ nhớ OpenClaw (Phần 2) — Xây dựng tuyến phòng thủ bộ nhớ chủ động và bị động",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvWcXT0th2XwUUE9t6Yw9fm",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔗 Link bài gốc: ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://mp.weixin.qq.com/s/l_YJpGGq...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fl_YJpGGquP2HAwi_O2Qkog"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzn2mhtFWPPjbaTjQ5HKzxb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nguyên tác Binzi Binzi AI Agent Làng tân binh",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Ngày 15 tháng 3 năm 2026 22:03  Chiết Giang",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbD3osXF86VSXuo0ll62Jgd",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trông chờ Lobster chủ động ghi chép, tuy có nhưng không nhiều",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTq8WFBLDtDc97p1372BEYb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bài trước đã xây xong nền tảng cấu trúc hóa file bộ nhớ. Có phải bạn cũng kỳ vọng rằng Lobster sẽ tự giác phân loại thông tin theo mức độ quan trọng sau mỗi lượt hội thoại hoặc nhiệm vụ, rồi ghi chép vào các file tương ứng? Nhưng thực tế là, tùy vào trí tuệ của mô hình lớn mà kết quả lúc tốt lúc xấu.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9jGZY6t6LBxgfvFgPOYPEg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhớ thì ghi, quên thì thôi. Kiểm tra ngẫu nhiên file memory/YYYY-MM-DD.md trong ngày, thường xuyên thiếu chi tiết, thậm chí không ghi gì cả. Đặc biệt khi chúng ta dùng nhiều client, mở nhiều Sessions để chat các nội dung khác nhau, giao các nhiệm vụ khác nhau, thì ghi chép càng lộn xộn, rời rạc.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYsjKd2QygroEvoUn9XTtec",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trông chờ Lobster tự nhận thức, phát huy tính chủ động siêng năng ghi nhật ký, là điều không thực tế.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgoatgMICczG9rOcR7ZopR7d",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tuyến phòng thủ thứ nhất: Memory Flush (Cơ chế nội bộ)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjy7nLB6BkRxTwy8OXKCcBc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "OpenClaw có một thiết kế Memory Flush nội bộ. Trước khi Session sắp đạt ngưỡng Compact, chủ động thực hiện một lần ghi nhật ký. Nếu lúc này không ghi, thì chi tiết tin nhắn gốc sau khi nén chỉ có thể lục lại trong file JSONL của Session.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxtpE1nvFZiIaqasaMuI3rd",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quy trình kích hoạt",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgoIgrAXcKbOvj4Zd7UKY1Cg",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ràng buộc cốt lõi",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3yTaR9RKPNPIDH2k6XqOde",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khi Memory Flush sẽ chèn prompt như sau:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTklQnlcxXXHpnIzxOKg6sS",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Pre-compaction memory flush. Store durable memories only in memory/YYYY-MM-DD.md...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSs9YyubLvO6X4MnEjn3xVf",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhưng Memory Flush không đủ dùng",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1RfOzJN9sTB0eO0dT8OlAc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Thời điểm ghi chép của Memory Flush hoàn toàn phụ thuộc vào tần suất hội thoại và tốc độ tiêu thụ ngữ cảnh:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHO9QmXCe49NuCpEDyDwo4b",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cửa sổ ngữ cảnh 200k sẽ kích hoạt Memory Flush nhanh hơn so với 1M, nên cũng ghi chép siêng hơn",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUkkm7pXXyF20BxlauYvWSg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chủ yếu làm nhiệm vụ trên Discord, Feishu thỉnh thoảng chat vài câu, thì việc trên Feishu có thể vài ngày mới ghi một lần",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgc6R4gqmtbJxzLGCzXy1H0b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vì vậy, ngoài ghi chép chủ động và cơ chế nội bộ làm mới, Lobster cần một chu kỳ ghi chép bị động nhưng ổn định hơn để duy trì tính toàn vẹn của nhật ký trong ngày.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvh4YHoDfmpJH0MNRrzyNOd",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tuyến phòng thủ thứ hai: Cơ chế quét heartbeat (Chu kỳ 60 phút)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkoBIg3vo05PpdQCyO6dgy2",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chu kỳ có tính xác định nhất của Lobster chính là cơ chế heartbeat, rất phù hợp để bổ sung ghi chép cho tính toàn vẹn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfB5KEMhzPtUHSbE8uaUWGf",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cấu hình nhiệm vụ heartbeat",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXdYSFK3Dk21hibB3Ek1mPd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhiệm vụ heartbeat được viết trong file HEARTBEAT.md. Tôi đặt chu kỳ heartbeat là 60 phút, đến giờ sẽ thực hiện quét và xử lý bộ nhớ:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgN0aEeJms06kSTanq7FMwig",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chi tiết triển khai",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgL3E93tRkqBfdC1n8DWY2Je",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ban đầu nhiệm vụ này chủ yếu gồm hai phần:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWAQHC3JYNLXZwGxCFHdaIe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1. Quét bộ nhớ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBabCJ5pQtrwz4OiqufgJvm",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Viết script quét các sessions hoạt động trong 60 phút, loại trừ loại unknown. Lấy tin nhắn 60 phút gần nhất để làm sạch (lọc bỏ lượng lớn văn bản Tool Calling, System prompt, Metadata, v.v.), tin nhắn sau khi làm sạch cơ bản chỉ còn văn bản thuần của hai vai trò User và Assistant. Sau đó dùng chấm điểm có trọng số để lọc ra thông tin quan trọng, sắp xếp và lấy không quá 30 mục.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgI4E2j73RqTrH51XUXXIq7g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2. Xử lý thông tin",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgupwnRTV5dW2ZIVrN86anxh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Xử lý thông tin được quét từ các sessions. Ban đầu chỉ thêm nhật ký vào memory/YYYY-MM-DD.md thông qua memlog.sh. Sau này khi chất lượng làm sạch tin nhắn được nâng cao, tiện thể thực hiện thêm các nhiệm vụ như trích xuất kiến thức, xác minh, ghi lại công việc cần làm, đánh dấu file hết hạn, v.v.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwBJCTqFsxRuMg7ccWT0EHb",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dùng Skill để cố định hóa quy trình",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTUebHQFfLX15DCLVBeyy5g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khi các bước nhiệm vụ ngày càng nhiều, tôi đã viết riêng một memory-heartbeat skill để cố định hóa quy trình này.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgI3fm8mNDr1G6xi7WbiTEWe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Một mẹo nhỏ ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ": ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Trong HEARTBEAT.md mô tả ngắn gọn rằng skill cần thực hiện nhiệm vụ nhiều bước, Session chính sẽ ổn định phân bổ một Subagent để xử lý. Như hình:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTSTCmtPDxqBNhY54ywwOFg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau khi nhiệm vụ con hoàn thành sẽ tự động announce về Session chính, như hình",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzav9OcZcohrI4LlMnOIaXb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tin nhắn thực thi của Subagent ở trên là im lặng, không được gửi đến kênh người dùng như Feishu. Vì vậy Session chính sẽ tóm tắt nhiệm vụ lần này và trả lời cho người dùng, như hình:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBiSZ2rviYZC9yAR6yxqp9b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Như vậy thì yên tâm hơn rồi, Lobster chủ động ghi chép trong quá trình làm nhiệm vụ tất nhiên là tốt, nhưng dù có quên thì đã có cơ chế quét và xử lý bộ nhớ định kỳ của heartbeat làm lưới an toàn, có thể kịp thời bù đắp thông tin bị bỏ sót, thu được một bản nhật ký trong ngày có tính toàn vẹn khá tốt.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgntnHQiKKLiEhykw9fBSHfc",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tuyến phòng thủ thứ ba: Suy ngẫm ban đêm (Rà soát cấp độ ngày)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9fj4yGNniVHl9BznIVGclf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Kiểu ghi nhớ thiên về nhật ký liệt kê có một nhược điểm, ghi chép theo chu kỳ một giờ có thể bị lệch hoặc thậm chí mâu thuẫn đối với toàn cảnh nhiệm vụ dài hạn, đồng thời độ sâu ghi chép có hạn, chỉ dừng ở bề mặt thông tin.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg75s0ZFBW64vbi3JsSLz00d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Điều này đòi hỏi phải rà soát và suy ngẫm theo đơn vị ngày. Một cron job định kỳ quen thuộc khác của Lobster lúc này phát huy tác dụng.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDPuuFiojohhl7M9n1JdvBe",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hai nhiệm vụ định thời",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcq0g82SJeK9zoCFOk3vJnd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhiệm vụ 1: Bắt đầu lúc 00:45 — Kiểm tra và bổ sung nhật ký",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnFWSu4LUOJStNkXa11nLie",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Có một script quét tin nhắn 24 giờ của các Sessions hoạt động trong ngày, thực hiện xử lý làm sạch có cấu trúc, so sánh với nội dung nhật ký đã ghi trong ngày, tổng hợp thành một bản ghi nhớ cấu trúc hóa làm tài liệu suy ngẫm.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwK3ocGZgvKBBtkzb2zQtdd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhiệm vụ này tôi dùng Qwen3.5-plus, ngữ cảnh 1M đủ lớn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguSnAbc8FIWoMBJJoinT5te",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhiệm vụ 2: Bắt đầu lúc 01:00 — Suy ngẫm sâu và sắp xếp file",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8yONgZWYUFKyj5Qs0MX3ee",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dựa trên bản ghi nhớ tài liệu được tạo ra sau khi nhiệm vụ định thời đồng bộ tài liệu nhật ký phía trước hoàn thành (khoảng 5 phút), cộng với nhật ký trong ngày, thực hiện một vòng suy ngẫm nội dung sâu hơn và sắp xếp file.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQkOEPkZFut80lkKedrNNFg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ở đây khuyến nghị dùng mô hình lớn có khả năng suy ngẫm tốt, ví dụ Codex-GPT-5.4.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvhmT7EPb8gzmXRsrTLIgPc",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sự tiến hóa cấu trúc file bộ nhớ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVyYsxIE9Pd3Wi4EmhNdfCu",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Như vậy cấu trúc file bộ nhớ của chúng ta sẽ có sự tiến hóa sau đây, thêm file ghi nhớ đi kèm nhật ký hàng ngày và thư mục suy ngẫm sâu:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgpemeyo0oMkmocsUPqYPIbG",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Gợi ý tối ưu",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgz5NeBFnJHUxjPCqEc8fqM0",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Xét đến mức tiêu thụ Token, có thể đợi khi ghi chép bộ nhớ dưới heartbeat đã khá toàn diện rồi,",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwWfDuhRrqA84jX2jaXo80c",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tắt phương thức ghi chép của Memory Flush, hoặc tùy chỉnh prompt để điều chỉnh nội dung nhiệm vụ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOu4VNbnkGH74OEXP3UDNvg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hai nhiệm vụ định thời lúc rạng sáng cũng có thể gộp thành một (đồng bộ nhật ký + gộp suy ngẫm)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCGbx6du4yOCXfnJtCau1Jg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tôi làm vậy là vì mục đích thử nghiệm, tiện cho việc xác minh phạm vi ảnh hưởng khi cải tạo các khâu khác nhau sau này 🤣",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2nSzczKZ7W3X2f1Xd9L7Zd",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "So sánh hiệu quả",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgoo9sWlULjqAEh1WOEUCqfS",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chỉ số",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJckQZAfk8lkodZiAZbi2Rb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trước",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6AO56PPGq0ZTcTZhW1dXDc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sau",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQjLSUFQky48LSNtHFMozez",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tính toàn vẹn nhật ký",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvGn4C7aL7XdPa0JlflTacm",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": ">60% (kiểm tra ngẫu nhiên)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfEM0LrWEcp9oIjZBhknOgh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "~95% (heartbeat bổ sung + suy ngẫm ban đêm)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbvrFkxyybN6lWnqVVUqLje",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quyết định có thể truy vết",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfAX731P8QbOfEDABDi9LQd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dựa vào ghi chép chủ động",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2GkHpZKCH9U9cO9N2UqBVf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "memory/decisions/",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfhMuSFhr9v5o1HocNdDGwf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tái sử dụng kinh nghiệm",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTsnvFQylFOkGb3ZIiUoKod",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Gần như bằng không",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJNr784DK3YYkkkpYhhTS4g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "30+ lessons có thể tìm kiếm",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgM9f6nS2H2Xd50fn4BFPB3c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "File lỗi thời",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLSZO42woWYJDppwPD2hFRh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Không ai quan tâm",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOo8e0E1QeF19FKosTyp9kd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đánh dấu tự động",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIcOamJI18WRFqeCLYE7Krd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Độ sâu suy ngẫm",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRpKwZoT9LUYhFhopv9QVHu",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Thỉnh thoảng mới có",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg42dmh2NtrVLSI2IUG9ORgf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sản phẩm cố định hàng ngày",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXJ2rD2ffVC5QI15uVZ2Smd",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dữ liệu tính toàn vẹn nhật ký, \"trước\" chỉ dựa vào Memory Flush, \"sau\" chỉ cơ chế kép heartbeat + suy ngẫm ban đêm. Giữa hai giai đoạn cũng là quá trình tinh chỉnh từng bước",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgU9PoFOKVa0Z2uhl4ND1FAf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhìn lại, bộ nhớ không dựa vào tự giác, mà dựa vào cơ chế. Heartbeat không phải là quấy rầy, mà là cảm giác an toàn. Suy ngẫm không phải là tổng kết, mà là tiến hóa ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ".",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8DURSuasiWgD38HSZmocHg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đây gần như là nội dung của bài thứ hai, vấn đề tính toàn vẹn của ghi chép bộ nhớ chủ động và bị động cơ bản đã được giải quyết, chất lượng bộ nhớ đã có sự cải thiện theo từng giai đoạn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4zX5ERCM7EHt7nWhf1rIOe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhưng ghi lại chỉ là bước đầu tiên, làm sao đọc hiệu quả, làm sao để Lobster thực sự vận dụng những kiến thức này, sẽ được chia sẻ trong bài tiếp theo về những thử nghiệm của tôi, trong cấu trúc bộ nhớ lấy file Markdown làm cốt lõi, làm thế nào để phát huy tốt hơn khả năng tìm kiếm.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1655 @@
+{
+  "status": "ok",
+  "doc_id": "WpIRd5iWvorpHcxfdQ0lsOzhgwM",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/VckQwpIpni4oAHkTKGdlSR6ygSf",
+  "title": "OpenClaw真实应用案例合集",
+  "revision": 104,
+  "total_blocks": 170,
+  "translatable_blocks": 84,
+  "blocks": [
+    {
+      "block_id": "WpIRd5iWvorpHcxfdQ0lsOzhgwM",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "OpenClaw真实应用案例合集",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxEWNgjCldL7VoCaubcbrqh",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔗 原文链接： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://github.com/hesamsheikh/awes...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Ftree%2Fmain"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTD53X5hLHPtu3Fc3TefY5g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "解决OpenClaw适配的瓶颈：不是技能，而是寻找它能改善你生活的方法。这是一个",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "OpenClaw",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fopenclaw%2Fopenclaw"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "真实应用案例的社区合集。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgh8o7j1NRYvulM5vIzYovtc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "警告：此处提及的OpenClaw技能和第三方依赖可能存在严重的安全漏洞。许多用例关联到社区构建的技能、插件和外部仓库，这些都未被本列表维护者审计。务必审查技能源代码，检查请求权限，避免硬编码API密钥或凭证。你需完全负责自身安全。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJ46PssGj5BovX4yffwbNEc",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "社交媒体",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBxvezmSpg71NpclUYgZpMe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "名称",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBA9vtwRFUk2CJXqaPfeite",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "描述",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgve2F5pwCetaqllOggm2yDb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "每日Reddit摘要",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fdaily-reddit-digest.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLswLK8kyu1oJ6hDJcIqnWc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "根据你的偏好，整理一份你喜欢的子版块的精选摘要。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsqrvsUastffWzQYvY1rpGe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "每日YouTube摘要",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fdaily-youtube-digest.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKhINEqShorLMuztTPXeJWd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "每天获取你喜欢频道的新视频摘要——永远不要错过你关注的创作者的内容。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGF0C7x5zMhLvGEi2trfwKb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "X账户分析",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fx-account-analysis.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgulCcAr2k2zWcHNpiekFJ1T",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "对你的X账户进行定性分析。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDAqlCz2ogdKFzwI1EndOBh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "多源科技新闻摘要",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fmulti-source-tech-news-digest.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvArb0k2VAYtMfAz4ldS8Yg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "自动汇总并通过自然语言从109+来源（RSS、Twitter/X、GitHub、网页搜索）提供高质量评分的科技新闻。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZluZMK17IuDQwIQMvpIgPb",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "创意与建设",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQhZBPYyyvRnArwryUENUzb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "名称",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSOrYjOAacZKwys01KFMxue",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "描述",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvUMKjRpeC1z5vsytOUEOQh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "目标驱动自主任务",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fovernight-mini-app-builder.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9kvn26yKmZ5JTMtO5D2VCf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "脑袋中放下你的目标，让你的经纪人自动生成、安排并完成日常任务——包括一夜之间打造惊喜的小应用。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaYJnq1CCWMPmyBpHtnglgh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "YouTube内容管道",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fyoutube-content-pipeline.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgu28HiWfjKWZHsH4uGw8Ubf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "自动化YouTube频道的视频创意发掘、调研和跟踪。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaF2LvwpVjU6NBYTLeSbEXb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "多智能体内容工厂",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fcontent-factory.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYjsK6WsMgkqDp0QvBfRavh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在Discord中运行一个多代理内容管道——研究、写作和缩略图代理在专门渠道工作。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaX7yIkjAnL3XhQyxqlqpSd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "自主游戏开发流程",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fautonomous-game-dev-pipeline.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWXDDKYmPGB6ruZAEL9Swjc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "教育游戏开发的全生命周期管理：从待办事项选择到实现、注册、文档和git提交。执行“错误优先”政策。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFrh7viN3sWt0qpCNwFWk3g",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "基础设施与开发运维",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgt7L7L5FGTrd8s6ejjLMYqg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "名称",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSPBZXVFvS5Li3h30m6LQQh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "描述",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVkClrLbAd5wIBMR0c4uXLb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "n8n 工作流程编排",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fn8n-workflow-orchestration.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg32WKAwctRvchCCYFQZSRRh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "通过webhook将API调用委托给n8n的工作流——代理从不触碰凭证，且每次集成都是可视化且可锁定的。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFqvKRdO9kZWC2eeFkEDwQg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "自愈家庭服务器",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fself-healing-home-server.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9GBmDpwxNtEFu6D5fzG6Ub",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在你的家庭网络中运行一个始终在线的基础设施代理，支持SSH访问、自动化Cron作业和自我修复能力。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZvdRfaVZzdyRwNJcbF26Nd",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "生产力",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4Hzq5lTfmDiYUcydSoP8hf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "名称",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8qyajJwtWzvdF9TYhAkUTc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "描述",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgm3FyMgn7YcDjARtiq9Q3zc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "自主项目管理",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fautonomous-project-management.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJXTxfzpnGXsaBeypu814Sf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "使用STATE.yaml模式协调多代理项目——子代理并行工作，无需编排器开销。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbAAxMgDigJ98Ka7P9Glllb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "多渠道人工智能客户服务",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fmulti-channel-customer-service.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdCOy04yIaGJZ904x4vlXTh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "将WhatsApp、Instagram、电子邮件和Google评论统一在一个AI驱动的收件箱中，全天候24小时自动回复。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgq3wHya8BU0ZxIHsfwfEDxh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "基于手机的个人助理",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fphone-based-personal-assistant.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaOj0VZaoJlf2NXdGGo2mUb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "通过电话访问您的AI代理，任何手机都可免提语音协助。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyLA3sG89zI5HwFg7s7oSif",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "收件箱整理",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Finbox-declutter.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZSVUFhAWYkW013QgqSQMTf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "总结通讯，并以电子邮件形式发送摘要。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgM3k1AsXq6O5hji8hefRtch",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "个人CRM",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fpersonal-crm.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgX4vZc8e809J7T88QF4oQuh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "通过自然语言查询自动发现并跟踪您的电子邮件和日历中的联系人。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtWaoxEORgthEXKtcepXGoA",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "健康与症状追踪器",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fhealth-symptom-tracker.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVpaF6EoJfQGsgLF8xSZVcf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "通过定期的签到提醒，跟踪食物摄入和症状以识别诱因。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgV8MTg032XLP3XWvmKB10Xe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "多渠道个人助理",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fmulti-channel-assistant.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgur6gLl5Q5E1IVVokJUaJEb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "通过单一的AI助手将任务路由到Telegram、Slack、电子邮件和日历上。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7mfdgeizIJ7KRNMggdbj2f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "项目状态管理",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fproject-state-management.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOyv0H4rzIP1KXAVklWVrDh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "事件驱动的项目跟踪，采用自动上下文捕获，取代静态看板。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMokkv2HaK3XbQM9w1Py5Rd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "动态仪表盘",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fdynamic-dashboard.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkcdQqS1qEqXw7NVCh3SHve",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "实时仪表盘，并行从API、数据库和社交媒体获取数据。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgc2tjV6smWps60RK7DoCkKb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Todoist 任务管理器",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Ftodoist-task-manager.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtMQhesHx9EWTSczG8ug1PK",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "通过将推理和进度日志同步到 Todoist，最大化代理的透明度。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgK8Raa1BWlJRBswRnYyLl3d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "基于手机的个人助理",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fphone-based-personal-assistant.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEkXDcOpa6Kr8Az7X4v0Y0g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "通过语音通话或短信从任何手机访问OpenClaw。免提获取日历更新、Jira门票和网络搜索结果。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHygdAaarbAM4cLQuGV4nGy",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "家庭日历与家庭助理",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Ffamily-calendar-household-assistant.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvFavSVGeu1MT8DnnlNcx3e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "将所有家庭日历汇总成晨间简报，监控约会信息，管理家庭库存。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg44OTb6ZWIFxJmi0ZeNrpqb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "多智能体专用团队",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fmulti-agent-team.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgg8aYSdPB3IvplB1NX40pAh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "通过单一的Telegram聊天，作为一个协调团队运营多个专业代理（战略、开发、市场、业务）。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgo2kacDGQapS0k4klJzljbe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "定制晨间简报",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fcustom-morning-brief.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgX8Bbkn1ozi7g1OmpLg0mcc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "每天早晨，获取完全定制的每日简报——新闻、任务、内容草稿和AI推荐作。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgpZgimhqQZkgf89vY5LPELK",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "第二大脑",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fsecond-brain.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkmfOZ8cqA9utHyi5GWha4g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "给机器人发短信记录，然后在自定义Next.js仪表盘中搜索所有记忆。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5aypEs2VbZAu95hbbp2Xwc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "活动嘉宾确认",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fevent-guest-confirmation.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghneFF9TQ16Yj2kgEoyurIb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "逐一联系活动嘉宾确认出席情况，收集笔记，并通过AI语音全自动整理总结。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwwPIzjoJljPudhJ70b2J2d",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "研究与学习",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgr8rjtlJbGODfRLtlXb6jsf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "名称",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCRlWkMaZswA9xm46A25JNf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "描述",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlga14rVWXiVh2EtjxN9ThVEe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "人工智能收入追踪器",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fearnings-tracker.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCMqUcgcQJVzVmUIbiZXN1p",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "通过自动预览、提醒和详细摘要跟踪科技/人工智能财报报告。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzxlj9tEWepQr4MBWPYfVgc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "个人知识库（RAG）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fknowledge-base-rag.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZwHqoWXnTnSWZu3prjBzkf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "通过将网址、推文和文章放入聊天，构建可搜索的知识库。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLv69SkXMTop49m38ydOyzh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "市场调研与产品工厂",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fmarket-research-product-factory.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgY7aP2E1gE0OtvW6hzoKoWe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "用Last 30 Days技能在Reddit和X上挖掘真正的痛点，然后让OpenClaw构建解决它们的MVP。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeizp8OQCjcPZ9BwRBZz25b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "语义记忆搜索",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fsemantic-memory-search.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgY3OshrQQpulCfhc5Hz24nc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在你的OpenClaw标记文件中添加矢量驱动的语义搜索，支持混合检索和自动同步。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBcif8aMAf8DUaY6L3qaxBc",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "金融与交易",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIjMxWWe0c8VHcUnBVoSIRf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "名称",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPh1i7wUAajAuDUfPt9LJed",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "描述",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkPm1JdwgkWDawtGvP8MTze",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "多市场自动驾驶",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fpolymarket-autopilot.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgERA3efRu6CCsZ9hzwGscwc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "预测市场中的自动化纸币交易，包含回测、策略分析和每日表现报告。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

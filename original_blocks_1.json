@@ -1,0 +1,3057 @@
+{
+  "status": "ok",
+  "doc_id": "JSlmdEigFo9pQgxEYyTluvlPgBe",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/WRjGwjaDkitofvkJbHClwhfpgQe",
+  "title": "自然环境下部署 OpenClaw & 畅享 Codex 5.3 新手保姆级教程",
+  "revision": 184,
+  "total_blocks": 156,
+  "translatable_blocks": 107,
+  "blocks": [
+    {
+      "block_id": "JSlmdEigFo9pQgxEYyTluvlPgBe",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "自然环境下部署 OpenClaw & 畅享 Codex 5.3 新手保姆级教程",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsMZf11TR3y8F4gnUpLC7jf",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔗 原文链接： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://mp.weixin.qq.com/s/N7IqLjgE...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FN7IqLjgEtbAuMb7gG2WFOw"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgu0lNThbuazG5VoRMWeOtyf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "原创 赛博进化手记2077 赛博进化手记2077 赛博进化手记2077",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026年3月10日 10:51  安徽",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwr5pi9XLEHNuANGkYumGIf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "有很多小伙伴私信问：怎么在“海鲜市场”上买 GPT 的 Team 账号？如何才能享受一个月10块钱的“小龙虾 (OpenClaw) + Codex ”的服务？所以专门写了一篇稿子，说一说我的经验。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRcPeGeszwkhiz9McddyPKf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "首先，要明白一件事情，在这里最复杂的其实不是弄到 Team 或者是 ChatGPT 的账号，而是 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "如何才能在自然环境下流畅地使用你想要的模型 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "。（优先推荐 ChatGPT，毕竟小龙虾之父现在就是 OpenAI 的人）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWNVhUvoYrXBX8Gth3Ryl8g",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "课前准备：我们需要什么？",
+          "style": {
+            "background_color": 9,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgW3iRvve55omdVKcZuIkmzi",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在此之前，让我们先弄清楚，想要做到直接使用“小龙虾 + GPT 5.4”，需要做哪些准备：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAERQqYlKS4Cm1PNGl8Dy9e",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "加入 Team 的 ChatGPT 账号",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDdJdp9H1kqbm4fPqyBuUHc",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "VPS 服务器",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMIu8NTGhz6KiPaqVQTFypb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "以上两个都可以在“海鲜市场”获取。具体如何搜索获取就只能开动脑筋了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgE796qY2vwUlfxtyeXA5Lqb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "关于 Team 账号 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：一般加入别人 Team 的价格在 10 块钱左右/月，超过 15 块的建议换家店。这里的 Team 账号就是有一个号主，他把自己的账号开通 Team 座位，然后把你拉到他的 Team 里。理论上你们的对话记录是彼此隔离的，互不干扰。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLpUIejHusbHGrOyMnpNOXe",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "💡 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "新手避坑提示 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：建议 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "不要 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "用自己的 ChatGPT 主账号去申请加入 Team，而是用小号。我自己是用 Google 的小号注册了 ChatGPT 的账号，然后再提交的 Team 申请，这样更安全。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgy8DpM1hwXd28rTJPhO9rZc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "关于 VPS 服务器 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：建议购买海外云服务器（如阿里云海外节点等），可以选择离大陆较近的节点（例如香港、新加坡等），延迟更低。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEomaE1E9GwzN9MBNpz2S7f",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "第一步：连上服务器 & 安装宝塔面板",
+          "style": {
+            "background_color": 9,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQ1l9GTctlA82B6jeVyBFwe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "背景交代清楚了，我们正式开始！首先我们要连上刚才买的 VPS 服务器，并安装宝塔面板。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDIv1aG2WaQaCQVE4zFfGcd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "从店家那里拿到的服务器信息一般是： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "IP地址 + 用户名（通常是 root）+ 密码 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQGduMR6GcJfxaZwheJO3Te",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1. SSH 登录服务器",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZsMXaHekVSrVddLByzqEUt",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "打开你电脑自带的“终端”（Mac）或“命令提示符/PowerShell”（Windows），使用 SSH 登录：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5uXSbYSP6BS9Xst1XQve8w",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接着会提示输入密码。 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "注意：在终端里输入的密码是不显示的 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，不要以为没输进去！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnGVjW4DFhDVR9nrWWCGOJg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "建议直接复制密码，按鼠标右键或者 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Cmd+V",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " / ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Ctrl+V",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " 粘贴，然后回车。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0Rrs4DEvdw09pJJSZv4Xxb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这里可能会提示你没有指纹，问你要不要继续登录，输入 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "yes ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，回车",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1xrg37V9N4gwHea4jfP1dh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "当你发现终端最后面的提示符变成 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "root",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " 的时候，就意味着连上了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEXstP3ENiTyK1ijWzsUj6H",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "就像这样： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "root@your-server-name:~#",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrvVeHCGDgaDnlfPZGID43d",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2. 安装宝塔面板（非必要，但推荐新手安装）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgt391AofcW2NHCIkpBqbMpb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "为什么推荐安装宝塔面板？因为我们需要一个图形化的界面去直观监测服务器的运行情况。老手可以跳过这一步，直接进入第二步环境配置。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfP9zRT45Wkffkzqwd2dOwh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在终端中输入以下安装宝塔面板的命令并回车：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkN475DBepqe2IFzNbRdIge",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "期间会提示你要不要安装，输入 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "y",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " 然后回车。 宝塔面板的安装时间大概是 5-8 分钟。安装完成后，终端会显示 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "宝塔运行的网址、用户名和密码 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXQR7C2jDqH4O6Gnupw4lae",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "⚠️ ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "强烈建议 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "：用一个 txt 文本把这段网址、账号和密码记下来，或者发给自己的微信“文件传输助手”。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6vK6d6GAYQ7Bi8beRi8vOg",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3. 登录宝塔面板",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgySskBUHe4no6LUfI966Brc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在本地电脑的浏览器中，会询问是否同意进入宝塔面板，点同意，然后输入刚才保存的宝塔网址，粘贴用户名和密码登录。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgz8UGtPr6mO6ibOp9z4oTRg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "第一次进入宝塔面板，会提示是否要一键初始化安装推荐配置环境。如果你的服务器像我一样是配置较低的“弱机”， ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "暂时先不装 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，直接关掉弹窗。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFeoFz41NVb8vPhKrepw8Rc",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "第二步：配置环境 (Homebrew 与 Node.js)",
+          "style": {
+            "background_color": 9,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJAaX1nQQFhOGQ2xqgQ7U1c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接下来我们要给服务器安装 OpenClaw 所需的基础环境。回到刚才连接着服务器的终端。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsYmBUiBjmMLm6BuS3G7kEf",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1. 尝试安装 Homebrew 与新建用户",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAkh2vHf5oAgTQP86XfuoIh",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "简介：Homebrew 是 macOS 和 Linux 上缺失的软件包管理器，能让我们极其方便地安装各种依赖。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQzHlFUmd9lcRfgph5nRzNh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "（这里有几张图忘了截了，但按照步骤来应该问题不大orz）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjQwHopgoXzI4msC4ooV7uA",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "首先我们需要安装 Homebrew。 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "但是，当你尝试安装时 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，系统会提示当前是 root 用户，而 Homebrew 的安装脚本不允许直接以 root 用户运行。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNqfQZFIQsWvf7pIBeOMaNb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "没关系，我们新建一个普通用户，这里叫它 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "xiaolongxia",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqLyBN6kAz2WBjdolTnSKpg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "中间会让你设置密码（输入密码的时候你看不到，建议用简单一点的密码，后期也能改），剩下的几个选项直接一直回车确认即可。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5CLS4Le3A635jibPK1jOag",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接着，把 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "xiaolongxia",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " 用户加入 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "sudo",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " （管理员权限）组：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfOcBLluUboMNYHvDUQhg2D",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "然后切换到这个小龙虾账号下：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNYoWy8JR0YjEpVUMxALqLh",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2. 正式安装与配置 Homebrew 环境变量",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgG1tGvKTV7Ti3bLRpit4Msg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在当前 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "xiaolongxia",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " 用户下，正式运行 Homebrew 的安装命令（按照系统提示操作）：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxd43Cdyp8Cf0ommZxLoTPg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "安装完成后，终端会显示安装成功，但提示 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "还没有被添加到你的环境变量（PATH）中 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "。系统还不知道 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "brew",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " 命令在哪里。 依次运行以下两条命令把它加进去并让其立即生效：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFEXEdkUpVh90WpY3U5Bijf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "好的，生效了。我们来验证一下，输入 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "brew -version",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " 。 如果提示类似 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Homebrew 5.0.16",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ，说明 Homebrew 已经安装并完成配置！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsvZcCklm1x68q6JDgbmdVe",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3. 安装 Node.js",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtbl7CfksCtisqWe0k1uxnd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "有了 Homebrew 环境，安装 Node.js 就简单多了。 输入：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdWY4vhYHDpSBxE43hDyyog",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "（⚠️ 注意：代码前后面不要有空格，我第一次安装就因此失败了。）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7rf0UuVGNSGw4b6eWyzyYj",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "好的，到这里 Node.js 也安装成功了。那么，剩下的是不是直接安装 OpenClaw 就行了？ ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "并没有这么简单！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxQUMFalQKPIVkVWiGw7BTG",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "第三步：安装 VPS 远程桌面",
+          "style": {
+            "background_color": 9,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWOG2gaTdbPxd2DFH75XE6A",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "如果你的网络环境是通畅的，此时确实可以直接安装 OpenClaw 了。 但我默认你使用的是 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "自然环境 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "。那么，有一关就横亘在这一步之前—— ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Codex 的 Auth（授权）认证 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbCVzUHKuLhrOyqDP0w0hjG",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "一般来说，在安装 OpenClaw 时，会需要认证服务商。此时，如果你选择了 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "openai/codex",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " 认证，会要求你填回环地址（Callback URL）。但这个地址如果你本地的电脑无法打开 ChatGPT，是无法完成回调并获取该地址的，而且这里已经被官方写死了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTW0a6bIdZedY0Wol8Zr4sb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "所以我们就要另辟蹊径。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7g7jJkU77T4X74fmp0T50d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "好了，我们另辟蹊径的方式就是： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "用 VPS 搭建远程桌面，在服务器上打开浏览器完成认证！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXMYj6DOsztgErqzyT1ZGUf",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1. 在 VPS 上安装轻量桌面",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLRFYHpn40gAcLwONdPXx0c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "（这里又忘截图了，但按照步骤来应该问题不大，滑跪orz） ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgG5ocB7BtEdpG1mUxJ756eg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "先回到服务器的终端，把下面这整段命令复制进去执行：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbbEDADut4NGDOgkuIGryEd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这一步做的事是用来安装：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVjdKbHm6mK7cTvLHhR5OWf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "xfce4",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ：轻量桌面环境",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHmDCbnaHhwcOY5J863e8Eb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "xrdp",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ：让你能从 Mac 或 Windows 远程连接进这个服务器桌面",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7UInNa9usyatYNzLM10MSc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "epiphany-browser",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ：轻量浏览器，一会用来打开 OpenAI 登录页",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghnxUHMh7FTQaxra402Zgle",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2. 确认远程桌面服务起来了",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1lgvKVMZ1wSEXX6pjeEQAX",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "执行这两条命令检查状态：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgiNHQ5OIrXKBMtMwKt7jH2f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "你需要关注的重点是，第二条命令输出里有类似 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "0.0.0.0:3389",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " 或者 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ":::3389",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " 。如果有，就说明远程桌面服务已经在正常监听了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvALVdmQYjXSg2E75KM0jv0",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3. 在本地电脑安装“微软远程桌面”",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWvPtbwMGGn0KIXgPiCF40e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "如果你本地的 Mac 电脑上有 Homebrew 环境，那就非常简单了，直接在 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "本地电脑的终端 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "执行：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOcvEwiR5ezBHMzh3MNLtkc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "如果没有也没关系，直接去 App Store 下载安装 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Microsoft Remote Desktop",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ，流程省略，一路“下一步”就行。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgccsH0CbjuHW7uxPdJwiwAd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "好了，安装完成后我们打开它：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguYURogJxXAXymZ27LPSHuf",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "会问我们要不要更好的用户体验，点 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Not now",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " 。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHt8SHwIQdArkzs4z44Ozgg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": " 2.点 击上方 的  ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "+",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  加号，选择添加电脑  ( ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Add PC",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " )。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgpYTdiWp8k0mPaYDwUPVxxc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": " 3.其他的都不要动，只要把VPS 服务器 IP 地址 填到电脑名称里（如果有端口需求填 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "IP:3389",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ）。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaJQbybaVwuT4IeY2vmtJec",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "4.点击添加 ( ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Add",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " )，然后双击卡片连上去。 好的，成功连上了我们服务器的桌面了！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQHED1gSedqxl9lIlwcF4bg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "5.双击刚在添加的那个电脑，也就是上面出现的小屏幕，输入我们在“配置环境 (Homebrew 与 Node.js)”这里添加的用户名（比如xiaolongxia）和密码",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4w5fBjjpE7B4rH3FVCdEwh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "6.在短暂的黑屏之后就会来到远程vps的桌面",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2WTz3AEGCKBKBDBhdogsmh",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "第四步：登录账号与安装 OpenClaw",
+          "style": {
+            "background_color": 9,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVYVmXGAAKZckOTGhaj1V0b",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1. 在服务器的浏览器中登录 Google/ChatGPT",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1Pr3eRqZJN9MEATyaOb9yf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "首先在这里 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "先不要急着在远程服务器的终端里安装 OpenClaw ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTYhVAh6jtK9FfPShvqpowf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "我们要先登录你用来验证 ChatGPT 的账号（我用的是 Google 小号）。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgh1i42K0SLwOty6NF6jB3Me",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "点开桌面上的浏览器（Epiphany Browser），直接在地址栏输入Google和 ChatGPT 登录 Google 和 ChatGPT。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghVPFfwqycah0wzA9njGkvf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "个人信息实在是太多，就不贴截图了。网页登录都不会的话，那我也只能摊摊手了 🤷♂️ ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgravDLAJndGgtfYnriuDn3g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "确认你的 Team 账号已经成功登录之后 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "，我们开搞下一步。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfSvVq0DChnJPLTR1JAAMtc",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2. 终于可以安装 OpenClaw 了",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg658WyTCPEx3AKHDlYGWIMc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在远程服务器桌面里打开一个终端界面（Terminal Emulator）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKobKvRqFA8qJ3Ys2ZWm3yg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "验证之前步骤都很简单， 相信大家都看烂了，就是提醒你 OpenClaw 是实验性软件，会访问你的文件和网络，问你是否了解风险，然后用键盘上的箭头选择  Yes ，按回车继续。以及选择是 要 QuickStart（快速开始）还是自定义安装。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg751vePiUCSGYYd0ZXwMuse",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "好了，要验证了",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzwPF79jDUUwLPL7TSTflWf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔥 重点来了：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsf6UMtAYFLqYoYLKnWJKqP",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "到了验证环节，选择第一个 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "OpenAi",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " 验证。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJcnKtI78qmjZEW8E6rj9Kh",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这里会直接弹开我们刚才在 VPS 上打开的浏览器，请按照正常程序验证登录。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgi2qlnm0EAlrDlXOYInMdXh",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "因为我们之前已经完成了 Google/ChatGPT的登录，这里会非常顺利，当认证完成时，你的 VPS 网页会提示验证已经完成（Success）。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTezG8NeJunMEFKVpZAWvw9",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "千万别关掉网页 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "！到浏览器地址栏，把最新的那一长串链接（这就是回环地址）完整复制下来。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4nJjnt2wHiY1gx51EzB4Oh",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "然后回到 VPS 上的安装终端，把它粘贴到要求输入链接的位置，回车！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwZfgayGVIp3k8xEdspOmjb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这里是图片步骤：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHqkpapcTYzUpHSUCmPxM1e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "图片步骤1: ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4jvdJ5oiKWV9D6qllqQ6Vd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "首先是等待弹出openai的验证网页，如果没有弹出的话点击截图中的网址。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzWzR6NgeEN2Z5fTJaoW1ah",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "图片步骤2:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgG1oIsyrr1kdX72rQyZPqEd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在远程桌面的浏览器中复制用来验证的回环地址",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7j8bLdsmcic2MqFGbzXTcc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "图片步骤3:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBeGKETtLzgmG9KS79A31Vg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在远程桌面的浏览器中复制用来验证的回环地址",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtX7ZmtC5FqbtouRNryhkcf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "然后，你就会看到： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "验证成功了。 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 3,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRimZfvGObEw7S9Cakkh4Yc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "剩下的就非常简单了，一路敲回车默认设置，反正到后来可以自己改。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWjXpkZzjPTDIfClzM7LH4C",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "搞定！测试运行",
+          "style": {
+            "background_color": 9,
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgD7QL9TtR51V9Eyhekg6kEd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "安装成功后，我们可以先退出 Remote 的远程桌面界面，关掉它。 回到最初宝塔的那个终端，输入命令进入界面：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQaLulrDHosY5VKlB5w6U7g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "（如果提示 openclaw: command not found 的话，那大概率是没有在xiaolongxia的账户下运行，输入su - xiaolongxia）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfbLaslZxBxdNJyTKrKcyTe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "切换到xiaolongxia的登录，然后再输入命令进入界面，就像下面这样",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg338weGeFFmTjqIMjnkcape",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "如然后在终端控制台里问它一句：\"你是什么模型驱动的？\" 如果它的答复正常回复了你。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRHi10r81pqyiayB7WrTend",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "至此，我们的小龙虾 (OpenClaw) 安装成功！ 全程都是借助自然环境，没有在服务器上做额外复杂的网络代理配置。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXfr6mwsTKqYhT2CWVsj13c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "下一步，就可以让小龙虾连飞书、QQ什么的了，这期教程暂时告一段落！",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

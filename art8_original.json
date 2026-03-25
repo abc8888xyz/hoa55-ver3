@@ -1,0 +1,1026 @@
+{
+  "status": "ok",
+  "doc_id": "AfsSdU7UmoTobixYYxTlzt2Rgpf",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/UtnZwK9aPiIPbekmPUll9hzrgue",
+  "title": "没想到！Openclaw一只AI‘龙虾’竟解决了我的育儿难题：自动管理电视时间，还教会我新技能",
+  "revision": 93,
+  "total_blocks": 81,
+  "translatable_blocks": 53,
+  "blocks": [
+    {
+      "block_id": "AfsSdU7UmoTobixYYxTlzt2Rgpf",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "没想到！Openclaw一只AI‘龙虾’竟解决了我的育儿难题：自动管理电视时间，还教会我新技能",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKhd3rbpfhszjhBijS3mvRg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "公众号原文：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://mp.weixin.qq.com/s/RYCNIkSH43k5YcBrFQzvcA",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgv2kaPcIUt5mCNjLdvFWq1e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "大家好，今天分享给大家一个真实场景下的使用OpenClaw的案例",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGu7DBBxOwdTgAjywQ7fNUe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "“妈妈，我就再看一集！”——这句话是不是特别耳熟？孩子沉迷电视、手机屏幕时间失控，是无数家庭的共同痛点。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbRnmhZpN0PLTQTxbwR8glf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "你是不是也有这样的经历，孩子在家总是看电视，让关不关；或者说是用手机学习其实在玩游戏",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgf6qn6x4HAmhgoFv6dwkeac",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "今天，分享一个真实案例：如何用最近爆火的OpenClaw（龙虾），来“驯服”家里的智能电视，实现自动化管理，Openclaw自动接管家里的电视，",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "做不扫兴的家长（脏活openclaw后台帮你干了）",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsR7NXR8R8Jt0eEZ1Kg39Jg",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "目录",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsb1tpORqJqPSeA6rM9xtob",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1）前期准备",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxxeTWVM8UKLMRBG8dAKwYg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2）设备调试(本文以智能电视为例)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgG1IX6qZgY4W0Ase0GEaZLd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3）使用说明",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg33YBkZHNKkKMtqotlMsr50",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "4）技能封装",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgg83MXvTUwN79XSH4hdzE7b",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "一、前期准备",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgoR23IgLp2aPKsyqwkDJpdg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "首先一定要有一个自己的龙虾（OpenClaw、Copaw等国内衍生的都可以）\n",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "我这里有一篇之前写的如何在window电脑端部署Copaw的教程，如果还没有“养虾”的小伙伴可以先自己部署下，如果不会部署也可以在评论区留言",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "手把手教你在window上安装Copaw，搭建符合国人体质的小龙虾，所有坑都已填平",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzkwNDcwNjMxNA%3D%3D%26mid%3D2247486800%26idx%3D1%26sn%3D5399ca99e2a8840bf55f1e9cfacd17c9%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRwNM4h3POYUQ6pognPZd0L",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "为了能让龙虾管理智能电视，所以部署龙虾的电脑一定要和智能电视使用同一个网络环境，也就是用同一个WiFi",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXT8Mv6BuBuNWHQOiCN3jIg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "还有一个就是你的龙虾要接入了飞书、钉钉等聊天工具，当然如果没有接入也可以使用Openclaw自带的聊天功能来进行后面的操作",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsoks2D4M34sYVmJjGLKUJc",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "二、设备调试",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9ZHzU1V25501IE7YzSZruh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "本文使用智能电视作为演示，安卓手机同理",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzjqdqWFUzvU54cESSKIjae",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "开启电视ADB功能",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 5,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnjeyoRAzX6281q8vAHusYg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "文中演示的电视是小米的，如果你是其他品牌电视方法类似。我也整理了一份文档包括市面上常见电视开启adb的方法，",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "关注公众号，回复“adb教程”即可获取下载地址",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgoejSwMUfIqSV4cV4m8RJGe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "设置→关于→找到产品型号，用遥控器在产品型号上面点击7次，会看到提示（开发者模式已启动）→返回，找到账号与安全，在里面会看到下面图中的内容",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgK96cWTpL3Sxjq7drx5RpAe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "把ADB调试从拒绝变为开启",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCGMhvtbDJa7kmtxLbRoW8d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接下来在电脑端下载adb工具，这个安卓开发必备工具如果你的电脑之前安装过安卓studio之类的工具，那么就可以忽略这步",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgheooXHF9RJKdp9PYxsIiFN",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "（这一步可以让龙虾帮你安装：“帮我安装adb工具”）",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUMSqMsVyRRpGUXwqew0KTf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "官方下载地址",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguNpQfQ8uADNMN0zKNPpDHf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "https://developer.android.google.cn/tools/releases/platform-tools?hl=zh-cn",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIPzvdmYSCQr7egwXRVPHKo",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这个工具不用安装下载后解压放在那里就好了，要记住它的解压路径哦",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgs8tU2x8n02LEwY4Xj8r9Wf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "可以把adb.exe配置到电脑的环境变量，这样不论在哪里都可以输入adb命令执行，如果不想配置也可以直接进入刚才的解压路径使用",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKeLvaihK3kMQjvzrgg0fId",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "找到系统变量里面的Path，双击打开",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZadcIhc5Cd1J736sNHXn7e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "在里面最后一行加入adb的路径",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrtHNtYfUGv1uIOHvrbIk9b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "点击全部确定即可",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLZ6TyW3M76fIZFSWc4nFfh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "按键盘上的win+r键，在打开的界面输入cmd，会弹出一个命令行窗口，在里面输入adb，出现下图样子表示安装成功了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRanNknrW5695ZgOMXRPXsh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接下来找到电视的IP地址，也是在设置里，无线网络里点击就可以看到（为了后面使用方便建议把这里的手工设置打开，从新输入一遍IP，这样做的好处是，以后不论怎么开关电视，它的IP都不会改变）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgungWXVWkpdCldqvtpnOUxv",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "三、使用说明",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgB01tCP1o9AkhAUHM0LUkOg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "完成上面的准备后，接下来就是使用Openclaw来进行操作了",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4CztDMygX8NJ4S6rIFA9Zf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接下来直接和龙虾说：",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgq1vSwq2VdsBHGW4wf0e2jf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "1、帮我连接到安卓设备192.168.1.12-- 如果你上一步没有把adb加入环境变量，在这里要告诉龙虾你的adb.exe安装路径",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaT7wrpoTIagElqXmu0N55D",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "第一次使用的时候需要告诉它电视的IP地址，后就不用了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQNpM1unBDoTHhbbZf8sZJg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2、“帮我查看设备运行时长”  --  此时龙虾应该开始去向电视发送命令，返回给你这台电视开机的时长（放心使用，这些命令都是安卓设备本身就支持的不会对设备有任何影响）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgw2BKDBDLvRVaGQNu6B5EQc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3、“截取设备当前画面，并以附件的形式返回给我”  --  如果你是在飞书上发送命令的话，那么一会儿应该就能看到一张图片，就是电视当前的画面内容",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7vXK7UPUJRYC6pWZuGeYLh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "4、“查看这台设备都打开过哪些app,每个app的使用时长”。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNXB4BfDE0AQAqj1Kme3XVd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "类似的功能还有很多，也可以让龙虾帮你去做电视点击的功能等等，就像遥控器一样",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJoia7N8qXl0ytKgWNQN29b",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "四、创建技能",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7D3RULAVjvnApVrACCm7tg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "可以给龙虾创建一个技能，之后每次在查询或者让龙虾自动查询设备运行时间时会方便很多",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAGSgymhq2oAB71zWWgvKTf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "帮我创建一个技能，包括从获取当前可连接的安卓设备，到设备连接再到获取设备时长。（请确保你已经安装了skill-creater这个官方技能）",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8DzBj03x5gj4aBpABGoYoc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "接下来就可以创建一个定时任务，例如每10分钟让龙虾查看一下设备的运行时间，如果超过多少时间就执行关机命令。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglIuVNAwJzYsgTUBCsL143c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "上面只是一个简单的例子，懂得了如何配置，剩下如何玩，各个小伙伴可以自己思考下。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNcEUVlEOhnZEbNIob0nLKF",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "上面的流程同样适用于安卓手机，请看下面的视频",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtBe9gkjLz3pxzjLLPeG1wd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "为什么我不用手机为例，因为我怕涉及到隐私问题，万一用来“查岗”破坏家庭和谐就罪过了。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg19Xj4RHJb2hlka0fI0SF4c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "理论上，任何支持ADB或网络调试接口的智能安卓设备（如某些投影仪、车载系统）都可能成为OpenClaw的管理对象。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgs2iHY3IGnBPIbKyAXySwsb",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "结语：你的AI管家，从动手开始",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0R9Qu3IROEp6bHGYBvQ4te",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这个案例展示了AI技术如何从“聊天玩具”进化为“生活工具”。OpenClaw的核心价值不在于它本身是什么，而在于你如何引导它、教会它，最终让它为你所用。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPYlPBNRqQCvhNGwNo5ZH7c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "从“动嘴建议”到“动手执行”，从“一次对话”到“永久技能”，这正是AI智能体带来的范式转变。你的数字管家，或许就从今天管理一台电视开始。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgk7S6O1sWO5v9Pam7ObD93f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "免责声明：本文所述技术、方法和工具仅用于合法的教育和技术研究目的，旨在帮助用户更好地管理和优化个人智能设备体验。严禁将本文内容用于任何非法活动，任何因使用或滥用本文内容而导致的直接或间接损失、法律责任或其他后果，均由使用者本人自行承担，与本文作者及发布平台无关。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

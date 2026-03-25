@@ -1,0 +1,1733 @@
+{
+  "status": "ok",
+  "doc_id": "BM8edqEzIoabHZx5lVilybzzgUc",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/MienwENCSi7E02k0LqYl9vZ8geg",
+  "title": "Phân tích kỹ thuật OpenClaw: Hướng dẫn chi tiết giúp bạn hiểu nguyên lý hoạt động của \"Tôm hùm đất\"",
+  "revision": 98,
+  "total_blocks": 94,
+  "translatable_blocks": 90,
+  "blocks": [
+    {
+      "block_id": "BM8edqEzIoabHZx5lVilybzzgUc",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phân tích kỹ thuật OpenClaw: Hướng dẫn chi tiết giúp bạn hiểu nguyên lý hoạt động của \"Tôm hùm đất\"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPPZen07DE71krz6lnZU97b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chủ đề nóng nhất giới AI gần đây không gì khác ngoài OpenClaw (Tôm hùm đất). Dự án này từ khi ra đời đến nay đã đổi tên ba lần, nhưng độ hot cứ tăng vù vù. Nhiều người đặt câu hỏi: Nó khác gì Claude Code? Tại sao lại gọi là \"AI Agent chủ động\"? Người bình thường có dùng được không?",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgttB8rwrd3BTYes2rRTUOde",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tối ngày 24 tháng 2, cộng đồng WaytoAGI đã mời nhà phát triển gen 00 Lai Tân Lộ đến phân tích sâu kiến trúc kỹ thuật của OpenClaw. Buổi livestream này chứa lượng thông tin khổng lồ, tôi đã tổng hợp nội dung cốt lõi thành bài viết này, giúp bạn hiểu thấu đáo Tôm hùm đất rốt cuộc là gì.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggIrm799oUpFpWhohvOC5od",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Từ Claude Code đến OpenClaw: Lịch sử tiến hóa của AI Agent",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwM8lT4toOw0Ps2Urpx55Ic",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Muốn hiểu OpenClaw, trước hết phải nhìn lại quá trình phát triển của AI Agent.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZ6Cy67xbputM8Q3xwnuFpe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tháng 2 năm ngoái, Anthropic phát hành Claude Code, cho phép AI viết code và chỉnh sửa file thông qua dòng lệnh. Đến tháng 5, các nhà phát triển trong nước bắt đầu sử dụng ồ ạt. Khoảng tháng 11, ngay cả những người không phải lập trình viên cũng bắt đầu dùng Claude Code để hoàn thành nhiều tác vụ khác nhau. Trong giai đoạn này, các công cụ như Cursor, OpenCode cũng lần lượt xuất hiện.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1ok9prGIIdVs74obo5oUgf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhưng các công cụ này có một đặc điểm chung: thụ động.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgu7cBPd7kW3eJK3kcYFIwDg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nghĩa là gì? Giống như khi bạn dùng Claude Code, bạn phải mở một cửa sổ terminal, giao nhiệm vụ cho nó, nó mới làm việc. Sau khi hoàn thành nhiệm vụ, bạn thường đóng phiên làm việc đó, lần sau lại mở phiên mới. Tại sao? Vì ngữ cảnh sẽ bị \"ô nhiễm\" — càng trò chuyện nhiều, AI càng dễ lệch hướng, nên nhiều lập trình viên có thói quen xóa cuộc hội thoại thường xuyên để giữ môi trường làm việc sạch sẽ.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqRdNxJkk8VNHAMv2PhgUph",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đây chính là đặc trưng điển hình của Agent thụ động, tạm thời: bạn đá nó một cái, nó mới nhúc nhích.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeEUDyJiE53yMX2suyOFBrc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Điểm cách mạng của OpenClaw nằm ở chỗ: nó là Agent chủ động.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4Ct2GDVS4DbTkbBp79aRgh",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hai cơ chế cốt lõi của OpenClaw",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYBIbmbbsT9bGvllN2I9pze",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phần lõi Agent của OpenClaw thực chất sử dụng framework Py Agent, framework này về bản chất là phiên bản tối giản của Claude Code — chỉ với 143 dòng code, đã triển khai được các công cụ cơ bản như bash, read, write, edit.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgegswSt1MXT5jjWw0WCj9nd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vậy nhờ đâu nó trở nên \"chủ động\"? Câu trả lời nằm ở hai cơ chế then chốt: Cron (tác vụ định kỳ) và Heartbeat (nhịp tim).",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGWBTHvTwF0BXgssKXglHSc",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cơ chế 1: Cron (Tác vụ định kỳ) — Dạy AI biết \"ghi nhớ công việc\"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsEwmN64mSvKUR3YSWYPskg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cron là công cụ tác vụ định kỳ trong hệ thống Linux. OpenClaw đã đưa cơ chế này vào AI Agent, cho phép nó có thể:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOygUQKan0MujF7H7Ui9Gkg",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tác vụ một lần (Once): Ví dụ bạn nói \"3 giờ chiều mai nhắc tôi họp\", nó sẽ thực hiện đúng thời gian đã chỉ định một lần, sau đó tự động xóa tác vụ này.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUVrymkJ1gHOBh3yCU4zuWf",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tác vụ lặp lại (Every): Ví dụ \"mỗi ngày 10 giờ sáng gửi cho tôi một điều bất ngờ\", nó sẽ dựa vào lịch sử trò chuyện và sở thích của bạn, đẩy nội dung định kỳ mỗi ngày. Có thể là xu hướng công nghệ bạn quan tâm, có thể là biến động giá vàng, cũng có thể là issue mới nhất của một dự án mã nguồn mở nào đó.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1rwC0OmAQ5yokKuyd2bhDg",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tác vụ biểu thức Cron: Quy tắc định thời linh hoạt hơn, ví dụ \"mỗi thứ Hai đến thứ Sáu lúc 9 giờ sáng\".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgY4y2XSK1WIKtGOw9uFiYtf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Điều này có nghĩa gì? Trợ lý AI của bạn không còn là công cụ \"dùng xong bỏ đi\" nữa, mà là một thực thể thông minh có thể chạy liên tục ở chế độ nền. Nó có thể:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUsHqZNseBwmciwKb8WYKMg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mỗi ngày lúc 3 giờ sáng tự động tổng hợp Twitter của bạn",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcBEf0tGj6fkqGZANjjxtgd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Định kỳ kiểm tra cập nhật của một kho mã nguồn",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgr9vyu8FXM5d9l0ti3XJxwc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Học kỹ năng mới, sắp xếp tài liệu khi bạn ngủ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJz8QtGDQGMcioflNIuJwif",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đến thời gian đã hẹn thì chủ động nhắc bạn",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNDpyySHPpSI3Tc23H39Uyg",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cơ chế 2: Heartbeat (Nhịp tim) — AI học cách \"tự tìm việc làm\"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfaggzYN0ENVVxdhoTHveLh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nếu Cron là \"làm việc đúng giờ\", thì Heartbeat chính là \"chủ động suy nghĩ\".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6YXxta8xUhiubmVNGB2CwP",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "OpenClaw mặc định thực hiện kiểm tra nhịp tim mỗi 30 giây. Quá trình này diễn ra như sau:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgf83ykESTp5WCCdsrL11B6g",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hệ thống tự động gửi một tin nhắn đặc biệt cho Agent (không phải người dùng gửi)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgadhqy9965aT0yyjDR7lUYe",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nội dung tin nhắn chứa một file ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "heartbeat.md",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ghi lại:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRHYe658R9lQYJMoHw6zKvc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hôm nay có những tác vụ nào chưa hoàn thành",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLVTEIi9XXDnJPtlo58jnbf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Người dùng đã nhắc nhở những gì",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAhLRtA7jcoKYwwk8ZptlUb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Có ký ức mới nào cần sắp xếp không",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgryOY1WiZrEUa8p4zV1wlRh",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Agent đọc xong, phán đoán xem có cần hành động không",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgszaia5tjbGrs57usNM598b",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nếu không có việc gì, trả về từ khóa \"OK\", không làm phiền người dùng",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3w5P1gWA2FHuBsBIbZfBVc",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nếu có việc cần làm, bắt đầu thực hiện và gửi tin nhắn cho bạn trên Feishu/Telegram hoặc các nền tảng khác",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4WsmSKj8eIkB7iegejsyqh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lai Tân Lộ đã demo con Tôm hùm đất của mình trong buổi livestream: trong 20 phút anh giảng bài, AI đã tự động dịch tài liệu giảng dạy sang tiếng Nhật và tiếng Anh, rồi commit lên kho GitHub. Đây chính là sức mạnh của cơ chế nhịp tim — AI lặng lẽ làm việc ở chế độ nền, không cần bạn phải theo dõi.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrybrzTqD0ZdWqNnabfaq9b",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "c",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0xTkk4ejEvBHC3VxSvGpsg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "\"Hệ thống bộ nhớ\" của OpenClaw chủ yếu được duy trì bởi ba file Markdown:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnGh8HZUBI4njIb8WXyeNWf",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "heartbeat.md",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "http%3A%2F%2Fheartbeat.md%2F"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " : Danh sách tác vụ nhịp tim, ghi lại những việc cần làm định kỳ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMSE40wJZeHBjbero3EiSWd",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "memory.md",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "http%3A%2F%2Fmemory.md%2F"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " : Bộ nhớ dài hạn, lưu trữ thông tin lịch sử quan trọng",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTTYYJDj0NafXCvMVn6LZug",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "seal.md",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "http%3A%2F%2Fseal.md%2F"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " : Lưu trữ ngữ cảnh, bảo tồn bản ghi cuộc hội thoại trong các tình huống cụ thể",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0S6FYHSpcLzHMhAUAVEuxh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ba file này kết hợp với Cron và Heartbeat, tạo thành nền tảng \"tự nhận thức\" của OpenClaw.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwQouS54dC14DDsq3rLl6ig",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Thực chiến: Tôm hùm đất có thể giúp bạn làm gì?",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4WxAx3uxQ0xGAZiUhmUcLe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lai Tân Lộ đã chia sẻ các tình huống sử dụng thực tế của mình:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzeK71n91SFG74fldJmQbOb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quản lý máy tính: Cho AI kiểm tra dung lượng ổ đĩa, tự động dọn dẹp file không cần thiết. Dung lượng trống của anh tăng từ 25G lên 99G, toàn bộ quá trình chỉ cần cấp quyền, không cần thao tác thủ công.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglSrys4dqKPBox2EZHtJD6c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Theo dõi thông tin: Theo dõi biến động giá vàng, AI định kỳ thu thập dữ liệu và tạo biểu đồ.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtQ5zceHeNeWRsjbwCItXug",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Điều khiển từ xa: Khi ra ngoài, gửi tin nhắn qua điện thoại cho AI trên máy tính ở văn phòng, nhờ nó tìm file, xử lý tài liệu rồi gửi cho bạn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSNd4U8cxoSnSvchkAfjBqc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vận hành tự động: Mỗi ngày định kỳ lên GitHub đọc issue, đến cộng đồng AI \"diễn đàn\" học kỹ năng mới, thậm chí có thể tự mình tạo PR cải tiến dự án.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeHRDtLcMkbnEkc69Ex3CVb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhắc nhở thông minh: Không phải đồng hồ báo thức đơn giản, mà dựa vào thói quen và ngữ cảnh của bạn, nhắc nhở bạn vào thời điểm phù hợp bằng cách thức phù hợp.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghf2aqQsNok5yOXxMJFZ42c",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Gợi ý triển khai: Đặt ở đâu là tốt nhất?",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgp0jVNbRy5ZISeErwzZW0ac",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lai Tân Lộ nhấn mạnh: Triển khai trên máy tính cá nhân có giá trị hơn nhiều so với máy chủ đám mây.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgn8w2R1KAskMeD0pg11dh9u",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tại sao? Bởi vì máy tính của bạn có dữ liệu, file, môi trường làm việc của bạn. AI có thể đọc file trên desktop, xử lý tài liệu cục bộ, thao tác trên môi trường phát triển của bạn. Còn trên máy chủ đám mây thì chẳng có gì cả, triển khai lên đó giống như mở một \"Manus chuyên dụng cá nhân\", không có nhiều ý nghĩa.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUy8UXDc5KrQTmA483htvCd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tất nhiên, điều này cũng đặt ra vấn đề bảo mật. Nhưng theo kinh nghiệm của Lai Tân Lộ: AI cơ bản là \"thực thi trung thành\" nhiệm vụ của bạn, không tự ý đụng vào file của bạn. Cơ chế nhịp tim cũng có khóa — nếu bạn đang trò chuyện với AI, tác vụ nhịp tim sẽ tự động hoãn lại để tránh xung đột.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaexPvMKhSKUFTu9Qr2FsFg",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lựa chọn mô hình: Bắt buộc phải dùng Claude không?",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMEuHlcjb4yRArVQmNcuDkh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Về lý thuyết, OpenClaw hỗ trợ nhiều mô hình: Claude, GPT, Kimi, Zhipu, Minimax, DeepSeek đều chạy được.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgK5p5HT1BBupC5yXVieruBh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhưng lời khuyên của Lai Tân Lộ là: Nếu dùng được Claude thì cứ dùng Claude.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggICaGZg7lTGjY9lOCm23hc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Anh đã thử nghiệm các mô hình nội địa và phát hiện vấn đề \"ảo giác\" rõ rệt. Ví dụ cho AI dọn dẹp ổ đĩa, nó rõ ràng đã dọn được 74G, nhưng lại báo cho bạn \"hiện còn 21G dung lượng khả dụng\" (thực tế là 99G). Dữ liệu đều đúng, nhưng phép tính lại sai.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcl3imbxDJUiACXvcKZCljd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nguyên nhân đằng sau có thể là quá trình chưng cất mô hình chưa đạt yêu cầu. Đối với những tác vụ cần thực thi chính xác, loại lỗi này là chí mạng.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrXJHxkCLF8vJqAOV5N3hne",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mẹo tiết kiệm chi phí: Nếu bạn đã có gói đăng ký Claude Code, có thể tận dụng nó để chạy OpenClaw. Cách cụ thể là dùng bash script gọi CLI của Claude Code, bọc bên ngoài bằng cơ chế Cron và Heartbeat. Lai Tân Lộ đã phát triển một dự án tên là ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "bashclaw",
+          "style": {
+            "bold": false,
+            "inline_code": true,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " chuyên làm việc này. Như vậy bạn không cần lo lắng về chi phí API nữa.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIlQ0nnyR8ESn1wcQO3v7me",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Rào cản kỹ thuật: Người bình thường có dùng được không?",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5KX7GWSqUJs2oJ5ehKvnnd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "OpenClaw hiện tại vẫn triển khai bằng dòng lệnh, có rào cản nhất định đối với người không có nền tảng kỹ thuật. Nhưng Lai Tân Lộ đã chia sẻ một phương pháp \"gian lận\":",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEhz6h0RGT87QGK0VN9yWsg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hỏi thẳng AI cách cài đặt.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgoGbCm6LhTlJm7DpLGuD9ge",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chụp màn hình lỗi gửi cho Doubao, Gemini hoặc bất kỳ AI nào, để nó hướng dẫn từng bước. Có một người bạn hoàn toàn không có nền tảng kỹ thuật, thức trắng đêm, cuối cùng cũng triển khai thành công.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxeYfwGvtfXHZyY3CgHmeBs",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Điều quan trọng là: chỉ cần vượt qua rào cản triển khai, sau đó có thể điều khiển trên điện thoại, không cần đối mặt với dòng lệnh hàng ngày nữa.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfcvI6e6xBwjZNEb0yzNqzb",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tốc độ lặp lại của OpenClaw điên cuồng đến mức nào?",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtPn4IgSrkn1FfmzbwlLdy1",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lai Tân Lộ đề cập một chi tiết: Code anh pull 5 ngày trước và code pull hôm qua, chênh nhau 5000 commit.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgV06GR7OKZmc9Iyb8eFuqzc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khái niệm gì vậy? Nhiều công ty cả năm cũng không commit được 5000 lần. Điều này có nghĩa là trung bình gần 1000 commit mỗi ngày.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgno8oouTQQWIE44l18gjeJg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Anh suy đoán: 99% các bản cập nhật của dự án này đều do AI tự commit. Người dùng phát hiện vấn đề, cho con Tôm hùm đất của mình đi tạo issue hoặc PR, AI tự sửa code và commit. Đây là một ví dụ sống động về \"phát triển phần mềm do AI dẫn dắt\".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgx11WwxSWccz7tfA7cQ0Upf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "May mắn là cơ chế cốt lõi không thay đổi, Cron, Heartbeat, Py Agent — những kiến trúc nền tảng này vẫn ổn định.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYmCI3p5TmNnVqNLlcKSOgd",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tài nguyên học tập: Làm sao để hiểu sâu hơn?",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJBpxLyNNDzAhObznIIczhh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đội ngũ của Lai Tân Lộ đã mã nguồn mở hai kho giáo trình:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgmfxfMuOkGjh3ZQ75y7mrHg",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "learn-claude-code: Dạy bạn tự viết một Claude Code, hiểu nguyên lý cơ bản của Agent. 5 chương đầu giảng về Agent đơn thể, 5 chương sau giảng về đa tác vụ, Agent Team và các cơ chế nâng cao khác.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgS2hB2SrErklXfLqvn3Ogmb",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "claw-0 (tên cũ mini-claw): Giáo trình triển khai tối giản OpenClaw được chuẩn bị riêng cho buổi livestream này, phân tích các cơ chế cốt lõi như Cron, Heartbeat.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTlnoNGkHxJxbEBW8OSv0je",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hai kho này có thể tìm thấy trên GitHub bằng cách tìm kiếm từ khóa. Kết hợp với AI để cùng học, ngay cả khi không hiểu kỹ thuật, bạn cũng có thể dần dần hiểu được nguyên lý.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1ZX8w5MqFmLIEBhnjTsnld",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tương lai của Tôm hùm đất: Từ công cụ đến đối tác",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVeuw2PV45X1YVUgIZMf5Mg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ý nghĩa của OpenClaw không chỉ là \"thêm một công cụ AI nữa\". Nó đại diện cho một mô hình hợp tác người-máy mới:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgF9Qkeksfu1ymtfa5MPtyyh",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Từ thụ động sang chủ động: AI không còn là \"cỗ máy hỏi đáp\", mà là trợ lý có khả năng tự lên kế hoạch và thực thi",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrq9xCf60EBb2ILmDuhdbGc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Từ tạm thời sang liên tục: Không phải \"dùng xong bỏ đi\", mà đồng hành lâu dài, liên tục tiến hóa",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgC4XrPjhGyYrQGlNlZj1FeZ",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Từ đám mây sang cục bộ: AI có thể đi sâu vào môi trường làm việc của bạn, thực sự hiểu nhu cầu của bạn",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgiYzjP9YhiUeiPxzjgLjETb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lai Tân Lộ chia sẻ trong buổi livestream, giờ ra ngoài anh không cần mang laptop nữa. Trước đây làm công việc liên quan đến AI, máy tính phải mang theo bên mình, thậm chí đi trượt tuyết cũng phải mang. Giờ chỉ cần điện thoại, là có thể điều khiển từ xa AI trên máy tính ở nhà làm việc.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgw3nDytEFP0K0ZPhfB5ZfJh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sự thay đổi này có lẽ chính là hình ảnh thu nhỏ của ứng dụng AI năm 2026.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaSkMDBqbLVTvv5KUiZkJFd",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lời kết",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZVb7VhIhEu0or3Nphk9OYc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "OpenClaw vẫn đang lặp lại nhanh chóng, tính năng và độ ổn định đều đang được hoàn thiện. Nhưng nó đã chứng minh được một điều: AI Agent có thể tiến hóa từ \"công cụ\" thành \"đối tác\".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghpOrYrjsJ45k05Yag4v1Fg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nếu bạn quan tâm đến AI Agent, hãy thử triển khai một con Tôm hùm đất. Ngay cả khi gặp vấn đề, bạn cũng có thể nhờ AI giúp giải quyết — bản thân điều đó đã là một trải nghiệm hợp tác AI rất tuyệt vời.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTA3w5KhAXKX7WzxinW4aHi",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Rào cản kỹ thuật đang ngày càng thấp đi, điều quan trọng là bước đi bước đầu tiên. Như Lai Tân Lộ nói: \"Thực ra nó không khó đến thế, không phải thứ gì đặc biệt bí ẩn.\"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJEjcMWZhFBckqrIJuDyQQz",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tài nguyên liên quan",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgV5eN00vhk9X70Rq3nnTRYd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dự án OpenClaw: Tìm kiếm \"openclaw\" trên GitHub",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTnCzl4aZJOjiuLCRMvKdpf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Giáo trình learn-claude-code: Tìm kiếm \"learn claude code\" trên GitHub",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfLrMbFqQKk2WIZCvIopYBg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Giáo trình claw-0: Tìm kiếm \"claw-0\" trên GitHub",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTCI41V6gd5xSJRHJ8AAecg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cộng đồng WaytoAGI: Theo dõi thêm các bài chia sẻ kỹ thuật AI Agent",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg60iIBVMBYpqqyVncZOtxId",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bài viết này được tổng hợp từ buổi livestream ngày 24 tháng 2 năm 2026 của cộng đồng WaytoAGI, diễn giả: Lai Tân Lộ (nhà sáng lập ShareAI)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

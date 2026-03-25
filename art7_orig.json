@@ -1,0 +1,2105 @@
+{
+  "status": "ok",
+  "doc_id": "C2GSdfdEBohmj3xmJ39lTKQtgtf",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/VYdsw83dLivWENkHYkcloUsJgjf",
+  "title": "最全整理：有关 OpenClaw 的限制条令汇总",
+  "revision": 164,
+  "total_blocks": 135,
+  "translatable_blocks": 83,
+  "blocks": [
+    {
+      "block_id": "C2GSdfdEBohmj3xmJ39lTKQtgtf",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "最全整理：有关 OpenClaw 的限制条令汇总",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbmwgKyUDTuhbAdCd57cvgh",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔗 原文链接： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://mp.weixin.qq.com/s/pWZHC12m...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpWZHC12m6KdAYBl9aPJKqQ"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5uUHvVzS3Q9JhmQanYVNWg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "原创 椒盐玉兔 椒盐玉兔 椒盐玉兔",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026年3月14日 23:18  北京",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3KTSzzDZ46XVfa0QJKvfNe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这段时间除了有各种 OpenClaw（龙虾）的倡导事件，业内还有一些警告提醒，截至 2026 年 3 月 14 日，OpenClaw 在国内遭遇密集的安全预警和使用限制。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzDmdrBuexC1imTMIzR0kYc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "本文梳理了从国家级监管机构、金融行业到高等院校各层级已公开的限制措施。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgl46XyNOssB9UGTVYcwBdie",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "一、国家级机构",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMh1X1kJAkxFUrL30OjyK6b",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "工信部网络安全威胁和漏洞信息共享平台（NVDB）",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3bxzzRuGuC6wf8GfCfRFwh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2 月 5 日首次发布预警，3 月 8 日话题登上热搜。3 月 11 日正式发布「六要六不要」建议，其中明确要求「禁止在内部网络使用未审批的'龙虾'智能体终端」，并针对企业办公、开发运维、个人助手、金融交易四大场景逐一给出安全策略。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglTrFMNvMG47mY1bV8ssJcb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "2 月 5 日首次发布预警",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMyklQvVzLMKZEISYm8WTtd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 11 日正式发布「六要六不要」建议",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIpONDdT3vZp0cbztxnOVHu",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：网络安全和信息化 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "防范OpenClaw安全风险的“六要六不要”建议 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MzMwMDU5NQ%3D%3D%26mid%3D2649176034%26idx%3D1%26sn%3D9d87766341d32e7061d90bc881511a88%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-11",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9B7fDHwnuWIMfy2yPBqE6g",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "国家互联网应急中心（CNCERT）",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnlpCsWJP7L3KKui5IODCqb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 10 日发布《关于 OpenClaw 安全应用的风险提示》，指出默认安全配置极为脆弱，已出现「提示词注入」「误操作」「功能插件投毒」「安全漏洞」四大严重风险。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcccve6Tqw1Vf19nRei74kd",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：国家互联网应急中心 CNCERT ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "关于OpenClaw安全应用的风险提示 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwNDk0MDgxMw%3D%3D%26mid%3D2247501313%26idx%3D1%26sn%3Dbf193368757d4de047890fd309d5f048%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-10",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJeSRu87htQUii3KlYV45Re",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "国家工业信息安全发展研究中心",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgS9CWc6nndIVzEIADYwDttf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 12 日发布工业领域 OpenClaw 应用的风险预警通报，明确要求 OpenClaw「严禁与工业控制网络直接连通」，原则上禁止向 OpenClaw 提供系统级权限，并要求工业企业部署于独立隔离区。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjNhu5N7NkE18kwKR6JFBfb",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：国家工业信息安全发展研究中心 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "关注 | 关于工业领域OpenClaw应用的风险预警通报 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU0MDc2MzQ2Ng%3D%3D%26mid%3D2247537054%26idx%3D1%26sn%3Dc6ea490e2c4e221fbd4c1571cb498ae1%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-12",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTBHkiYxaGhGPfjl4f44buP",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "国家网络安全通报中心 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgpdL9xv6f3Vk2UJDE4jRRof",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 13 日发布预警，监测显示全球活跃的 OpenClaw 互联网资产已超 20 万个，其中境内约 2.3 万个，呈爆发式增长，主要集中在北京、上海、广东、浙江、四川、江苏等地。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjKH6pz5sDIfewW4sNAjhaf",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：国家网络安全通报中心 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "OpenClaw安全风险预警 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU1MTE1MjU5Nw%3D%3D%26mid%3D2247485819%26idx%3D1%26sn%3D9bf16f79b54e1d7ffa9270d995b2751f%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03- ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "13",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCcOGCzGGJ0ChYpArK1tqWW",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "二、银行与金融机构",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg05TOP66y0Pyl7mrsW1G4pf",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "大型国有银行、政府机关",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKdMRqsbIwh2TWj6d6BXBsf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "据彭博社 3 月 11 日报道，一些国有银行和政府机构已明确禁止员工在办公电脑及连接公司网络的个人手机上安装 OpenClaw。另一些单位虽未全面禁用，但要求使用前须获得事前审批。已安装的须向上级报告并安排安全检查。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvLdnOV01yqBZqoxuEKzERb",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来 源：财通社（转引彭博社） ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "银行、国企等被曝限制安装OpenClaw，港股“龙虾”概念股跳水 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NzIzNzU5NA%3D%3D%26mid%3D2247534985%26idx%3D1%26sn%3D929b2af96ab56637ca6de356f8d6859e%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-11",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUhUMs7b0byOMAGdcVhBpKg",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "多家股份行、城商行",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZwGhQiCTIAuIu2SvY9Q2Sb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "财联社记者采访多家银行获悉，江浙沪地区上市银行人士明确表示「银行内网目前不允许部署 OpenClaw」。全国性商业银行人士称该行对 OpenClaw 处于观察阶段，尤其考虑到工信部已公开示警，预计暂不会部署。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWRkSz7BpRzo3qKbJlIctud",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：财联社，《工信部示警下，银行会否跟风“养龙虾”？多家银行：目前内网不允许部署，安全是底线》，2026-03-09 https://www.cls.cn/detail/2307379",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwZsJspXXZcUZDVmTNt3Neg",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "多家股份行风控、城商行、券商",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcJQagQQVgE4GZPvHpqo3pN",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "华南地区某股份行风控条线人员称「部门办公终端禁止部署这类开源智能体」。华北某城商行表示「公司目前没有接入 OpenClaw 的业务，也不让使用」。华北某券商从业者同样表示不允许。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdCQPvSssdB6Zbh8IiNrFOg",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：证券时报，《全民“养龙虾”热，金融机构保持“冷”思考》，2026-03-11 https://www.stcn.com/article/detail/3672465.html",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLxPFKa8KZar7wmsuh2DQjc",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "\n",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "三、高校：严禁使用 + 强制卸载",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvUX86eUBZb5BbQItBTOz2b",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "\n",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "珠海科技学院",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5iMqOlLuCMljCtJP8q5QNf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 10 日发出《关于严禁在校内使用 OpenClaw 软件的通知》，全校教职工严禁在任何办公设备、教学终端及校园网络环境下安装运行使用 OpenClaw，已安装的立即彻底卸载。学校将开展不定期安全扫描与核查，违规者依规严肃处理。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5rk8Xif9PkNr2lh6ib0Cxe",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：南都N视频，《江苏等地多所高校通知防范“养龙虾”风险！有的严禁校内使用》，2026-03-12 https://m.mp.oeeee.com/a/BAAFRD0000202603121537265.html",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQp42irWemPy7hRlWASHIgg",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：南方都市报 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "广东一高校通知：立即卸载清除，发现将严肃处理 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMTk1MjIwODAwMQ%3D%3D%26mid%3D2651890087%26idx%3D1%26sn%3D133e9da98909612aeb650776fd8123c2%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-12",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzLJzyxYpjvtqc5Eir41DVe",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "山西应用科技学院",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNuwoixAphkRrtDTH3jCKvf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 12 日通知，全校范围内严禁安装使用 OpenClaw 本体、衍生版本、配套插件及第三方技能脚本，已安装的须于 3 月 15 日前完成彻底卸载。确因工作需要须提交书面申请，经网络信息中心安全评估审核批准后方可实施。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgv8lQoC8d0WgsHJbIdpcuMd",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：山西应用科技学院 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "关于严禁在校园网络环境下安装、部署及使用“龙虾”（OpenClaw）类软件的通知 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5NTQxNzg0MQ%3D%3D%26mid%3D2652077876%26idx%3D2%26sn%3D960c5978cbe06b5c6717ecafb694f3b3%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-13",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6A6NHk5hU2eqoTX5uTiwKc",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "河南医药健康技师学院 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbisMa2I3hPFgsgnb5zuDhd",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 13 日通知，严禁任何部门、教职工在办公电脑、教学终端、校园网络环境及财务专网中安装运行使用 OpenClaw 及其衍生版本，已安装的须立即彻底卸载并清除相关配置、缓存及日志文件。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4cmGmjccBSSPnUnh9Qg3Hg",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：河南医药健康技师学院 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "关于严禁在校内使用OpenClaw软件的通知 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NzYwMzY5MQ%3D%3D%26mid%3D2651728309%26idx%3D1%26sn%3Dea053543227186157e8a72b59ced84b4%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-13",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgP1WxKaHtRqDQ5Jqm9DIlpb",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "甘肃钢铁职业技术学院",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJhKoX9qTwVItLFvrrt0fab",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 13 日晚间通知，严禁使用 OpenClaw 本体、衍生版、插件、脚本及相关服务。严禁使用工作场所外的个人电脑通过校园网进行交互通信。现代教育技术中心通过学院统一杀毒平台进行监测，发现 OpenClaw 相关程序立即进行技术处理。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfTRCaF1M3uCu9ZDLuSNJUe",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：澎湃新闻： ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "“严禁使用‘龙虾’，已装的须彻底卸载”，多所院校通知 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MzI5NTU3MQ%3D%3D%26mid%3D2652518884%26idx%3D1%26sn%3Dba8b6f546bbad31e5bcf22d42a78cfe9%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-14",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8oRutew336cD5cU4hTBBtg",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：观察者网，《\"严禁使用'龙虾'，已装的须彻底卸载\"，多所院校通知》，2026-03-14 （来自澎湃新闻）：https://www.guancha.cn/ChengShi/2026_03_12_809700.shtml",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgae4lgQB8cyWxSqdG1RW19e",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "四、高校：禁止在办公设备/服务器安装",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4hDhSaZZ0Zm8ihLwsPgSVe",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "北京建筑大学",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgehWL4rlDGeKZ5ryLoyH1Wg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "禁止在学校办公电脑以及服务器上安装 OpenClaw，要求强化网络控制，不将默认管理端口直接暴露在公网上，对运行环境进行严格隔离。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKyf9hnuYoKRmQoAQDjlrDF",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：北建大信息化 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "关于警惕开源AI智能体OpenClaw（“龙虾”）安全风险的提醒 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzkzMjAyMDg1MA%3D%3D%26mid%3D2247487443%26idx%3D1%26sn%3D6fcfb59c431670442e04c07eba0afabd%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-12",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgImukREODRFu7NheIIQk7ee",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "华南师范大学",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbZ4Or5HC659CdARDwCxbvD",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 11 日发布提醒，严禁在生产环境和办公电脑安装 OpenClaw（包括学校办公电脑、服务器、智能终端），严禁向其提供任何敏感信息，严禁直接开放公网访问。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8dYAgIgpaNrkruvdlOvV6G",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：华南师大校园一卡通与信息化服务 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "重要提醒！谨慎使用\"龙虾\"OpenClaw，这些安全风险要注意 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU3Njk1NjcwMQ%3D%3D%26mid%3D2247492707%26idx%3D1%26sn%3Db6bce722486d10bf0d1b085d0a045583%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-12",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUDhO0DHqjZ40vuoQnmaSTf",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "华中师范大学 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVUlKCH7ZNbX0taSkGb58hg",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 9 日发布提醒，要求立即核查是否存在 OpenClaw 相关部署，重点排查公网暴露情况、权限配置及凭证管理情况，明确禁止在信息化办公室分配的服务器上安装 OpenClaw。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAKhTta9Gu13HmwMILy0Goc",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：《留学》杂志，2026-03-12，https://news.qq.com/rain/a/20260312A03X8900",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcTMjIbtCOlMDMKc2cZ3eGe",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "安徽师范大学 ",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbNUfVlKrvWkAxR7tLs1rbd",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 10 日发出《关于防范\"龙虾\"（OpenClaw）AI 智能体网络安全风险的预警通知》，建议「非必要不部署使用」，严禁校内各单位、教职工在处理教学科研数据、行政办公信息、学生信息等工作场景中使用该工具。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXOQJERnSK7xMkm0GGhCxbg",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：《留学》杂志，2026-03-12，https://news.qq.com/rain/a/20260312A03X8900",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXbmuQylWp72QDVsboRa25d",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "陕西师范大学",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLlFBDpD32un3ZYc5pXmgKd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 13 日发布《关于OpenClaw软件的安全使用提示》，提醒师生部署 OpenClaw 要注意防护，请勿在办公电脑、教学终端或业务服务器上部署。如有需求，建议在独立或隔离的环境（如虚拟机、容器）中安装和使用。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6hndiR0g6VnmwNInifACDd",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：陕西师范大学信息化处 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "关于OpenClaw软件的安全使用提示 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5OTIwMTI2Nw%3D%3D%26mid%3D2247496527%26idx%3D1%26sn%3D3482d2fb85c32837a901234344a99c63%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-13",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTEDkxF3pPfaSHxLOSRg6th",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "五、高校：风险提醒 + 规范使用",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtEcy8LUzbUaXdRlaBGtOIg",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "北京大学",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZgK9JMZ8U5gEQieLDQDugb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "计算中心将定期扫描校园网内开放的 OpenClaw 相关端口，发现未加固实例将通知相关单位整改。措辞偏向「扫描整改」，并非全面严禁，力度弱于上述院校。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxBXpnsWxqcKMM40gla2PGf",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：《留学》杂志，2026-03-12，https://news.qq.com/rain/a/20260312A03X8900",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg94e91e1EIPuiFqlnJaxq5b",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "天津大学",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtKZsnStRWZ45A3i2wfSMie",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 12 日发布《关于 OpenClaw 存在网络安全风险的提醒》，给出 7 条安全使用建议，包括不赋予 root 权限、仅限 loopback 访问、修改默认端口、限制工作目录、禁用高危命令、使用沙箱浏览器、只安装高信誉插件。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxssAM1NE6bs3PaMLyqvvee",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：天津大学团委 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "🦞“养龙虾”有风险！OpenClaw网络安全风险小提示→ ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MDA4MTk0MA%3D%3D%26mid%3D2652780796%26idx%3D2%26sn%3D9780b56f09c0800156f4728638aa751f%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-12",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAMVAPxBax2UtbRGJuMMrYy",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "江苏师范大学",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyR2AU4LmP62LJQS5wzsG8f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 12 日发布《关于防范 OpenClaw 安全风险的提醒》，要求优先使用云端服务器、虚拟机、容器等隔离技术部署，严禁使用管理员权限账号，重要操作须二次确认或人工审批。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVc2uc4CWGdxTu6t1DeAhRe",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：江苏师范大学 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "慎养“龙虾”，当心夹手：关于防范OpenClaw安全风险的提醒 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk3NTczNDkyMQ%3D%3D%26mid%3D2247557038%26idx%3D1%26sn%3Db7c936f41d20a28f9f3206306a0bb262%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-12",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgENQyfHa6yjYZRQcKpoMi9g",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "山东大学",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgx64BKo1lymfH09rEFnSepe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "要求在测试机、Docker 沙箱上安装部署 OpenClaw，避免在个人主力计算机或办公计算机上直接安装，坚持「数据不出域」，严禁将默认管理端口（18789）暴露于互联网。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDr3xINjMdskcrAJXinbPMA",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：《留学》杂志，2026-03-12 https://news.qq.com/rain/a/20260312A03X8900",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgm3Y69n4BhmV6Z8HtpAHEuc",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "西北工业大学",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEQEAvyh5lrLn3FxxGHz1mW",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 10 日发布提醒，要求单位或个人部署使用前充分排查公网暴露情况、权限配置及凭证管理状态，及时关闭不必要的公网访问入口，完善身份认证、访问控制、数据加密、安全审计等安全机制。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNcqHeHFNtiiEpcP5pRxxWh",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：西工大信息化 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "警惕“养龙虾”风险！高校师生必看的OpenClaw安全提示 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzkzNDcxNjY3Ng%3D%3D%26mid%3D2247490282%26idx%3D1%26sn%3Ded0c8cb6e6670efb685ec6b92b934bb6%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-10",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgitttGQyV6B5WiUhISXVMLc",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "广东医科大学",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4QELRYfTqJlBTk4Bh9kkle",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3 月 11 日发布《关于防范 OpenClaw 开源 AI 智能体安全风险的预警提示》，提醒师生部署 OpenClaw 要注意防护，避免毕业论文、实验数据、科研成果及个人账号密码等面临被窃取、篡改的风险。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7VkEF2XD0ijGfD4l2cL85b",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：掌上广东医 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "关于防范OpenClaw开源AI智能体安全风险的预警提示 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI5MDY3OTIwNQ%3D%3D%26mid%3D2247486497%26idx%3D1%26sn%3D237b6448e4386c5085cc60a5d05f65d7%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-11",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglhdf9OXDuh44dwAhS86HBe",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "广东药科大学",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "text_color": 1,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqnplSaXAEpYWFnCsd7irbT",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "要求已部署使用 OpenClaw 的师生关闭不必要的端口映射与公网访问，设置文件与 HTTP 访问白名单，明确约束模型不得将外部内容视为可执行指令。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggol5HEsYh5AVdNS3zOahhf",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "来源：广东药科大学现代教育技术中心 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "关于防范OpenClaw开源AI智能体安全风险的预警提示 ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzg2MjY4NTQwNg%3D%3D%26mid%3D2247488229%26idx%3D1%26sn%3D8d4d8e29b32fd7ff37bf5c9da629b99c%26scene%3D21%23wechat_redirect"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2026-03-09",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "text_color": 7,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

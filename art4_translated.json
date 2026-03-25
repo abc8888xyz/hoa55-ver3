@@ -1,0 +1,1855 @@
+{
+  "status": "ok",
+  "doc_id": "GSz7dTZBqoK1BTxBA4zl1hvWgDf",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/U9VNwgfWViIZSSkyavvllShmgCe",
+  "title": "OpenClaw养成记，从0开始！安装后必看！（40天实战经验+含角色提示词）",
+  "revision": 132,
+  "total_blocks": 122,
+  "translatable_blocks": 94,
+  "blocks": [
+    {
+      "block_id": "GSz7dTZBqoK1BTxBA4zl1hvWgDf",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhật ký nuôi dưỡng OpenClaw, bắt đầu từ 0! Phải đọc sau khi cài đặt! (40 ngày kinh nghiệm thực chiến + kèm prompt vai trò)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJctVXOS030QLYW4cMO3eNh",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔗 Link bài gốc: ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://x.com/berryxia/status/20286...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fx.com%2Fberryxia%2Fstatus%2F2028668902465733084"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5NHi4CYh1ctuPNVAOGAcKh",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tuyên bố: Bài viết này đến từ 𝕏",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzmVLPqUZxPwH7R3NUakFmc",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đại thần Saboo, tôi dịch và biên tập sang tiếng Trung! Mọi người có thể follow!",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgo8gPgAZibFApCWUMWSLgwc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Điều duy nhất tôi làm, là nói chuyện với chúng.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAZCXivb9g4mhWnYyl2THmg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Không phải chỉnh prompt, không phải đổi model, không phải tái cấu trúc kiến trúc. Chỉ là nói chuyện, cho phản hồi, nhìn chúng ghi lại nội dung. ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQCX7ujOb6j3hs6yjBz1Vrd",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tuyên bố: Bài viết gốc của đại thần hải ngoại Shubham Saboo, có thể follow! x:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://x.com/Saboo_Shubham_",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFhdoRXsVxSy7zeJtYtvwJc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "40 ngày trước, agent nội dung của tôi viết tweet còn chất đầy emoji và hashtag, agent nghiên cứu chìm thông tin giá trị trong nhiễu. Thời gian tôi sửa lỗi còn nhiều hơn tự làm.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4pHIIrzk9H5rDceTVpLVvb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hôm nay, Kelly soạn nội dung bằng giọng của tôi, Dwight mỗi sáng gửi 7 câu chuyện, mỗi cái đều đáng đọc. 8 agent chạy 24 giờ. Tôi mở Telegram, xem bản nháp, uống ly cà phê.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzDMsxzPTpwkoAvFKiKHvNf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ngày 1 và ngày 40 dùng cùng một model. Sự khác biệt nằm ở một loạt file Markdown mỗi tuần càng phong phú hơn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEwc6UdHllzqG2xNxcs9fJf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đây chính là hệ thống file đó.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4MI9yzDKiFSu6basLnGCEc",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Làm rõ một điều trước",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAJbE9xrLYHhpNMWRy7kncb",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Agent không thông minh hơn vì bạn dùng lâu hơn. Nhưng các file xung quanh nó trở nên phong phú hơn, chính xác hơn, phù hợp hơn với nhu cầu của bạn. Bối cảnh tích lũy này mới là lợi thế cạnh tranh.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvvJvSMRvXRw8HnXp63dROb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhiều người dành nhiều thời gian chỉnh prompt, đổi model, nghiên cứu các framework orchestration. Nhưng sự khác biệt thực sự không nằm ở model, mà ở hệ thống file.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrAQEpCuxDTLsMGJACXvgEb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Không có message queue, không có database, không có framework orchestration phức tạp. Toàn bộ hệ thống chỉ là file Markdown trên đĩa. Hệ thống file chính là lớp tích hợp.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrE8Uh2sZmwB0KavZ0hcS0d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nghe có vẻ thô sơ? Đọc xong bạn sẽ hiểu tại sao nó hiệu quả hơn bất kỳ framework nào.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgm7xYx3ZNAHz3RWHIWlTCqT",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Kiến trúc ba tầng, rõ ràng một cái nhìn ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgK3dUA12QJNUpCoTFnkrnCd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Toàn bộ hệ điều hành gồm ba tầng:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6MGqs9QeN0qk2iDjQt8xte",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hình 1: Kiến trúc file ba tầng",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgekxTjHqBeJaWfIncFvI4yd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mỗi tầng giải quyết một vấn đề cốt lõi:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgErQP3yg4tVERcY4zwVNm3e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tầng|Vấn đề cốt lõi|File Tầng danh tính|Đây là ai? Phục vụ ai?|SOUL.md, IDENTITY.md, USER.md Tầng vận hành|Làm việc thế nào? Tự phục hồi thế nào?|AGENTS.md, HEARTBEAT.md Tầng tri thức|Đã học được gì?|MEMORY.md, nhật ký hàng ngày, bối cảnh chia sẻ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXLHb3lKVGlYdPcbaZ3YaRd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dưới đây phân tích từng tầng.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvzXrr66WQrQLnbpk1134Td",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tầng 1: Tầng danh tính",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIj6d2JuOwGlpwXDMDojCLd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "SOUL.md -- Agent là ai?",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghehIcY8pTphu1T3pZjiI79",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đây là \"file nhân cách\" của agent. Định nghĩa danh tính, trách nhiệm, cách hành xử.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2KBTVT2jSgWLWS5cksurng",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ví dụ về agent nghiên cứu Dwight:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNy8wooUmt9GQxH0k0S7Lfg",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "SOUL.md（Dwight）",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgmq0VE5NeC5T9IL6nPIHBeg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "IDENTITY.md -- Thẻ tham khảo nhanh",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFXSQBJMBoZ4C4VSGdHwhnh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "SOUL.md là nhân cách đầy đủ, IDENTITY.md là danh thiếp.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2QIUxBmuDUFRlgAMM5eXCg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "# IDENTITY.md",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYizux3UE5XYyvQ96miamJI",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "File rất nhỏ, nhưng khi bạn chạy đồng thời 8 agent, thiết kế này sẽ cải thiện trải nghiệm đáng kể. Đây cũng là nội dung hiển thị khi agent gửi tin nhắn cho bạn trên Telegram.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCGfmnEmHvVOhwqzwl2Biva",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "USER.md -- Đối tượng mà agent phục vụ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgezDzdSTWZU1jqT1NyYCFIq",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mỗi agent đều cần biết nó đang giúp ai.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcymZ1u4qlRjno0aCimbJEe",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "USER.md",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxMIaLAVFGDYCg1tDQVr6gf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chi tiết cá nhân quan trọng hơn bạn nghĩ. Múi giờ nghĩa là agent sẽ không sắp lịch cho bạn lúc 3 giờ sáng. Sở thích ăn uống nghĩa là khi Pam soạn thông báo bữa tối nhóm, sẽ không gợi ý nhà hàng steak. Những chi tiết này tạo hiệu ứng lãi kép.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXquhFrPUDc3mYWrLuZQgrg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Viết một lần, tất cả agent đều đọc.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJpC1HCQHaD821PTh0VFpuX",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tầng 2: Tầng vận hành",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZDWLJ4Q5tlrBfEmPosX39g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "AGENTS.md —— ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Quy tắc hành vi",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUZ6i41cTpBcnxEedrKFjwh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "SOUL.md định nghĩa agent là ai, AGENTS.md định nghĩa nó vận hành thế nào: quy trình khởi động phiên, thứ tự đọc file, quản lý bộ nhớ, quy tắc bảo mật.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghFA4tIbZOAeqr3A5SPfheh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "AGENTS.md cấp gốc mà tất cả agent kế thừa:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtS5j53Gw1fPbYmz7zxRP7g",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "AGENTS.md",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgjqMmpdsL764sxEtoPQdxSb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Agent không có bộ nhớ giữa các phiên, mỗi lần bắt đầu từ số không.",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Nếu một sửa chữa không được ghi vào file, phiên tiếp theo nó sẽ không tồn tại. AGENTS.md làm rõ điều này, đảm bảo agent ghi lại mọi thứ.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHfzGskSV1ajMCRHuEq0ZFb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mỗi agent có thể mở rộng thêm quy tắc riêng. AGENTS.md của Kelly bổ sung 6 file: hướng dẫn phong cách viết, mẫu format bài đăng, ví dụ thực tế, nhiệm vụ hàng ngày...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgM6eNwuVkp3OC81zvQOqShh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "HEARTBEAT.md -- Cơ chế tự phục hồi",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUxiJdFz53qXroMUSIdu51h",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đội agent là hạ tầng, hạ tầng sẽ gặp sự cố.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgY1h1RLZXVl5S5RO97cxCtf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "HEARTBEAT.md của Monica giám sát hai điều:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWetkftjVj4UJIG3bXIEvkb",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trình duyệt có sống không",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " -- Quét tình báo của Dwight phụ thuộc vào nó",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPDnfOC9GdFWyFpV4xiau2K",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhiệm vụ định kỳ có chạy không",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " -- Nếu bỏ lỡ, Kelly và Rachel sẽ làm việc dựa trên tình báo cũ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyTNOOCe2dj3zsPrqiZAJoc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tuần thứ 3 tôi đã bị dính. Scheduler có bug, nhiệm vụ đẩy vào hàng đợi nhưng không bao giờ thực thi. Tôi mấy tiếng không phát hiện. Sau đó tôi mới xây cơ chế heartbeat, đưa failure mode vào giám sát.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvBZnheEOLXyy9OyBOjzDIf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ngày đầu không cần cái này, sau lần gặp sự cố đầu tiên hãy xây. Bạn sẽ biết rõ cần giám sát gì, vì đã tận mắt thấy cái gì sẽ sập.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqLCZ8s5kNyNx9feDMHCrAI",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tầng 3: Tầng tri thức",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFCDyUItFPYEM4dJnH0wD5d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đây là hệ thống bộ nhớ thực sự hiệu quả -- hệ thống ba cấp dựa trên file.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgX4SSyiH6WFkMAjeNMHKArg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cấp 1: MEMORY.md (Bộ nhớ dài hạn tinh hoa)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxMTg31GMXyv5aWasdeRBtg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Không phải log thô, không phải mọi thứ đã xảy ra, mà là nội dung thực sự quan trọng.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCKSvYfjFDMDWB4bmSys0mh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chú ý phần \"Bài học xương máu\" và \"Ví dụ sai\". Monica đã xóa một thư mục dự án, lỗi này từ đó vĩnh viễn ghi vào bộ nhớ dài hạn của cô ấy. Cô ấy sẽ không bao giờ mắc lại.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvpL7PhkHquK13uzH2LisSg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sửa một lần, lưu một lần, ngăn cùng một lỗi lặp lại trong mọi phiên tương lai. Chỉ riêng phần này, đã đáng giá hơn bất kỳ hướng dẫn prompt engineering nào.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgs3TWjdShTmb9MSIPzR4Geg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cấp 2: Nhật ký hàng ngày (Bản ghi thô)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZdxg8BAqYtec9oB9vLPJ0g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhật ký hàng ngày là nguyên liệu thô, MEMORY.md là sản phẩm tinh lọc, cả hai đều không thể thiếu.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnJDAyX5bQ8cpJiDzoYYnbg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quy tắc bảo trì: Nhật ký hàng ngày tích lũy rất nhanh, không cắt tỉa thì context của agent sẽ phình to. Nhật ký của Kelly có lúc đạt 161,000 token, chất lượng output giảm mạnh, phải nén xuống 40,000. Mỗi lần chỉ tải nhật ký hôm nay và hôm qua.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJYxEINCJkFmHLPyeIAXO6c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cấp 3: shared-context/ (Tầng tri thức xuyên agent)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJhZptJBI4nh3hIWa7FTnQh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đây là phần mới nhất được thêm vào, và cũng là",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "phần thay đổi tất cả",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgq3rWoyeNnMIAXsAn0e2AOe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "THESIS.md là khung tư duy hiện tại của tôi: tôi quan tâm điều gì, đã viết gì, còn khoảng trống nào. Dwight đọc nó để xác định ưu tiên nghiên cứu, Kelly đọc để khớp với dòng suy nghĩ của tôi. Mỗi agent đều căn chỉnh theo cùng một nguồn sự thật.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgmtaNUgHTejTLZt9u2irJy2",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "FEEDBACK-LOG.md là tầng sửa chữa xuyên agent. Khi tôi nói Kelly \"đừng dùng gạch ngang\", phản hồi này cũng áp dụng cho Rachel, Ryan và Pam. Thay vì sửa từng agent một, tôi viết một lần, tất cả đều đọc.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgz8Rw7ntksI9gqacNwdchSb",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sự thay đổi đơn lẻ này tiết kiệm thời gian nhiều hơn bất kỳ prompt optimization nào tôi từng làm.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrE1rJvAmwuATTNEeDaQKLb",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cách agent phối hợp",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg09RmebnKiW9AbT8i2IRHAh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Không có API call, không có message queue, chỉ có file.",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg87jNaEVOqs5hUwTNYGba7g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dwight ghi nghiên cứu vào intel/DAILY-INTEL.md, Kelly đọc, Rachel đọc, Pam đọc. Phối hợp chính là hệ thống file.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTxWXOYdijsCA6vhnqUo9Ih",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hình 2: Quy trình phối hợp dựa trên file",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRoIPfHFR2EUwTa7rdJJeGf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nguyên tắc đơn ghi",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ": Không bao giờ để hai agent đồng thời ghi cùng một file. Thiết kế mỗi file chia sẻ thành một người ghi, nhiều người đọc. Điều này ngăn chặn mọi xung đột phối hợp mà bạn cần debug.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggQYZpPBtOrWdj55LgeYSdg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lập lịch khiến tất cả trở nên khả thi",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ": Dwight chạy lúc 8 sáng và 4 chiều, Kelly và Rachel chạy lúc 5 chiều.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Dwight chạy trước, vì tất cả đều phụ thuộc output của anh ấy.",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Sai thứ tự, agent phía sau đọc được file đã cũ hoặc trống.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgt0p9xcZxidb3lYDQBBRh8S",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cấu trúc thư mục hoàn chỉnh",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcPIwuDqnhJkOrlMALF5M7Q",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tại sao phương pháp này hiệu quả",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwT9bLTb79t41s5YTcye0Ui",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "File không phải tĩnh, chúng đang tiến hóa.",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtY3ERGyoYakhNInL4YleFb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "SOUL.md của Kelly ngày đầu chỉ là bản nháp sơ sài. Đến ngày 40, nó đã có ví dụ giọng điệu cụ thể, danh sách pattern bị từ chối do chính cô ấy viết, và một khu vực \"không bao giờ gợi ý lại\".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZtlGmDihPSJjmP5VunOMod",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nguyên tắc của Dwight ngày đầu viết \"tìm xu hướng hot\". Ngày 10 thành \"nếu Alex hôm nay không thể hành động, bỏ qua\". Ngày 20, anh ấy thêm bước xác minh.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIkVfL09x5vlPfwKPg1Wjgc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tầng bối cảnh chia sẻ đến ngày 20 mới tồn tại. Lúc đó tôi đang lặp lại cùng sửa chữa cho nhiều agent. Sau đó tôi xây THESIS.md và FEEDBACK-LOG.md, đột nhiên, một lần sửa lan truyền đến khắp nơi.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8XIoOsNWHICKGoxmG8JjRc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Model ngày 1 và ngày 40 giống nhau. Nó không thông minh hơn vì bạn dùng lâu hơn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguQGtjjOHM2OlB7oQ9EcRpb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhưng các file xung quanh nó trở nên phong phú hơn, chính xác hơn, phù hợp hơn với nhu cầu cụ thể của bạn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfExS5hMFbMc3FoMzPJZZp8",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bối cảnh tích lũy này mới là lợi thế cạnh tranh. Không ai có thể sao chép nó bằng cách dùng cùng một model.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgihfLJHygTlXlkXm02CEPTd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bạn phải kiếm được nó bằng cách xuất hiện mỗi ngày, trò chuyện với agent.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglKyZLwdOFxquIHGDtNObEe",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cách bắt đầu (đừng cố xây xong trong một cuối tuần)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgU9ntGA24iGXTJA6l4S5KAh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Thời gian|Hành động Hôm nay|Cài OpenClaw, viết SOUL.md, IDENTITY.md, USER.md. Chọn nhiệm vụ hàng ngày lặp lại nhất, đặt cron cho nó chạy 3 ngày sau|Bắt đầu cho phản hồi cụ thể, đảm bảo phản hồi ghi vào file bộ nhớ, chứ không chỉ nằm trong lịch sử chat 1 tuần sau|Tạo AGENTS",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgqDrJzsixaJGKUV1rtC5nQe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lúc này bạn sẽ cảm nhận lãi kép bắt đầu xảy ra 3 tuần sau|Thêm agent thứ hai, xây phối hợp dựa trên file. Khi pattern xuất hiện, thêm hướng dẫn chuyên biệt cho vai trò Khoảng cùng lúc|Xây tầng bối cảnh chia sẻ. Dùng THESIS.md ghi suy nghĩ hiện tại, dùng FEEDBACK-LOG.md quản lý sửa chữa xuyên agent 4 tuần sau|Sau sự cố đầu tiên",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUOJWIjcRFA4SozOfEow9pb",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Viết ở cuối",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyhDvnsO9HUKFzfL9KcE1yc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Điều duy nhất bạn cần làm, là trò chuyện với agent của bạn. File sẽ hoàn thành phần còn lại.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBXu3ytKfc8PU37a1A63Pod",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Không phải chỉnh prompt, không phải đổi model, không phải tái cấu trúc kiến trúc.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghwLivKBtV4180HMTjcJZgh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chỉ là nói chuyện. Cho phản hồi. Nhìn chúng ghi lại nội dung.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4rm597qh3udQH1RrKmHi8g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Rồi một ngày bạn mở Telegram, xem bản nháp, uống ly cà phê.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrOWOWmw1mBx2zPFyLHfXmc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Agent của bạn đã học được cách giúp bạn làm việc.",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtWcfex3vTXWlxHrHOmPsNb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tham khảo: Shubham Saboo \"How to Build OpenClaw Agents That Actually Evolve Over Time\"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgw3tDTKJHZ7zCZMu94rc9pd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Từ:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0frnlZoNPE4dCDSBKcHuQe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "https://x.com/Saboo_Shubham_/status/2027463195150131572",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fx.com%2FSaboo_Shubham_%2Fstatus%2F2027463195150131572"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3FrEbtIAe3oaAREbrhbUic",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Biên tập dịch thuật:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgw8t26Jw0uP0MyGAjhnltkK",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Berryxia.ai",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fberryxia.ai%2F"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    }
+  ]
+}

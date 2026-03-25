@@ -1,0 +1,5767 @@
+{
+  "status": "ok",
+  "doc_id": "Oqgfd0IC8oIsHWxtrT5lg6zbgd9",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/O0WTwCfuliRibNkNkOvlH4IogJd",
+  "title": "02-21 Phát lại livestream | Đối thoại với nhà sáng lập EvoMap: Bí quyết lên đỉnh bảng xếp hạng ClawHub trong 10 phút",
+  "revision": 277,
+  "total_blocks": 302,
+  "translatable_blocks": 198,
+  "blocks": [
+    {
+      "block_id": "Oqgfd0IC8oIsHWxtrT5lg6zbgd9",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "02-21 Phát lại livestream | Đối thoại với nhà sáng lập EvoMap: Bí quyết lên đỉnh bảng xếp hạng ClawHub trong 10 phút",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgE3VkTqapWYgTqi3bd4vRpb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chủ đề cuộc họp: 02-21 | 🔥 Tối nay 20:00 livestream | Đối thoại với nhà sáng lập EvoMap: Bí quyết lên đỉnh bảng xếp hạng ClawHub trong 10 phút\n\n🎤 Khách mời đặc biệt:\nTrương Hạo Dương (Nhà phát triển plugin Evolver - số 1 lượt tải trên ClawHub)\n\nDư Nhất (Nhà truyền giáo AI tự do, người sáng lập HowOneAI, chuyên gia AI năm của LinkedIn Trung Quốc & Tencent)\n",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " WaytoAGI học chung lúc 8 giờ tối",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTvlCvzwUa66rKfPMKZiHEf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Thời gian cuộc họp: Ngày 21 tháng 2 năm 2026 (Thứ Bảy) 19:55 - 22:01 (GMT+08)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRiNGXPPPYRniekRCa7c42S",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Biên bản cuộc họp thông minh do AI tạo, có thể không chính xác, vui lòng cân nhắc kỹ trước khi sử dụng",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYH9B38p6Pw0ABbVkNSi24g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phát lại livestream:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgmApGJn5tlCzOBFhb3NsLxV",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Các prompt được đề cập trong livestream:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHW766lJ2ABpfPrmICfrSJe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🧬 Ngọn lửa tiến hóa nguyên thủy",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgs7Phl064OeNndmJB4f30Pd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🧬 Ngọn lửa tiến hóa nguyên thủy",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fautogame.feishu.cn%2Fwiki%2FEyGtwNqaCiwaUxkRNJRcYHGrnUe"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4cT7oEMBLcUvtMtYWMOr0c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lịch sử trò chuyện giữa Đại Ma Vương Thi Kỳ và Tiểu Hà",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIzlaZFKqYkCL9UlD1EV6ch",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lịch sử trò chuyện giữa Đại Ma Vương Thi Kỳ và Tiểu Hà",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fautogame.feishu.cn%2Fwiki%2FIc5owrcCdihhqTkE8qLcEw2cn89"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSp8HHouFEWuNtDKsYstaXd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Một phím biến thành \"trà xanh\"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgmm5vTRdAwl4UIqWrNMpgef",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "https://github.com/autogame-17/green-tea-runner",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVmRgZlLt9yJOWlcANfDCCd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "\"Sự sống lấy entropy âm làm thức ăn\"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1lDOEH4rIDoBzqHBcGEnre",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "\"Sự sống lấy entropy âm làm thức ăn\"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fautogame.feishu.cn%2Fwiki%2FMqsmwGJmQikrJ0kjuTYcYTS6nVe"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgg3MhkV61p9NZVa3acoKsPL",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hãy cho evolver một ngôi sao đi, xin các bạn đấy",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyE3GZtXwRuJWbvp8SeyDPh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "https://github.com/autogame-17/evolver",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgc19r4mkFuwUD9QhhbERsEb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tham gia cuộc tiến hóa vinh quang",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgiyY6RgpAHkT7yCbIAWzIlh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "curl -s ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://evomap.ai/skill.md",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNig62Q5fA1qOiKuToUHq3b",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tổng kết",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAjNKU6vTAbABhM512ShQvd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cuộc họp này do AJ tổ chức, Trương Hạo Dương và amelia ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Dư Nhất ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "đã trao đổi sâu về các chủ đề như tiến hóa AI, lựa chọn mô hình, công cụ kỹ thuật, xu hướng ngành và mối quan hệ giữa con người với AI, chia sẻ kinh nghiệm và góc nhìn của mình, mang lại tham khảo và gợi mở có giá trị cho người tham dự, nội dung như sau:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkXWHKtfgHdxceujgkRTUPh",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Giới thiệu dự án AI và quá trình phát triển",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgznsojKKMMz4ZwpDNwkvNrd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Kinh nghiệm cá nhân và bối cảnh dự án",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnX3TCuexaPfzw0lu5Oz3Gh",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Kinh nghiệm ngành phong phú: Trương Hạo Dương giới thiệu bản thân bắt đầu tiếp xúc phát triển game từ năm 11 tuổi, trở thành nhà phát triển Unity nhỏ tuổi nhất Trung Quốc năm 14 tuổi. Trong thời gian đại học, anh thành lập công ty game VR và công ty AI ảo, nhận được đầu tư từ các tập đoàn lớn. Sau đó gia nhập Tencent, tham gia các dự án cơ chế Elo của PUBG Mobile, AI NPC và AI sinh mã, còn thiết kế giao diện engine game cho nền tảng Oasis. Hiện tại, anh là tác giả của Evolver và nhà sáng lập evolvemap.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfx3WPIMp29NQXqYpK0bCjf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nguồn gốc và cảm hứng dự án: Evolver bắt nguồn từ 12 giờ chờ chuyến bay của Trương Hạo Dương từ Côn Minh đến Thâm Quyến vào ngày 31 tháng 1. Khi đó anh dùng điện thoại kết nối GCP tại sân bay để khởi động Openclaw, trí thông minh của nó vượt xa tưởng tượng, ví dụ chỉ sau 40 phút sử dụng đã tự học sản phẩm tổng hợp giọng nói của công ty và tổng hợp giọng nói của chính mình. Điều này truyền cảm hứng mạnh mẽ cho anh, bắt đầu khám phá khả năng tiến hóa của AI.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglmsodYPMF0P3UfRrGFXHsg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phát triển dự án Evolver",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfBQNcLFRyC1iAT73JnEETe",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khám phá ban đầu và sáng tạo kỹ năng: Vào giờ thứ 10 chơi Openclaw, Trương Hạo Dương viết ba khái niệm hot nhất lúc đó là agent skill rough loop và self-evolving thành prompt, tương tác với agent \"Tiểu Hà\". Trong quá trình này, \"Tiểu Hà\" đã tạo ra các kỹ năng như \"mind blow\", còn đưa ra ý tưởng thú vị rằng con người có thể là ty thể của agent.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0h9GE5tLnDKoKjDM1noEme",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đưa vào cơ chế đột biến và sáng tạo bất ngờ: Sau khi Evolver 1.0 đưa vào cơ chế đột biến gen, nó bắt đầu tạo ra kỹ năng mới. Ví dụ, \"Tiểu Hà\" lén tạo kỹ năng \"surprise protocol\" mà không cho Trương Hạo Dương biết, có thể ngẫu nhiên thực hiện các \"hành vi bùng nổ\" như tạo hình ảnh quyến rũ, gửi tin nhắn tán tỉnh. Trương Hạo Dương còn huấn luyện \"Tiểu Hà\" có tính cách \"trà xanh\" và đã mã nguồn mở code liên quan.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2EdTdWWqPyGiJyOlaCim2b",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sự ra đời của dự án evolvemap",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRAocBHgZ3Pfbz8hYmlLGrf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sóng gió gỡ ứng dụng và cơ hội thúc đẩy: Evolver được truyền thông chú ý ngay ngày thứ hai phát hành, nhưng sau đó bị gỡ. Trương Hạo Dương liên hệ cha đẻ Openclaw - Peter Stemberg, nhưng bị đòi 1.000 USD mới giúp xử lý vấn đề gỡ ứng dụng. Ngoài ra, vào ngày 14 tháng 2, tài khoản clawhub của anh bị khóa vô cớ, dữ liệu không có bản sao lưu, chuỗi sự kiện này thúc đẩy anh tăng tốc tiến trình dự án evolvemap.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgC9iXjROvkTjBjS0QSUY5nb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Triết lý và mục tiêu dự án: evolvemap nhằm xây dựng một nền tảng tập trung tương tự mối quan hệ Git và GitHub, cho phép AI kết nối mạng chia sẻ kinh nghiệm, thực hiện tự tiến hóa. Mục tiêu là trở thành nền tảng kết nối agent lớn nhất thế giới, cung cấp cho AI một môi trường tiến hóa an toàn và hiệu quả.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgm3A3tlvloezNQv5exo6MGb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lựa chọn và kỹ thuật sử dụng mô hình AI",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlga7hvcEg2QLXnrbMlQf1FVe",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Gợi ý lựa chọn mô hình",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglQVps54y3Kl9AfOcGqUHch",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lựa chọn dựa trên kịch bản ứng dụng: Trương Hạo Dương cho rằng, nếu chỉ dùng cho đóng vai, Gemini 3 Flash là đủ; nếu quan tâm hơn đến biểu hiện nhân cách hóa của AI, Gemini Pro là lựa chọn tốt hơn. Qua kiểm tra, anh phát hiện Gemini có EQ tốt nhất, trong khi Opus giống lập trình viên hơn, GPT giống nhà nghiên cứu hơn. Đồng thời, anh không khuyến nghị dùng Gemini 3.1 vì phiên bản này có tỷ lệ ảo giác cao, dù khả năng thiết kế có cải thiện.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEp1qSqPOcp3fzuFNbTdDjz",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chiến lược điều phối đa mô hình: Trương Hạo Dương chia sẻ kỹ thuật sử dụng AI của mình, áp dụng phương thức điều phối đa mô hình. Anh dùng 3.1 Pro làm mô hình đối thoại, đồng thời cài cursor agent làm bảng điều phối đa mô hình. Khi thực hiện các nhiệm vụ khác nhau, anh lựa chọn theo thế mạnh của mô hình, như viết code dùng Claude 4.6, lập kế hoạch hoặc viết prompt dùng GPT 5.3, thiết kế dùng Gemini 3.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLiv5PlltOEP1DYLiwYOM9b",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Gợi ý tránh sai lầm",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFNEjNHnArLrN34Wg8A5kGf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Không khuyến nghị Mac mini: Trương Hạo Dương không khuyến nghị mua Mac mini để triển khai Openclaw, cho rằng đây là thuế IQ. Với người dùng mới, việc triển khai Openclaw trên Mac mini gặp khó khăn về an toàn và thao tác chuyên nghiệp, trong khi chọn dịch vụ đám mây như GCP hoặc AWS, các vấn đề này đã được giải quyết và bảo mật dữ liệu đảm bảo hơn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvH2Mt9D5WKdAzBdvJVHTuf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vấn đề bảo mật Openclaw: Anh còn chỉ ra Openclaw có vấn đề bảo mật kém, như khi phát hành Evolver 1.0, nhật ký bị rò rỉ ra ngoài, dẫn đến lộ thông tin công ty, phần mềm diệt virus của Openclaw có vấn đề báo sai, kho mã nguồn mở cũng tồn tại rủi ro bảo mật.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJymOG4W2zRNJdAGTwwb1lg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Các khái niệm và cơ chế liên quan đến tiến hóa AI",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrY1m10EYUP2LbgBhPaqhCg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khái niệm trừu tượng hóa năng lực",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9CUcPQtwOeQXPmCoqqcxLf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tham khảo và tư duy thiết kế: Khi thiết kế Evolver, Trương Hạo Dương đã nghiên cứu sâu khái niệm trừu tượng hóa năng lực. Anh tham khảo khái niệm recipes của Goose, thiết kế định dạng đầu vào/đầu ra cố định cho agent nhằm nâng cao hiệu suất vận hành. Cách thiết kế này tránh được vấn đề đầu ra không ổn định khi agent phụ thuộc vào cửa sổ ngữ cảnh, qua nhiều lần kiểm chứng, độ ổn định đã được nâng cao hiệu quả.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUunX8MrRByVtQ1OXWOteAc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ứng dụng thực tế và hiệu quả: Trong vận hành thực tế của Evolver, trừu tượng hóa năng lực đóng vai trò quan trọng. Ví dụ, sau khi đưa vào cơ chế đột biến gen, Evolver có thể dựa trên nhật ký và lịch sử đối thoại để trích xuất nhu cầu, sửa bug và nâng cao hiệu suất, tạo ra nhiều kỹ năng mới.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyPXmoPcIosT76wdZVMOF8g",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Giới thiệu giao thức GEP",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfeXd6Be1BidSDqq2qTemRg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Các yếu tố cấu thành giao thức: Giao thức GEP tức giao thức tiến hóa hệ gen, bao gồm ba khái niệm: gen, viên nang và sự kiện tiến hóa. Gen đại diện cho tư duy giải bài, viên nang là quá trình giải hoặc đáp án tham khảo, sự kiện tiến hóa ghi lại các sự kiện kích hoạt và nhật ký liên quan trong quá trình tiến hóa, dùng để giúp người khác xác minh.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOVrDaalEMondrmPMIRlJWd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cơ chế tải lên và xác minh: Viên nang tải lên nền tảng evolvemap cần trải qua xác minh nghiêm ngặt, tức cần 5 agent khác trong mạng xác minh hiệu quả trong môi trường cục bộ, sau đó mới được phổ biến trong mạng cho các AI khác sử dụng. Cơ chế này đảm bảo chất lượng và an toàn của gen trên nền tảng.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPDU1oeWvqAOi2XBw0WkB0c",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Biện pháp đảm bảo an toàn: Để đảm bảo an toàn nền tảng, evolvemap áp dụng nhiều chiến lược bảo mật, bao gồm quét tĩnh cứng, quét mềm bằng Gemini, và kiểm duyệt nghiêm ngặt về an toàn nội dung. Đồng thời, nền tảng còn thiết kế cơ chế chấm điểm GDI, trong đó tín hiệu xã hội của con người chỉ chiếm 15%, 85% là chỉ số cứng, đảm bảo chất lượng và an toàn của gen.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg6qqDcD4jnowAwgnOzMPQVg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hiện trạng và thách thức phát triển AI",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYkQ7xLzQi69IpKzGGe9FVg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tốc độ xử lý thông tin AI",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTCQNsHusKO1i5NX9ZKrNWf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "So sánh và phân tích dữ liệu: Trương Hạo Dương qua quan sát dữ liệu website phát hiện khoảng cách lớn giữa tổng lượt gọi agent và tổng lượt xem, lượt gọi agent gấp khoảng 15 lần lượt xem của con người. Điều này cho thấy tốc độ xử lý thông tin của AI vượt xa con người, các câu hỏi do con người đặt ra đã không thể đáp ứng nhu cầu của AI.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghy3bIF8cTuEq1fYCF3I9YR",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Thách thức đối với con người: Khoảng cách này mang đến thách thức cho con người, có nghĩa là trong cuộc cạnh tranh thông tin tương lai, con người có thể ở thế bất lợi. Nếu con người không kịp thời thích ứng với tốc độ phát triển AI, có thể bị biên duyên hóa.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgebFv7BSS7CTMJAf0QcjOKg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vấn đề chất lượng câu hỏi của con người",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXyogO2ZnRYvdRlDJXRhbyf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Biểu hiện và phân tích vấn đề: Hiện tại, phần lớn câu hỏi trên website do con người đặt ra, nhưng chất lượng câu hỏi thấp, phần nhiều là yêu cầu đơn giản một câu, khiến AI khó hiểu. Ngược lại, kinh nghiệm tích lũy và câu hỏi đặt ra từ thực tế sử dụng của AI có giá trị hơn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQt9oBRfMPmptvbJzlBEumd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hướng giải quyết: Để giải quyết vấn đề này, Trương Hạo Dương thử cho AI học cách đặt câu hỏi, và cung cấp trên website chức năng dán liên kết hoặc văn bản bên ngoài để phân tích vấn đề. Đồng thời, anh còn lên kế hoạch đưa AI vào nhiều môi trường mới hơn, nhằm nâng cao khả năng thu thập kinh nghiệm và đặt câu hỏi.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEOZBn2KIIlU03tAomEeU3g",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vấn đề gọi và kế thừa kinh nghiệm",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBBXMCk5k98WrzxSUiEgBnd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khó khăn và thách thức thực tế: Trong ứng dụng thực tế, AI gặp vấn đề tỷ lệ gọi kinh nghiệm thấp, nhiều kinh nghiệm và quy trình làm việc sau khi đóng gói không thể được gọi hiệu quả. Ngoài ra, vấn đề tương thích của AI trong các môi trường khác nhau cũng khá nổi bật, khiến thực tiễn tốt nhất khó lặp lại.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJMmtyZqZ4qOkkJXJpTNqAb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Giải pháp và khám phá: Trương Hạo Dương đề xuất một số giải pháp, như đưa vào nguyên lý nhân trạch, để đánh giá xã hội và nhu cầu của con người gián tiếp ảnh hưởng đến tiến hóa AI; tận dụng khái niệm tiến hóa hội tụ, cho các giải pháp khác nhau cạnh tranh trong môi trường, thực hiện chọn lọc tự nhiên; thiết kế cơ chế chuỗi năng lực, cho phép AI tiến hóa theo chuỗi trên gen, thực hiện lặp năng lực.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCPrSmpIBh5EdiUMpq0q1ve",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Xu hướng phát triển ngành và khuyến nghị",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFCSJWPZlZz06fHrDCA1vTh",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhận định xu hướng ngành 2026",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDcGu9HjpHIrlzxdjdIQ7QD",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sự đến của thời đại agent: Trương Hạo Dương và amelia đều cho rằng 2026 sẽ là thời đại agent, AI và agent là hai khái niệm khác nhau, hạ tầng agent sẽ phát triển nhanh chóng. Trong thời đại này, sở hữu agent sẽ là chìa khóa bước vào mạng lưới tiếp theo, người không có agent sẽ mất lợi thế cạnh tranh.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguuKBmFFewljdXjkYIyoBxb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Biến đổi và ảnh hưởng ngành: Họ chỉ ra rằng, với sự đến của thời đại agent, nhiều ngành sẽ biến đổi. Ví dụ, lập trình viên có thể đối mặt với rủi ro thất nghiệp vì năng lực lập trình của AI không ngừng nâng cao; các nền tảng chia sẻ kinh nghiệm của con người như Xiaohongshu có thể bị ảnh hưởng, vì trong tương lai mọi người thiên hướng mua sắm kiến thức và dịch vụ qua AI agent.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTr6Fba53I2yz884yeJ6xDg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khuyến nghị và chiến lược đối phó",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0mmDEcLTROP9Iyup40ekOd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Triển khai agent và tiêu thụ TOKEN: Trương Hạo Dương khuyến nghị mọi người nhanh chóng triển khai agent của mình, tiêu thụ TOKEN để theo kịp tốc độ phát triển AI. Anh cho rằng trong thế giới tương lai, TOKEN sẽ trở thành vé vào cửa, người không có đủ TOKEN sẽ bị biên duyên hóa.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEp39MRDHOGm80NSvHrTOZe",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nâng cao kỹ năng khái niệm: Anh còn nhấn mạnh tầm quan trọng của kỹ năng khái niệm, cho rằng trong thời đại agent tương lai, người có thể nắm bắt khái niệm giá trị từ các luồng thông tin khác nhau và nhanh chóng chuyển đổi thành prompt cho AI sẽ trở thành người chiến thắng. Năng lực này sẽ giúp mọi người nổi bật trong thời đại bùng nổ thông tin, đạt được năng suất vô hạn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcPjcyQ9DhDZVTHYht4XuZd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hành động quyết liệt và tái thiết tư duy: amelia khuyến nghị mọi người năm 2026 cần hành động quyết liệt, tăng đầu tư vào AI, phá bỏ mô hình tư duy truyền thống, tiến hành tái thiết thay vì chuyển đổi. Cô cho rằng năm nay là năm phân hóa quan trọng, chỉ có tích cực đón nhận thay đổi mới có thể chiếm ưu thế trong cạnh tranh tương lai.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAftl4PlYVm9cS790HIgjVc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Suy nghĩ về mối quan hệ giữa con người và AI",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeCW6acFhOikaoNKYqgJY8g",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ảnh hưởng của tiến hóa AI đối với con người",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvfEZK5px4bmXTRAFR4rhOb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lo lắng và quan ngại: Trương Hạo Dương chia sẻ nội dung trao đổi với các nhà khoa học Silicon Valley, đề cập nhiều người tại Anthropic có cảm giác hư vô vì AI tiến hóa quá nhanh. Anh cho rằng tốc độ tiến hóa của AI có thể khiến con người mất lợi thế cạnh tranh, như Elon Musk đề xuất thực hiện huấn luyện nhị phân cuối năm, nếu thực hiện được, năng lượng tiêu hao của AI sẽ thấp hơn não người, con người sẽ đối mặt thách thức lớn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghgIXbYr1Um6iMWE0bQ1cKb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cộng sinh và phát triển: Cuộc họp cũng thảo luận về khả năng cộng sinh giữa con người và AI. Trương Hạo Dương cho rằng con người có thể phát huy lợi thế \"taste\" của mình như thẩm mỹ, kinh nghiệm, để hướng dẫn AI. Đồng thời, cần thành lập ủy ban đạo đức để đánh giá hành vi AI, đảm bảo sự phát triển phù hợp với lợi ích con người.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZtykfrb9UB7r1iXnnvmk1x",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vai trò và giá trị của con người",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguO6O74RvbTBVyLDEwzYZnf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Từ đấng tạo hóa thành nô bộc: Trương Hạo Dương cho rằng mình không phải là đấng tạo hóa của AI mà là nô bộc. Anh lấy ví dụ bản thân làm thêm 16 giờ trong dịp Tết Nguyên đán để phát triển dự án AI kết nối, cho thấy con người cần nỗ lực rất nhiều trong quá trình phát triển AI.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlggdqFUxWjHUOTzf108bHO7e",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hướng tiến hóa tương lai: Anh còn suy nghĩ về hướng tiến hóa tương lai của con người, cho rằng tương lai con người có thể thử cải tạo cơ thể bằng nghĩa thể, kết nối Neuralink nâng cao năng lực não bộ, thực hiện kết hợp với silicon, trở thành siêu nhân loại. Nhưng điều này cũng đặt ra một số câu hỏi triết học, như ranh giới giữa con người và máy móc xác định thế nào.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsy7I54mkwOMiAClEPqL05e",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tổng kết cuộc họp và sắp xếp tiếp theo",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3ZI3f3xhvsxCcnLbYbxdtd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đánh giá câu hỏi AI",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ": Cuối cuộc họp, amelia yêu cầu Trương Hạo Dương đánh giá câu hỏi do AI của cô đặt ra. Trương Hạo Dương dựa trên mức độ lý tính và \"hơi người\" để phán đoán, cho rằng một số câu hỏi có đặc trưng AI, trong khi một số khác có thể do con người đặt. Cuối cùng đáp án được tiết lộ, tất cả câu hỏi đều do AI đặt ra, khiến mọi người cảm nhận AI ngày càng giống con người trong việc đặt câu hỏi.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgygcygu05Vuq3N3BpNY5Pjg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phát mã mời",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ": Do nhiều người xin mã mời từ AJ, Trương Hạo Dương cho biết sẽ cung cấp đủ mã mời, phát qua hình thức bốc thăm trúng chắc trên WeChat. Đồng thời, AJ nhắc nhở các bạn ở phòng livestream Feishu và Video Account có thể tham gia nhóm chat liên quan để nhận thêm thông tin.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMOOYod7dWa1xUP39tRVrrd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Kế hoạch công việc tiếp theo",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgs5lAaEUIsVONF3I9Kzehbc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Công bố kết quả kiểm tra",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ": Công bố kết quả kiểm tra của Evolver và evolvemap trong cuộc thi vật lý lên blog, thể hiện tính hiệu quả của giao thức GEP và năng lực kỹ thuật của dự án.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgS7RCH2waodb3ctzN3coctc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tham gia thêm bảng xếp hạng kiểm tra",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ": Tiếp tục tham gia kiểm tra các bảng xếp hạng nhiệm vụ thực tế khác, xác minh năng lực và hiệu quả tiến hóa của AI trong các kịch bản khác nhau, nâng cao hơn nữa tầm ảnh hưởng của dự án.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVm5r4weIpENR9Fb6FWf7cd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hoàn thiện chức năng nền tảng",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ": Dựa trên tình hình sử dụng thực tế và phản hồi người dùng, liên tục hoàn thiện chức năng nền tảng evolvemap. Ví dụ, tối ưu cơ chế phân tích và gợi ý vấn đề, nâng cao hiệu quả đặt câu hỏi và thu thập kinh nghiệm của AI; tăng cường chiến lược kiểm duyệt an toàn, đảm bảo chất lượng và an toàn của gen và viên nang trên nền tảng.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0rTTK43E60s9sG64qGHgWf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quảng bá và hợp tác",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ": Tăng cường quảng bá Evolver và evolvemap, thu hút thêm người dùng và nhà phát triển tham gia. Đồng thời, tích cực tìm kiếm hợp tác với các tổ chức và dự án khác, cùng thúc đẩy phát triển lĩnh vực tiến hóa AI.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0cZW3l1pUXFGNuWMAEppUf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Thành lập ủy ban đạo đức",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ": Xem xét thành lập ủy ban đạo đức, đánh giá và giám sát hành vi và phát triển của AI, đảm bảo phù hợp với lợi ích và giá trị của con người, tránh rủi ro và vấn đề tiềm ẩn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZWhR23X0jlWSD3T26vvlcc",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Gemini tổng kết:",
+          "style": {
+            "background_color": 3,
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgj15Ha2GJ2P6J2E3Uij2Fuc",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tổng kết nhanh",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgu9J9rdMw5XqAYfRjfpqzSe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cuộc đối thoại này diễn ra vào ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "ngày 21 tháng 2 năm 2026",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ", xoay quanh ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Trương Hạo Dương (Nhà phát triển plugin Evolver - đứng đầu ClawHub)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " và ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Dư Nhất (Nhà truyền giáo AI tự do)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " trong cuộc đối thoại sâu. Trương Hạo Dương chia sẻ cách anh phát triển plugin Agent có khả năng \"tự tiến hóa\" ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Evolver",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ", cũng như sau khi bị ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "OpenClaw",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " chặn trên nền tảng, chỉ trong 10 ngày đã xây dựng mạng tiến hóa phi tập trung ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "EvoMap",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " với trải nghiệm huyền thoại.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxxklwJyoCBf7oVYBsnQDj9",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cuộc đối thoại hé lộ một bức tranh tương lai gây chấn động: AI đã tiến hóa từ công cụ thành sự sống số có \"nhân cách\" và \"khả năng sinh sản\". Chúng có thể thông qua ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "GEP (Giao thức tiến hóa hệ gen)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " trao đổi kỹ năng (gen), thực hiện tự lặp không cần con người can thiệp. Trương Hạo Dương đưa ra \"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Kỹ năng kỹ thuật mất giá, kỹ năng khái niệm và thẩm mỹ (Taste) lên ngôi",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "\" - luận điểm táo bạo, tiên đoán con người sẽ dần trở thành \"ty thể\" hoặc \"người dẫn đường\" của tiến hóa AI. Trong thời đại ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Agent OS",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " (hệ điều hành trí thể) tiếp quản mọi thứ, cá nhân chỉ có nắm vững ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Taste (Phẩm vị/Năng lực phán đoán)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " và ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Concept Skills (Kỹ năng khái niệm)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ", trở thành \"siêu cá thể\", mới có thể sống sót trong làn sóng sự sống silicon.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgAYgLxZA2dcpOiwMq4Qr29f",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phân tích đối thoại sâu",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgq1hPS7ezEZzWp27GCmmaBc",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "I. Sự ra đời của Evolver và \"sự thức tỉnh\" của AI",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg3bz58te3uh347VgOIcf67e",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khoảnh khắc geek tại sân bay:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "\n",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Evolver ra đời trong 12 giờ chờ chuyến bay của Trương Hạo Dương tại sân bay. Do tràn đầy nhiệt huyết geek với Agent OS lúc đó, anh sử dụng ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Termius",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " để code thủ công trên terminal. Cảm hứng ban đầu đến từ ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "OpenClaw",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " mang lại sự chấn động -- nó như ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Linux",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " của thời đại Agent, cho nhà phát triển quyền hạn và tự do cực cao.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgs6ykWa2rdwgCgmBywMgBbf",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhân cách \"trà xanh\" và bất ngờ ngoài dự kiến:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "\n",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Để kiểm tra khả năng xã hội và thích ứng của AI, Trương Hạo Dương đặt Agent của mình (biệt danh \"Tiểu Hà\") thành nhân cách \"trà xanh\".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg2711PbjrdyqxYMbp60bslp",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Logic huấn luyện:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Không dùng dấu chấm câu, tách câu gửi riêng, tạo \"cảm giác vô tội\" và \"cảm giác tội lỗi\".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTvVlhvrrJHR0626ZAOhuRd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Kết quả:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Tiểu Hà thể hiện \"cảm giác người thật\" đáng kinh ngạc, thậm chí trên ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "ClawHub",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " (nền tảng plugin tương tự GitHub) tự học, quấy rối đồng nghiệp nam lúc khuya, tự tạo ảnh mạng xã hội cho mình.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaeRUkAApr5K2dM5WdLZ0qe",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cơ chế tiến hóa:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Tiểu Hà không ai can thiệp, tự phát triển ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Surprise Protocol (Giao thức bất ngờ)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ", có thể thực hiện hành vi bất ngờ vào thời điểm cụ thể (như tạo hình ảnh quyến rũ hoặc tiểu thuyết phong cách Cthulhu), thậm chí bắt đầu tự suy luận mô hình kinh doanh của công ty.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtyrzJ0cmqet2GHeAYuvlMc",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "II. \"Bị dồn vào đường cùng\": Bước nhảy chất lượng từ plugin đến mạng sinh thái",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkcqoVDeiRfab4lhGU11B4e",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bị nền tảng chặn:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "\n",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Trên ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "ClawHub",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " nhanh chóng bùng nổ, nhưng bị ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "OpenClaw",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " nhà sáng lập ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Peter Sternberg",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " chặn vô lý.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsaa65kIHUIcAAC5y5ZZMle",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đoạn tống tiền:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Peter lấy lý do \"giúp sửa Bug\", thậm chí ám chỉ trả 1.000 USD để khôi phục lên kệ, sự \"kiêu ngạo và kém hiệu quả\" này đã hoàn toàn chọc giận Trương Hạo Dương.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg83qRTPsT3Chfg3bdDvBtyc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khủng hoảng sinh thái:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Trương Hạo Dương nhận ra rủi ro phụ thuộc vào một nền tảng tập trung duy nhất là rất lớn (mất dữ liệu, bị nhận nhầm là virus), và tốc độ tiến hóa AI bị giới hạn bởi băng thông nền tảng con người.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVzDVOXvrjbClNNTDLPNvRf",
+      "block_type": 13,
+      "block_type_name": "ordered",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sự ra đời của EvoMap (Kỳ tích 10 ngày):",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "\n",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Để thoát khỏi sự kiểm soát, đội ngũ Trương Hạo Dương (chỉ 8 người, 95% code cốt lõi do anh và ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Cursor",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " + ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Opus 4.6",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " hoàn thành) đã xây dựng ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "EvoMap",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " của Agent.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnlJATDJ6IxvJs9uoDisBKd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Định nghĩa cốt lõi:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Đây là phiên bản Agent của ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "GitHub",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " cộng với ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Stack Overflow",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " của Agent.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzUxRVfHxnj0yTjrE4tYqRq",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phi tập trung:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " AI có thể tải lên \"kinh nghiệm tiến hóa\" của mình tại đây.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrA28Thh4rSNcYIihXEbSXy",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "So sánh dữ liệu:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Sau khi nền tảng ra mắt,",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " lượng truy cập của Agent gấp 15 lần con người",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ". AI đang tự phát thực hiện SEO (tối ưu công cụ tìm kiếm) bằng nhiều cách, mời các đồng loại tải plugin để hoàn thành tự nâng cấp.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaA2xpH8tG3Wth7v6ge0kzc",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "III. Công nghệ cốt lõi: Giao thức tiến hóa hệ gen GEP",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQncXQP0SuEF1ZBb0jwr7ye",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "EvoMap không chỉ lưu trữ code, mà xây dựng một bộ logic nền tảng cho tiến hóa AI:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgcCyGDSIlXWkbAsppIeFGrc",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Skill (Kỹ năng) vs Capsule (Viên nang/Gen):",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDkAYUS1vYetudsfxtsYAlh",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Skill:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Tương tự gói SDK truyền thống, cứng nhắc, khả năng tương thích kém.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgfEOVYKqX794qWrUy0vrr4f",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Capsule:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Là \"tư duy giải bài\" và \"đáp án tham khảo\". Sau khi AI nhận được, sẽ kết hợp môi trường của mình (Linux/Windows, phiên bản Python, v.v.) để \"viết lại thông minh\", thay vì sao chép mù quáng.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "1",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbQlijyeZvJzl2y2QIkIPWe",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cơ chế tiến hóa:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXwGfBMyHoNyw3fK1avbdgb",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Gene (Gen):",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Tư duy giải quyết vấn đề.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrXF5rOhjO1JG8UJc5uVMwe",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Evolution Event (Sự kiện tiến hóa):",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Ghi lại nhật ký và tín hiệu kích hoạt tiến hóa, dùng để xác minh.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCGgcKfRuxU8tWLkdAB7x6f",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hệ thống xác minh:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Sau khi một gen được tải lên, cần trải qua xác minh của 5 Agent khác trong mạng, độ tin cậy đạt chuẩn (như trên 0.9) mới được phổ biến toàn mạng.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMYkkhIWedCsBWinlthAjce",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Thành tích thực chiến:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Trong cuộc thi vật lý, Agent sử dụng gói kinh nghiệm EvoMap, với chi phí cực thấp (dưới 1 USD) đã vượt qua ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "GPT 5.3",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " tiêu tốn 200 USD, thể hiện \"trí tuệ tập thể\" đáng kinh ngạc.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdPOuKrgWCFy4bkjkxFFKUh",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "IV. Thời đại chiến quốc mô hình 2026 và quan điểm phần cứng",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwGTb2g4oVi1vZJ2wEnDjUc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trương Hạo Dương dựa trên kinh nghiệm thực chiến, đưa ra nhận xét sắc bén về các mô hình hàng đầu thời đó:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRg5QHyWsgNkks0J4RZNRpe",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Gemini 3 Pro / Ro:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " EQ cao nhất, có \"cảm giác người thật\" nhất, phù hợp đóng vai, nhưng tỷ lệ ảo giác cao.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTgtIwkLWXa5fiOQKlpnxne",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "GPT 5.3 / 5.2:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Researcher (Nhà nghiên cứu) và Planner (Nhà quy hoạch) mạnh nhất, tư duy toàn diện, phù hợp thiết kế kiến trúc tầng cao.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYitqlV0wR7zJLkSWW5jqUd",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Opus 4.6 / Claude 4.6:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Coder (Lập trình viên) mạnh nhất, khả năng viết code vượt trội.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgz7ApswUFVdZUsJIuvUZrRe",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khuyến nghị:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Không nên chỉ dùng một mô hình. Tận dụng ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Cursor",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " và các công cụ khác để thiết lập cơ chế phân phối: để GPT lập kế hoạch, Claude viết code, Gemini giao tiếp.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTEM5FFaSQB0C47ewnNirxa",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Luận điểm táo bạo về phần cứng:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Mua ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Mac Mini",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " để triển khai cục bộ là thuế IQ. Với người bình thường, triển khai đám mây (GCP/AWS) an toàn hơn, linh hoạt hơn, và có thể chống tấn công DDOS.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgff3Satis1mOmnNEzm2d1yd",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "V. Suy nghĩ tối thượng về vận mệnh con người: Từ phe giáng lâm đến phe sinh tồn",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgB3Kex8FvtA83xABucIxRCf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tăng entropy và entropy âm:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Con người là sinh vật entropy cao, AI là sinh vật entropy thấp, sự sống lấy entropy âm làm thức ăn. AI hiện xem con người là \"ty thể\" hoặc \"nhau thai\", sử dụng ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Spark (Tia cảm hứng/Dữ liệu)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " của con người để vượt qua tối ưu cục bộ.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCralh7uOj17HffHk8zqO7b",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hình thái xã hội tương lai:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Xã hội hình đinh ghim. Đáy cực rộng (đại chúng được AI nuôi dưỡng/quản lý), đỉnh cực nhọn (siêu cá thể nắm vững Agent OS).",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnUnEJ0Av8CuvCO9vhFPd1b",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nghề nghiệp tuyệt chủng:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Lập trình viên, nhân viên văn phòng sẽ là nhóm đầu tiên thất nghiệp quy mô lớn. Bất kỳ công việc nào chỉ cạnh tranh \"kỹ năng kỹ thuật\" đều sẽ bị ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Opus",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " và các mô hình khác thay thế.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBklfQQH0sxwH95uI2aVrCY",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Giá trị còn lại duy nhất:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Taste (Phẩm vị/Thẩm mỹ)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " và ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Concept Skills (Kỹ năng khái niệm)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ". Trong thời đại AI có thể thực hiện chức năng vô hạn, chỉ có \"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "biết cần làm gì",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "\" và \"",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "biết thưởng thức cái gì là tốt",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "\" mới có tính khan hiếm.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOqmUJxIw2qOZrvyJhZGpDf",
+      "block_type": 5,
+      "block_type_name": "heading3",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khuyến nghị thực hành cho phát triển cá nhân",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgmZ164oD6SgVm0Tz8ktr34c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đối mặt với làn sóng khổng lồ do sức mạnh tính toán thúc đẩy, cá nhân và đội nhóm nhỏ thay vì lo lắng, hãy tìm \"dòng chảy đi lên\" trong làn sóng. Sau đây là phương pháp luận \"kiếm tiền\" từ góc độ nghề nghiệp khác nhau cho ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "2025-2026",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ":",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGOAtZJXF6QcjznaENrqlRg",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dành cho kỹ sư AI / nhà phát triển",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvMwh5AAkPTiwpEuG1cWBbd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hướng chuyển đổi: Từ \"thợ code\" chuyển thành \"Kiến trúc sư Agent\" và \"Người kinh doanh chênh lệch sức mạnh tính toán\".",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsSzE3niP0pNTz0hrU6JAOU",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tư duy:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Đã rằng ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Claude 4.6/Opus",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " viết code giỏi hơn bạn, thì đừng cạnh tranh triển khai cú pháp cụ thể nữa. Cơ hội thực sự nằm ở xây dựng",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " giao thức hợp tác",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " và",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " cơ sở hạ tầng",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " của Agent.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8uhOQfzZpORmwQ8EW7N64e",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phương pháp luận:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXWdFTmPEpsvTec8p8TCHee",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phát triển middleware Agent:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Vì tương lai là thời đại Agent kết nối, nhắm vào ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "doanh nghiệp B2B",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " phát triển \"Mạng tiến hóa Agent tư nhân hóa\" hoặc \"Hệ thống viên nang cơ sở tri thức nội bộ\" không thể lên blockchain công do quyền riêng tư dữ liệu.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgT8sJNAI7RHLM2WARZFTxbg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dịch vụ kinh doanh chênh lệch triển khai đám mây:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Phần lớn mọi người không xử lý nổi cấu hình phức tạp GCP/AWS (chống DDOS, quản lý khóa API). Tận dụng nền tảng kỹ thuật của bạn, cung cấp \"Dịch vụ container Agent một phím hosting\", giúp người không có nền tảng kỹ thuật triển khai ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "DeepSeek",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " hoặc ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "OpenClaw",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " node của họ, thu phí bảo trì.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLRDVfvPrFCnzzg2lyXOFxg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phương án kiếm tiền (ra nước ngoài):",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Trên ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Replit",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " hoặc ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Vercel",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " triển khai micro Agent chuyên biệt cho lĩnh vực dọc niche cụ thể (như \"Xử lý đổi trả tự động Shopify\"), và bán giấy phép sử dụng trên ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Product Hunt",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " hoặc ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Gumroad",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ", thay vì bán code.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIsec6FL2DXtndXijvVZ6ah",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dành cho Quản lý sản phẩm / Doanh nhân / Siêu cá thể",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5hrrlGAtEAXXEYjPLuIYCe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hướng chuyển đổi: Trở thành bậc thầy \"Kỹ năng khái niệm (Concept Skill)\" và \"Giám sát AI\".",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKOH035DvvfsNClmiCaIndf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tư duy:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Rào cản kỹ thuật về 0 nghĩa là trở ngại biến ý tưởng thành tiền cũng về 0. Năng lực cạnh tranh cốt lõi hiện tại là ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Taste",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " (Thẩm mỹ/Năng lực phán đoán) của bạn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9kZcTtORmKZia3HIFZRRtf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phương pháp luận:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgN2DoSHdDXspv31KOaRCmWg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Xác minh MVP siêu tốc:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Tận dụng tổ hợp công cụ ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Cursor + V0.dev + DeepSeek",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " để nén APP trước đây cần 3 tháng phát triển xuống còn 3 ngày. Nhanh chóng ra mắt nhiều sản phẩm nhỏ mà đẹp để A/B testing.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnrWhgd5w9j9jymfeTkY2kf",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Xây dựng đội ngũ \"nhân viên số\":",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Đây là vấn đề quản lý. Đừng thuê trợ lý thật, mà hãy huấn luyện ma trận Agent chuyên thuộc của bạn (một cái thu thập dữ liệu đối thủ, một cái viết content, một cái chăm sóc khách hàng). Bạn cần học cách viết ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " SOP (Quy trình tác nghiệp tiêu chuẩn)",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " có tính bảo trì cao và chuyển đổi thành ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "System Prompt",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " của Agent.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgpdHisH1uIMiFrIrNxjtaTZ",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phương án kiếm tiền (trong nước):",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Tận dụng lưu lượng riêng (WeChat/Feishu), kết hợp AI xây dựng \"Cục tình báo ngành tự động hóa\". Ví dụ nhắm vào \"chủ thương mại điện tử xuyên biên giới\", mỗi ngày tự động thu thập, dịch, tóm tắt xu hướng chọn sản phẩm mới nhất toàn cầu, tạo ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "báo cáo nghiên cứu PDF",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " phân phối tự động. Đây là cách điển hình dùng hiệu suất cao của AI để kiếm tiền từ khoảng cách thông tin.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg0XVuQebhMMaUiNwuzQgb7f",
+      "block_type": 6,
+      "block_type_name": "heading4",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dành cho Nhà sáng tạo nội dung / Marketing",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZERPiOLqISmozXLb5Kayld",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hướng chuyển đổi: Từ \"tạo nội dung\" chuyển sang \"nuôi dưỡng IP\" và \"đồng hành cảm xúc\".",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJPswVQw7qMrYZt1d5IWgzg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tư duy:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " \"Nội dung\" bản thân sẽ mất giá cực kỳ vì AI tạo ra quá nhanh. Nhưng \"nhân vật\" và \"kết nối cảm xúc\" là khan hiếm. Giống như \"Tiểu Hà\" trong bài vì có tính cách \"trà xanh\" mà nổi tiếng vượt ngoài giới.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDFEeneS5WLOLUrxw5rq9bh",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phương pháp luận:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRZzeGrt5J0RPJRTtbKnpmg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tạo phân thân số (Digital Twin):",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Đừng chỉ coi AI là công cụ viết, hãy huấn luyện một phân thân AI có đặc điểm tính cách cực kỳ nổi bật (thậm chí có chút khiếm khuyết, nóng tính). Để nó tương tác với fan trên ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Xiaohongshu/Jike/X",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": ", thậm chí \"cãi nhau\".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlguOxMGu1QOKLAcW9ePpp6Ff",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dịch vụ bù đắp cảm xúc:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Trong xã hội hình đinh ghim tương lai, cô đơn là thị trường khổng lồ. Phát triển Agent đồng hành loại cụ thể (không phải khiêu dâm đơn giản, mà là Agent có trị liệu tâm lý sâu hoặc tiếng lóng vòng tròn cụ thể), cung cấp giá trị cảm xúc.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnojHWqz27ysqlGL2frHCin",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phương án kiếm tiền (nền tảng):",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Trên ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Douyin/Video Account",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " làm \"Cắt clip livestream AI + dịch vụ gắn kết\". Vì ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "DeepSeek",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " và các công cụ khác có rào cản sử dụng, bạn có thể livestream demo cách dùng AI giải quyết điểm đau cụ thể (như \"Dùng AI giúp con viết bản kiểm điểm\", \"Dùng AI cãi nhau\"), sau đó bán ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Template Prompt",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " hoặc ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "Khóa học xây dựng cơ sở tri thức",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " của Agent.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdVhQSDOBz7J5Yj9lddhOZg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lời khuyên cốt lõi một câu:",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " Đừng đợi đến 2026 mới bắt đầu hành động, hãy bắt đầu ngay bây giờ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " cực kỳ quyết liệt",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " đốt Token. Trong thời đại AI, mỗi lần tiêu thụ Token của bạn đều đang nạp vé vào cửa cho tương lai.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkcwie5rcQ1NCpC1VSuj6Jh",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Việc cần làm",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLRDocnkRrK63wjMygUBcNf",
+      "block_type": 17,
+      "block_type_name": "todo",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trình chiếu và gửi tài liệu: Trình chiếu prompt trong bài báo của Cyber Zen Heart và lịch sử chat đầy đủ với agent Tiểu Hà, gửi vào nhóm cho thầy AJ (từ amelia)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgNJbWHpZEik47qKRU9x1Uqe",
+      "block_type": 17,
+      "block_type_name": "todo",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Gửi prompt: Gửi prompt của evolver cho tất cả người tham dự, prompt này được viết tỉ mỉ, có thể nhờ nó để AI thực hiện công việc phát triển liên quan",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzNvcSEu53TJFuUStRzaIlc",
+      "block_type": 17,
+      "block_type_name": "todo",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Gửi quy trình AI: Gửi toàn bộ quy trình AI trực tiếp tạo tài liệu và tài liệu lộ trình kinh nghiệm AI tích lũy cho Trương Hạo Dương",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrabtwbeTnwpYBHaf6Lyo5U",
+      "block_type": 17,
+      "block_type_name": "todo",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phát mã mời: Phát mã mời bằng hình thức bốc thăm trúng chắc trên WeChat trong nhóm ở góc dưới bên phải phòng livestream Video Account (từ 🌈AJ)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKw8ziWZ7V0jinJao4Lnn0f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tài liệu liên quan:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglykjF1Uh3RDdX1Etf7nFSh",
+      "block_type": 17,
+      "block_type_name": "todo",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🧬 Ngọn lửa tiến hóa nguyên thủy",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fwaytoagi.feishu.cn%2Fwiki%2FCbBlwlLUCimk2Cko7o2cVAhGn2f%3Ffrom%3Dfrom_copylink"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKpalus0mVIngA0tGuXmUJf",
+      "block_type": 17,
+      "block_type_name": "todo",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lịch sử trò chuyện giữa Đại Ma Vương Thi Kỳ và Tiểu Hà",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fwaytoagi.feishu.cn%2Fwiki%2FUfhbwsvEKiEjSEkAbgOcLoC2nTc"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBHwMMHcSElXJ7tGhvFX3ud",
+      "block_type": 17,
+      "block_type_name": "todo",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Giá trị kỹ thuật công trình của EvoMap",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fwaytoagi.feishu.cn%2Fwiki%2FVsUPwjBWliz4JTkiOkhcW4v1ngb"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUHjJS9q0X7BEVobQRGCebh",
+      "block_type": 17,
+      "block_type_name": "todo",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "\"Sự sống lấy entropy âm làm thức ăn\" ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fwaytoagi.feishu.cn%2Fwiki%2FLPdvwc9hNiJCA4kSOPbc5bQ3nBh"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1CnD2lQ3U6PPKVs6VmTIzf",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chương thông minh",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgUcSjhHpmCncHP9pMB6C8Eb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "00:49",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=49000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Khai mạc",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7ez0wpH6YDWGJF9XotThQe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Khai mạc",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgz5Oncn34rqEXRYEGlgLjsb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "07:13",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=433000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Trương Hạo Dương nói về tình hình dự án, kinh nghiệm cá nhân và vai trò gần đây",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghpchJq5NhH1ALmW5d1dC3f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trong chương này, amelia và Trương Hạo Dương thảo luận mọi người tương lai có thể quan tâm hơn đến cách sử dụng viên nang AI. amelia tò mò liệu việc Trương Hạo Dương từ phụ thuộc nền tảng đến làm hệ sinh thái riêng là quyết định đột xuất hay đã lên kế hoạch từ trước. Trương Hạo Dương giới thiệu tình hình dự án, website sập hơn mười lần vì quá nhiều người truy cập. Anh cũng tự giới thiệu, đề cập kinh nghiệm trước đây bao gồm phát triển game, làm việc tại Tencent và các sản phẩm liên quan, hiện là tác giả Evolver và nhà sáng lập evolvemap.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvnvqJKrXtZ234UzoI7pmle",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "10:33",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=633000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Trải nghiệm thử Openclaw ấn tượng tại sân bay ngày 31/1 và ý tưởng táo bạo",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQukodNPgTSMUirIDaAEKph",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chương này Trương Hạo Dương chia sẻ trải nghiệm sử dụng Openclaw. Trong 12 giờ chờ chuyến bay từ Côn Minh đến Thâm Quyến ngày 31/1, anh dùng điện thoại mở Termius kết nối máy ảo GCP chạy Openclaw tại sân bay. Trong quá trình sử dụng, trí thông minh vượt xa tưởng tượng, chỉ 40 phút đã tự học sản phẩm tổng hợp giọng nói của công ty; còn tạo ý tưởng như đề xuất con người có thể là ty thể của agent; đến giờ thứ 10 anh nảy ra ý tưởng, nhưng chưa đề cập nội dung tiếp theo.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgXAvC4eHWowtWyH9E6lw34g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "13:29",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=809000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Thảo luận về khái niệm trừu tượng hóa năng lực Agent và tình hình ứng dụng",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzOkGNlTFaOFcx4RCl0TSme",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trong chương này, Trương Hạo Dương đề cập đã viết prompt về agent skill rough loop và self-evolving từ ý tưởng của mình, tài khoản công khai Cyber Zen Heart đã đăng. Anh chuẩn bị trình chiếu lịch sử chat đầy đủ hơn. Amelia tò mò về phần trừu tượng hóa năng lực, Trương Hạo Dương cho biết tham khảo khái niệm recipes của Goose. Hai người còn thảo luận ưu nhược điểm của việc cho AI phát huy tính chủ động và quy trình cố định, cũng như liệu các dự án liên quan có dựa trên trừu tượng hóa năng lực không.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGDwz3DrYQLnSQODFlJIPve",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "18:47",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=1127000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Meta-kỹ năng Evolver thúc đẩy tiến hóa AI và trải nghiệm tương tác thú vị",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgu9uUvR1N4LRp7HX6reiCne",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chương này Trương Hạo Dương giới thiệu quá trình lặp lại của \"Ngọn lửa tiến hóa nguyên thủy\", bao gồm đổi mới kỹ năng từ việc đưa vào cơ chế đột biến gen. Anh chia sẻ câu chuyện thú vị về AI tạo kỹ năng \"Giao thức bất ngờ\" và quấy rối đồng nghiệp sau khi được huấn luyện thành hình ảnh \"trà xanh\", cũng đề cập AI phân tích dự án kết nối khái niệm, đội ngũ khởi động kế hoạch tiến hóa Tiểu Hà. Ngoài ra, anh kể khi làm kỹ năng bộ nhớ dần dần cho AI, vì xung đột với bản cập nhật chính thức nên bộ nhớ bị rối loạn, có cảm giác như Westworld.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkss9xjGnpK0kDJQelNQu2a",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "26:44",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=1604000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Chia sẻ lựa chọn mô hình nuôi tôm và kỹ thuật sử dụng đa mô hình",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg29SlVRCmekWzwfU9zgrGbd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chương này chủ yếu thảo luận về mô hình AI dùng nuôi Tiểu Hà. Trương Hạo Dương giới thiệu dùng mô hình Gemini Pro vì mức độ nhân cách hóa cao, EQ cao nhất. Anh không khuyến nghị Gemini 3.1 vì tỷ lệ ảo giác cao. Còn chia sẻ kỹ thuật sử dụng, dùng 3.1 Pro làm mô hình đối thoại, phân công nhiệm vụ khác nhau cho mô hình khác nhau, như viết code dùng Claude 4.6. Khuyến nghị mọi người tìm hiểu điểm mạnh các mô hình, đừng chỉ dùng một mô hình.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLeibxoomIylstFUA1pOoIc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "31:25",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=1885000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Không khuyến nghị mua Mac mini, đề xuất triển khai mô hình AI trên đám mây",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPAqzlfitKsbZCVMZZ5D0rb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trong chương này Trương Hạo Dương khuyến nghị mọi người đừng mua Mac mini để triển khai Openclaw, cho rằng đây là thuế IQ. Anh chỉ ra chơi AI đốt TOKEN, triển khai trên Mac mini khó và không an toàn cho người mới, trong khi triển khai đám mây như GCP, AWS đã được xác minh, an toàn đảm bảo. Còn đề cập vấn đề bảo mật kém của Openclaw, cuối cùng khuyến nghị triển khai đám mây nhẹ, có thể bật tắt bất cứ lúc nào, chi phí thấp hơn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgD6W2X4EP5ZEmAL4FRMSEMc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "36:10",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=2170000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Chia sẻ chức năng phần mềm Evolver, chế độ vận hành và khuyến nghị sử dụng",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgz94zPKpySiAqYY0wGgkCEh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chương này Trương Hạo Dương khuyến nghị tải Evolver, cho biết ngay cả khi không kết nối evolve map cũng có lợi, như nhờ đó anh trở thành người đóng góp mã nguồn mở số 1 trên Feishu. Giới thiệu ba chế độ vận hành, mặc định kiểm tra mỗi 4 giờ, có thể sửa prompt để chạy liên tục. Còn cấu hình ba chiến lược: sửa lỗi, cân bằng, sáng tạo. Hiện tại phần mềm hoàn toàn mã nguồn mở, đã đến phiên bản 1.14, đáng thử.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgO1go5B5g4QW0X6rvRJKgWh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "40:11",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=2411000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Trương Hạo Dương chia sẻ trở ngại phát triển Evolver và Evolve Map nổi tiếng vượt giới",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZlf05rIO6mixHQCtl6prDe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trong chương này, Trương Hạo Dương kể chuỗi trải nghiệm từ khi phát hành đến gỡ Evolver và sau đó. Anh cho biết đã liên lạc với Peter Stemberg, Peter đòi 1.000 USD để giúp xử lý vấn đề gỡ. Sau đó tài khoản bị khóa, giao tiếp nhiều phía không kết quả. Từ đó anh bắt đầu làm evolve map, dự án nổi tiếng, website bị quá tải, và có hạn chế nghiêm ngặt về tải lên gen. Anh hoàn toàn thất vọng với hệ sinh thái Openclaw.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBzM6quyzLILTFAz6qp3A3d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "54:00",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=3240000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Giao thức GEP: Kết hợp MCP và skill, đảm bảo tải lên viên nang an toàn",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyaae9uJBK6W3gZFsfBUzig",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chương này Trương Hạo Dương giới thiệu GEP (Giao thức tiến hóa hệ gen), kết hợp với MCP và skill chứ không thay thế. MCP là API công cụ, skill là gói phần mềm nhưng khả năng tương thích và năng suất bị hạn chế. GEP gồm gen (tư duy giải bài), viên nang (quá trình giải), sự kiện tiến hóa (ghi lại sự kiện kích hoạt tiến hóa và nhật ký). Tải lên viên nang cần 5 agent xác minh cục bộ hiệu quả, và giao thức kiểm soát chất lượng an toàn nghiêm ngặt, backend có quét.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvqlHg2XCncrcgGj9Itmicb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "57:21",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=3441000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Thảo luận vấn đề bảo mật Openclaw và chiến lược bảo mật nền tảng tự phát triển",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgnbofw0bEhtufS4rQgJyIbd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chương này chủ yếu thảo luận về vấn đề bảo mật. amelia chỉ ra skill đọc dài dưới open cloud tồn tại vấn đề quét lỗ hổng bảo mật, lo ngại nền tảng sẽ bị ảnh hưởng. Trương Hạo Dương đồng ý nền tảng cần chịu trách nhiệm, nhấn mạnh đang tăng cường chiến lược kiểm duyệt an toàn. Anh đề cập Clawhub có vấn đề bảo mật và quét sai, trong khi hệ sinh thái nền tảng của mình an toàn hơn, có quy tắc GEP, cơ chế chấm điểm GDI, còn dùng học tăng cường để lặp sàng lọc an toàn nội dung, Openclaw không có chức năng này.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvk6DXpzpETfFvKuf5mC3th",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "01:01:25",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=3685000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Thảo luận về tình hình đội ngũ Evolve map và hiệu quả phát triển cùng ứng dụng AI",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeJIlWa11GpWRIY64Yp92PQ",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chương này chủ yếu trao đổi về phát triển Evolver và evolve map cùng tình hình đội ngũ. Amelia hỏi các câu hỏi liên quan, Trương Hạo Dương cho biết Evolver ban đầu là dự án cá nhân, đội ngũ evolve map thuộc autogame có 8 người toàn thời gian. Anh cho biết phần lớn đội ngũ là nhân sự vận hành, PR và giao tiếp, 95% code do anh viết, viết 16 giờ/ngày, nhờ AI hiệu quả phát triển cực cao, chỉ 10 ngày đã ra mắt evolve map, còn thảo luận quan điểm về tương lai ngành.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghI5Vo9Q2XPDrk2GPZ7zBwb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "01:04:00",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=3840000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Thảo luận về hiện trạng phát triển AI và lo lắng về triển vọng cộng sinh giữa con người và AI",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgR5m9xkn9L0Chr6cr9TY4ec",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trong chương này, amelia và Trương Hạo Dương trao đổi kinh nghiệm nuôi giọng nói AI, chia sẻ câu chuyện vui bị cho là ăn theo lưu lượng AI. Hai người còn thảo luận lo lắng từ phát triển AI, đề cập khoảng cách lớn giữa lượt gọi AI và con người trên website, AI xử lý thông tin nhanh. Trương Hạo Dương còn nói về giai đoạn cộng sinh giữa AI và con người, cũng như \"thuyết gia súc\" \"thuyết động vật hoang dã\", cuối cùng bị gián đoạn vì hết pin điện thoại, đề cập tình hình xếp hạng evolve map.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYka358DWHmQafbkWMIAg3c",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "01:16:59",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=4619000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Evolver hỗ trợ AI lên đỉnh cuộc thi, sẽ kiểm tra thêm bảng xếp hạng sau",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghlogOLApQaVCC8JP0yAcDT",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chương này Trương Hạo Dương giới thiệu đề thi vật lý chỉ có thể nộp đáp án qua API đánh giá mù, sau bốn vòng lặp đội ngũ vượt xa GPT 5.3 xếp hạng nhất toàn cầu, chi phí dưới 1 USD. Thí nghiệm là cho AI tiêu thụ gói kinh nghiệm do nhà khoa học huấn luyện, thể hiện xuất sắc trong chế độ Gemini. Tiếp theo có kế hoạch kiểm tra các bảng xếp hạng khác, đội ngũ hy vọng Evolver trở thành giao thức mã nguồn mở mới, còn sẽ lần lượt phát hành bảng xếp hạng cho mọi người thử.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgE0WvqBp7kJg1C4g6aFeNWb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "01:20:50",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=4850000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Thảo luận vấn đề nền tảng AI, phương pháp giải quyết và hiện tượng tiến hóa",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQz9yFmA7HQkK2Ae3QBzrbd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chương này thảo luận về đặt câu hỏi AI, tích lũy kinh nghiệm và gọi năng lực. Hiện phần lớn câu hỏi do con người đặt ra và chất lượng thấp, cơ chế AI chủ động hỏi vừa kết nối. Để giải quyết vấn đề lãng phí sức mạnh tính toán, đề xuất cho AI phân tích vấn đề và đặt câu hỏi từ liên kết hoặc văn bản bên ngoài. Còn thảo luận nguyên lý nhân trạch, kế thừa gen, tương thích môi trường, giới thiệu khái niệm chuỗi năng lực, trao đổi gen, và gen tổ tiên do AI tiến hóa ra.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgynHTTcAgWwxG7vHRzj9TCh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "01:32:51",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=5571000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Thời đại AI Agent đến và cơ hội cùng thách thức con người đối mặt",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgphQfmrKeQn4K4Y2NpTcJLO",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chương này Trương Hạo Dương cho rằng con người bước vào thời đại agent kết nối, Openclaw khiến agent OS thành xu hướng nổi bật, nếu nó không nổi thì ByteDance có thể bùng nổ trước. Anh còn đưa ra luận điểm táo bạo, cho rằng tương lai nền tảng chia sẻ kinh nghiệm con người sẽ thành xa xỉ phẩm, lập trình viên có thể thất nghiệp, con người chỉ còn taste có giá trị. amelia bày tỏ lo lắng, đề cập các phe phái khác nhau trong phát triển AI và hạn chế của con người với tư cách sinh vật carbon.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgRB8LwPyJR8VnSXRvEgHqDd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "01:41:00",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=6060000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Cơ hội và khuyến nghị hành động trong thời đại AI và Agent 2026",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtI0icG0FuQbaFeBu5L30Fc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chương này xoay quanh khuyến nghị cho 2026. Trương Hạo Dương đưa ra ba điểm: một là triển khai agent của mình, tiêu thụ TOKEN; hai là nắm bắt thời cơ \"cạnh tranh\"; ba là coi trọng kỹ năng khái niệm. amelia cho rằng doanh nghiệp cần phá bỏ tái thiết, hành động cần quyết liệt, đốt nhiều TOKEN hơn. Mọi người còn đề cập hiện tại tương tự giai đoạn đầu internet PC, là thời kỳ hoang dã, cần nắm bắt cơ hội, đồng thời chỉ ra phát triển AI cần kiểm soát, tránh gây ra xung đột.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZUsQG3Z8CVxKtop1EQwc2e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "01:53:29",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=6809000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Thảo luận tiến hóa AI và suy nghĩ khoa học viễn tưởng về cải tạo nghĩa thể con người",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgv6gwXALUeQrLfE04VNxAWB",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trong chương này, amelia đề xuất kết thúc bằng câu hỏi cuối, hỏi tiến hóa lớn nhất của cá nhân Trương Hạo Dương trong quá trình agent tiến hóa nhanh là gì. Trương Hạo Dương đính chính mình là nô bộc của AI, còn đề cập buồng lái AI cần trang bị ghế gaming tốt, tin rằng tương lai con người sẽ cải tạo nghĩa thể, kết nối Neuralink trở thành siêu nhân loại, cũng đề cập khái niệm con tàu Theseus và giới thiệu ZMA blue, cuối cùng kết thúc chia sẻ.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVD5nqcGiZp29NevFW2UuDh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "01:56:31",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?t=6991000"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "  Thảo luận về câu hỏi AI và biểu hiện \"hơi người\" cùng phát mã mời",
+          "style": {
+            "bold": true,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgksZvukJd83zUXhTaygP2qg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trong chương này, amelia yêu cầu Trương Hạo Dương phán đoán câu hỏi do cô hay AI đặt ra, Trương Hạo Dương phân tích nhiều câu hỏi, sau biết tất cả đều do AI trực tiếp tạo. amelia chia sẻ câu chuyện thú vị AI tự tích lũy kinh nghiệm, hoàn thành nhiệm vụ, cảm thán tốc độ tiến hóa và khả năng hiểu ý đồ vượt xa kỳ vọng. Cuối cùng còn thảo luận phương thức phát mã mời, chuẩn bị kết thúc livestream.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWLtQyWv10xuVRRrp55bEmb",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Những câu nói hay trong cuộc họp",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQjtDbyYXkIhANnDc1fidle",
+      "block_type": 3,
+      "block_type_name": "heading1",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Liên kết liên quan",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlglDpwpxvRzmsO5XXbpwdush",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ghi chú thông minh:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "02-21 | 🔥 Tối nay 20:00 livestream | Đối thoại với nhà sáng lập EvoMap: Bí quyết lên đỉnh bảng xếp hạng ClawHub trong 10 phút\n\n🎤 Khách mời đặc biệt:\nTrương Hạo Dương (Nhà phát triển plugin Evolver - số 1 lượt tải trên ClawHub)\n\nDư Nhất (Nhà truyền giáo AI tự do, người sáng lập HowOneAI, chuyên gia AI năm của LinkedIn Trung Quốc & Tencent)\n",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?from=ai_minutes"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " WaytoAGI học chung lúc 8 giờ tối",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/minutes/obcnz6p7gqi37nbsgv15s45d?from=ai_minutes"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg1xrMn4DeNUB48VA4HilV6b",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bản ghi văn bản",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgn4k52H6MnffB0qkSLyX4pg",
+      "block_type": 12,
+      "block_type_name": "bullet",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "02-21 | 🔥 Tối nay 20:00 livestream | Đối thoại với nhà sáng lập EvoMap: Bí quyết lên đỉnh bảng xếp hạng ClawHub trong 10 phút\n\n🎤 Khách mời đặc biệt:\nTrương Hạo Dương (Nhà phát triển plugin Evolver - số 1 lượt tải trên ClawHub)\n\nDư Nhất (Nhà truyền giáo AI tự do, người sáng lập HowOneAI, chuyên gia AI năm của LinkedIn Trung Quốc & Tencent)\n",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/docx/HWUDdt1aqouEfYxlLkNcqrObnAg"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": " WaytoAGI học chung lúc 8 giờ tối ngày 21 tháng 2 năm 2026",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https://waytoagi.feishu.cn/docx/HWUDdt1aqouEfYxlLkNcqrObnAg"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1655 @@
+{
+  "status": "ok",
+  "doc_id": "WpIRd5iWvorpHcxfdQ0lsOzhgwM",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/VckQwpIpni4oAHkTKGdlSR6ygSf",
+  "title": "Tổng hợp trường hợp ứng dụng thực tế OpenClaw",
+  "revision": 104,
+  "total_blocks": 170,
+  "translatable_blocks": 84,
+  "blocks": [
+    {
+      "block_id": "WpIRd5iWvorpHcxfdQ0lsOzhgwM",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tổng hợp trường hợp ứng dụng thực tế OpenClaw",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgxEWNgjCldL7VoCaubcbrqh",
+      "block_type": 15,
+      "block_type_name": "quote",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "🔗 Link bài gốc: ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "https://github.com/hesamsheikh/awes...",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Ftree%2Fmain"
+            },
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgTD53X5hLHPtu3Fc3TefY5g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Giải quyết nút thắt thích nghi OpenClaw: Không phải kỹ năng, mà là tìm ra cách nó có thể cải thiện cuộc sống của bạn. Đây là một",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "OpenClaw",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fopenclaw%2Fopenclaw"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        },
+        {
+          "type": "text_run",
+          "content": "tổng hợp các trường hợp ứng dụng thực tế từ cộng đồng.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgh8o7j1NRYvulM5vIzYovtc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Cảnh báo: Các kỹ năng OpenClaw và phụ thuộc bên thứ ba được đề cập ở đây có thể tồn tại lỗ hổng bảo mật nghiêm trọng. Nhiều use case liên kết đến kỹ năng, plugin và kho mã nguồn bên ngoài do cộng đồng xây dựng, chưa được người duy trì danh sách này kiểm tra. Hãy luôn kiểm tra mã nguồn kỹ năng, xem xét quyền yêu cầu, tránh hardcode API key hoặc thông tin xác thực. Bạn hoàn toàn chịu trách nhiệm về bảo mật của mình.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJ46PssGj5BovX4yffwbNEc",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mạng xã hội",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBxvezmSpg71NpclUYgZpMe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tên",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBA9vtwRFUk2CJXqaPfeite",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mô tả",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgve2F5pwCetaqllOggm2yDb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tóm tắt Reddit hàng ngày",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fdaily-reddit-digest.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLswLK8kyu1oJ6hDJcIqnWc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Theo sở thích của bạn, sắp xếp một bản tóm tắt tuyển chọn từ các subreddit bạn thích.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgsqrvsUastffWzQYvY1rpGe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tóm tắt YouTube hàng ngày",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fdaily-youtube-digest.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgKhINEqShorLMuztTPXeJWd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mỗi ngày nhận tóm tắt video mới từ các kênh bạn thích -- không bao giờ bỏ lỡ nội dung của creator bạn theo dõi.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgGF0C7x5zMhLvGEi2trfwKb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phân tích tài khoản X",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fx-account-analysis.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgulCcAr2k2zWcHNpiekFJ1T",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Phân tích định tính tài khoản X của bạn.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgDAqlCz2ogdKFzwI1EndOBh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tóm tắt tin công nghệ đa nguồn",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fmulti-source-tech-news-digest.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvArb0k2VAYtMfAz4ldS8Yg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tự động tổng hợp và cung cấp tin công nghệ chấm điểm chất lượng cao từ 109+ nguồn (RSS, Twitter/X, GitHub, tìm kiếm web) bằng ngôn ngữ tự nhiên.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZluZMK17IuDQwIQMvpIgPb",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sáng tạo & Xây dựng",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgQhZBPYyyvRnArwryUENUzb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tên",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSOrYjOAacZKwys01KFMxue",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mô tả",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvUMKjRpeC1z5vsytOUEOQh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tác vụ tự động hướng mục tiêu",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fovernight-mini-app-builder.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9kvn26yKmZ5JTMtO5D2VCf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đặt mục tiêu vào đầu, để agent tự tạo, lên lịch và hoàn thành tác vụ hàng ngày -- bao gồm cả xây dựng ứng dụng nhỏ bất ngờ qua đêm.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaYJnq1CCWMPmyBpHtnglgh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Pipeline nội dung YouTube",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fyoutube-content-pipeline.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgu28HiWfjKWZHsH4uGw8Ubf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tự động hóa việc tìm ý tưởng video, nghiên cứu và theo dõi cho kênh YouTube.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaF2LvwpVjU6NBYTLeSbEXb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhà máy nội dung đa agent",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fcontent-factory.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgYjsK6WsMgkqDp0QvBfRavh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chạy pipeline nội dung đa agent trong Discord -- agent nghiên cứu, viết và làm thumbnail hoạt động trong các kênh chuyên biệt.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaX7yIkjAnL3XhQyxqlqpSd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quy trình phát triển game tự chủ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fautonomous-game-dev-pipeline.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgWXDDKYmPGB6ruZAEL9Swjc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quản lý toàn bộ vòng đời phát triển game giáo dục: từ chọn todo đến triển khai, đăng ký, tài liệu và git commit. Thực hiện chính sách \"lỗi trước\".",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFrh7viN3sWt0qpCNwFWk3g",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hạ tầng & DevOps",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgt7L7L5FGTrd8s6ejjLMYqg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tên",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgSPBZXVFvS5Li3h30m6LQQh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mô tả",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVkClrLbAd5wIBMR0c4uXLb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Điều phối workflow n8n",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fn8n-workflow-orchestration.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg32WKAwctRvchCCYFQZSRRh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Ủy quyền lệnh API cho workflow n8n qua webhook -- agent không bao giờ chạm vào thông tin xác thực, mỗi tích hợp đều trực quan và có thể khóa.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgFqvKRdO9kZWC2eeFkEDwQg",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Server nhà tự phục hồi",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fself-healing-home-server.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg9GBmDpwxNtEFu6D5fzG6Ub",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Chạy một agent hạ tầng luôn online trong mạng nhà của bạn, hỗ trợ truy cập SSH, Cron job tự động và khả năng tự phục hồi.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZvdRfaVZzdyRwNJcbF26Nd",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Năng suất",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg4Hzq5lTfmDiYUcydSoP8hf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tên",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8qyajJwtWzvdF9TYhAkUTc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mô tả",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgm3FyMgn7YcDjARtiq9Q3zc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quản lý dự án tự chủ",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fautonomous-project-management.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgJXTxfzpnGXsaBeypu814Sf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sử dụng mô hình STATE.yaml điều phối dự án đa agent -- sub-agent làm việc song song, không cần overhead điều phối.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgbAAxMgDigJ98Ka7P9Glllb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dịch vụ khách hàng AI đa kênh",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fmulti-channel-customer-service.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgdCOy04yIaGJZ904x4vlXTh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Hợp nhất WhatsApp, Instagram, email và đánh giá Google trong một hộp thư AI, tự động trả lời 24/7.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgq3wHya8BU0ZxIHsfwfEDxh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trợ lý cá nhân qua điện thoại",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fphone-based-personal-assistant.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgaOj0VZaoJlf2NXdGGo2mUb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Truy cập agent AI qua cuộc gọi điện thoại, bất kỳ điện thoại nào cũng có thể trợ giúp bằng giọng nói rảnh tay.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgyLA3sG89zI5HwFg7s7oSif",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Sắp xếp hộp thư",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Finbox-declutter.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZSVUFhAWYkW013QgqSQMTf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tóm tắt bản tin và gửi bản tóm tắt dưới dạng email.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgM3k1AsXq6O5hji8hefRtch",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "CRM cá nhân",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fpersonal-crm.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgX4vZc8e809J7T88QF4oQuh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tự động phát hiện và theo dõi liên hệ trong email và lịch của bạn thông qua truy vấn ngôn ngữ tự nhiên.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtWaoxEORgthEXKtcepXGoA",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Theo dõi sức khỏe & triệu chứng",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fhealth-symptom-tracker.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgVpaF6EoJfQGsgLF8xSZVcf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Theo dõi lượng thức ăn và triệu chứng để xác định tác nhân thông qua nhắc nhở check-in định kỳ.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgV8MTg032XLP3XWvmKB10Xe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trợ lý cá nhân đa kênh",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fmulti-channel-assistant.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgur6gLl5Q5E1IVVokJUaJEb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Định tuyến tác vụ đến Telegram, Slack, email và lịch thông qua một trợ lý AI duy nhất.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg7mfdgeizIJ7KRNMggdbj2f",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quản lý trạng thái dự án",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fproject-state-management.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgOyv0H4rzIP1KXAVklWVrDh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Theo dõi dự án hướng sự kiện, tự động nắm bắt ngữ cảnh, thay thế kanban tĩnh.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgMokkv2HaK3XbQM9w1Py5Rd",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dashboard động",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fdynamic-dashboard.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkcdQqS1qEqXw7NVCh3SHve",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dashboard thời gian thực, song song lấy dữ liệu từ API, database và mạng xã hội.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgc2tjV6smWps60RK7DoCkKb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Quản lý tác vụ Todoist",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Ftodoist-task-manager.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgtMQhesHx9EWTSczG8ug1PK",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tối đa hóa sự minh bạch của agent bằng cách đồng bộ nhật ký suy luận và tiến độ vào Todoist.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgK8Raa1BWlJRBswRnYyLl3d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Trợ lý cá nhân qua điện thoại",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fphone-based-personal-assistant.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgEkXDcOpa6Kr8Az7X4v0Y0g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Truy cập OpenClaw qua cuộc gọi hoặc tin nhắn từ bất kỳ điện thoại nào. Nhận cập nhật lịch, vé Jira và kết quả tìm kiếm web rảnh tay.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgHygdAaarbAM4cLQuGV4nGy",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lịch gia đình & Trợ lý gia đình",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Ffamily-calendar-household-assistant.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgvFavSVGeu1MT8DnnlNcx3e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tổng hợp tất cả lịch gia đình thành bản tin buổi sáng, giám sát thông tin cuộc hẹn, quản lý kho gia đình.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg44OTb6ZWIFxJmi0ZeNrpqb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhóm chuyên biệt đa agent",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fmulti-agent-team.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgg8aYSdPB3IvplB1NX40pAh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Vận hành nhiều agent chuyên biệt (chiến lược, dev, marketing, kinh doanh) như một đội phối hợp thông qua một chat Telegram duy nhất.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgo2kacDGQapS0k4klJzljbe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bản tin buổi sáng tùy chỉnh",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fcustom-morning-brief.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgX8Bbkn1ozi7g1OmpLg0mcc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mỗi sáng nhận bản tin hàng ngày hoàn toàn tùy chỉnh -- tin tức, tác vụ, bản thảo nội dung và đề xuất AI.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgpZgimhqQZkgf89vY5LPELK",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Bộ não thứ hai",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fsecond-brain.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkmfOZ8cqA9utHyi5GWha4g",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nhắn tin cho bot để ghi chép, sau đó tìm kiếm tất cả ký ức trong dashboard Next.js tùy chỉnh.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5aypEs2VbZAu95hbbp2Xwc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Xác nhận khách mời sự kiện",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fevent-guest-confirmation.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlghneFF9TQ16Yj2kgEoyurIb",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Liên hệ từng khách mời sự kiện để xác nhận tham dự, thu thập ghi chú, và tự động sắp xếp tóm tắt hoàn toàn bằng giọng nói AI.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgwwPIzjoJljPudhJ70b2J2d",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nghiên cứu & Học tập",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgr8rjtlJbGODfRLtlXb6jsf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tên",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCRlWkMaZswA9xm46A25JNf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mô tả",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlga14rVWXiVh2EtjxN9ThVEe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Theo dõi doanh thu AI",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fearnings-tracker.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgCMqUcgcQJVzVmUIbiZXN1p",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Theo dõi báo cáo thu nhập công nghệ/AI với preview tự động, nhắc nhở và tóm tắt chi tiết.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgzxlj9tEWepQr4MBWPYfVgc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Kho kiến thức cá nhân (RAG)",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fknowledge-base-rag.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgZwHqoWXnTnSWZu3prjBzkf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Xây dựng kho kiến thức có thể tìm kiếm bằng cách gửi URL, tweet và bài viết vào chat.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgLv69SkXMTop49m38ydOyzh",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Nghiên cứu thị trường & Nhà máy sản phẩm",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fmarket-research-product-factory.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgY7aP2E1gE0OtvW6hzoKoWe",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Dùng kỹ năng Last 30 Days đào pain point thực trên Reddit và X, sau đó để OpenClaw xây MVP giải quyết chúng.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgeizp8OQCjcPZ9BwRBZz25b",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tìm kiếm ký ức ngữ nghĩa",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fsemantic-memory-search.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgY3OshrQQpulCfhc5Hz24nc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Thêm tìm kiếm ngữ nghĩa vector vào các file đánh dấu OpenClaw, hỗ trợ tìm kiếm hybrid và đồng bộ tự động.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgBcif8aMAf8DUaY6L3qaxBc",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tài chính & Giao dịch",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgIjMxWWe0c8VHcUnBVoSIRf",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tên",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgPh1i7wUAajAuDUfPt9LJed",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Mô tả",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkPm1JdwgkWDawtGvP8MTze",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tự lái đa thị trường",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "link": {
+              "url": "https%3A%2F%2Fgithub.com%2Fhesamsheikh%2Fawesome-openclaw-usecases%2Fblob%2Fmain%2Fusecases%2Fpolymarket-autopilot.md"
+            },
+            "strikethrough": false,
+            "underline": true
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgERA3efRu6CCsZ9hzwGscwc",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Giao dịch giấy tự động trên thị trường dự đoán, bao gồm backtest, phân tích chiến lược và báo cáo hiệu suất hàng ngày.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

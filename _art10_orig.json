@@ -1,0 +1,101 @@
+{
+  "status": "ok",
+  "doc_id": "EBMbdbkVVo9s7Yxf9rQlgSkOg2b",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/ESXTwJ4b9iHyK2kTpJ4lrza9ggM",
+  "title": "3.25-3.29｜海淀x硅星人x AI原点社区2026第一场嘉年华来啦～",
+  "revision": 10,
+  "total_blocks": 8,
+  "translatable_blocks": 5,
+  "blocks": [
+    {
+      "block_id": "EBMbdbkVVo9s7Yxf9rQlgSkOg2b",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3.25-3.29｜海淀x硅星人x AI原点社区2026第一场嘉年华来啦～",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5bMHObRWauLz5NuxVdR33d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "这个初春来AI原点社区，与硅星人一起共赴海淀的这场AI盛宴：",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrUBs6wcQS2ZmoAuzBrBb9d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "OpenClaw、VibeCoding、AIGC、出海、高校5大黑客松赛道同时开营。",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8IefnV3VjjNncT0UoZw72e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "嗨点小圆桌系列播客录制现场，您可以与嘉宾面对面Battle，共享夜晚酒会的交流时光。也可以来到AI火锅局，聊着AI涮着🦐，这里不用🦐说，你来说。吃着火锅嘚啵嘚。报名请点击图片二维码",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkxdZxOkyMNB5ZqSXpwqKqc",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "人工智能主题日Party Nights系列活动议程扫码报名⬇️",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

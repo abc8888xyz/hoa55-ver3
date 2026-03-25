@@ -1,0 +1,101 @@
+{
+  "status": "ok",
+  "doc_id": "EBMbdbkVVo9s7Yxf9rQlgSkOg2b",
+  "url": "https://congdongagi.sg.larksuite.com/wiki/ESXTwJ4b9iHyK2kTpJ4lrza9ggM",
+  "title": "3.25-3.29｜Haidian x Guixingren x Lễ hội đầu tiên năm 2026 của Cộng đồng AI Nguyên Điểm đã đến～",
+  "revision": 10,
+  "total_blocks": 8,
+  "translatable_blocks": 5,
+  "blocks": [
+    {
+      "block_id": "EBMbdbkVVo9s7Yxf9rQlgSkOg2b",
+      "block_type": 1,
+      "block_type_name": "page",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "3.25-3.29｜Haidian x Guixingren x Lễ hội đầu tiên năm 2026 của Cộng đồng AI Nguyên Điểm đã đến～",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg5bMHObRWauLz5NuxVdR33d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Đầu xuân này hãy đến Cộng đồng AI Nguyên Điểm, cùng Guixingren tham dự bữa tiệc AI thịnh soạn tại Haidian:",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgrUBs6wcQS2ZmoAuzBrBb9d",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "5 đường đua hackathon lớn: OpenClaw, VibeCoding, AIGC, Vươn ra quốc tế, Đại học cùng đồng loạt khai mạc.",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlg8IefnV3VjjNncT0UoZw72e",
+      "block_type": 2,
+      "block_type_name": "text",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Tại hiện trường thu podcast Bàn tròn nhỏ Haidian, bạn có thể đối thoại trực tiếp với các khách mời, cùng chia sẻ thời gian giao lưu tại tiệc rượu buổi tối. Bạn cũng có thể đến AI Lẩu Hội, vừa trò chuyện về AI vừa nhúng lẩu 🦐, ở đây không cần 🦐 nói, bạn hãy nói. Vừa ăn lẩu vừa tám chuyện. Đăng ký vui lòng nhấn vào mã QR trên hình",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    },
+    {
+      "block_id": "doxlgkxdZxOkyMNB5ZqSXpwqKqc",
+      "block_type": 4,
+      "block_type_name": "heading2",
+      "elements": [
+        {
+          "type": "text_run",
+          "content": "Lịch trình chuỗi hoạt động Party Nights Ngày chủ đề Trí tuệ nhân tạo - Quét mã đăng ký⬇️",
+          "style": {
+            "bold": false,
+            "inline_code": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false
+          }
+        }
+      ]
+    }
+  ]
+}

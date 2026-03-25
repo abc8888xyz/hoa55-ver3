@@ -1,0 +1,231 @@
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
+sys.stderr.reconfigure(encoding='utf-8')
+import json, re
+
+with open('_art6_orig.json', 'r', encoding='utf-8') as f:
+    data = json.load(f)
+
+t = {
+    '社区组织者操作手册-3月21日 龙虾街区盛大开业': 'Sổ tay hướng dẫn cho người tổ chức cộng đồng - Ngày 21/3 Khai trương long trọng Khu phố Tôm hùm',
+    '活动概览': 'Tổng quan sự kiện',
+    '活动名称': 'Tên sự kiện',
+    '：小龙虾街区线下活动（杭州站）\\': ': Sự kiện offline Khu phố Tôm hùm (Trạm Hàng Châu)\\',
+    '活动时间': 'Thời gian sự kiện',
+    '：2026 年 3 月 21 日\\': ': Ngày 21 tháng 3 năm 2026\\',
+    '活动地点': 'Địa điểm sự kiện',
+    '：云谷中心\\': ': Trung tâm Vân Cốc\\',
+    '核心亮点': 'Điểm nổi bật chính',
+    '：百炼新版本内测 + 200 元 Pro 版代金券"0 元用百炼"': ': Phiên bản mới Bải Luyện nội kiểm + Voucher 200 NDT phiên bản Pro "Dùng Bải Luyện miễn phí"',
+    '完整活动流程': 'Quy trình sự kiện đầy đủ',
+    '阶段一：签到准备（13:30-14:30）': 'Giai đoạn 1: Chuẩn bị đăng ký (13:30-14:30)',
+    '用户动线': 'Lộ trình người dùng',
+    '1. 到场签到，工作人员引导完成百炼账号登录': '1. Đến đăng ký, nhân viên hướng dẫn hoàn tất đăng nhập tài khoản Bải Luyện',
+    '2. 采集用户 UID（用于后续代金券发放）': '2. Thu thập UID người dùng (dùng để phát voucher sau này)',
+    '3. 发放"龙虾档案"纸质地图（含活动流程与打卡指引）': '3. Phát bản đồ giấy "Hồ sơ Tôm hùm" (bao gồm quy trình sự kiện và hướng dẫn check-in)',
+    '4. 引导至"待产包准备区"，通过 KT 板/电视屏了解活动规则': '4. Hướng dẫn đến "Khu vực chuẩn bị túi đỡ đẻ", tìm hiểu quy tắc sự kiện qua bảng KT/màn hình TV',
+    '现场设置': 'Bố trí hiện trường',
+    '- 签到台：采集 UID + 发放龙虾出生纸': '- Quầy đăng ký: Thu thập UID + Phát giấy khai sinh Tôm hùm',
+    '- 待产包准备区：入口处 KT 板/电视屏展示"出生前准备"指引': '- Khu vực chuẩn bị túi đỡ đẻ: Bảng KT/màn hình TV ở lối vào hiển thị hướng dẫn "Chuẩn bị trước khi ra đời"',
+    '- 倒计时屏幕：可移动电视显示距离"出生仪式"剩余时间': '- Màn hình đếm ngược: TV di động hiển thị thời gian còn lại đến "Lễ ra đời"',
+    '用户分流': 'Phân luồng người dùng',
+    '新手用户': 'Người dùng mới',
+    '：引导至分享区，参与产品介绍': ': Hướng dẫn đến khu vực chia sẻ, tham gia giới thiệu sản phẩm',
+    '资深用户/饲养员': 'Người dùng kỳ cựu/Người nuôi dưỡng',
+    '：可直接前往黑客松区、技能套圈或医院摊位': ': Có thể đến trực tiếp khu Hackathon, khu Ném vòng kỹ năng hoặc gian hàng Bệnh viện',
+    '阶段二：小龙虾出生仪式（14:30）': 'Giai đoạn 2: Lễ ra đời của Tôm hùm (14:30)',
+    '仪式流程': 'Quy trình lễ',
+    '1. 远长主持开场': '1. Viễn Trường chủ trì khai mạc',
+    '2. 完整介绍活动流程与玩法规则': '2. Giới thiệu đầy đủ quy trình sự kiện và luật chơi',
+    '3. 宣布统一发放 300 张 200 元 Pro 版代金券': '3. Công bố phát đồng loạt 300 voucher phiên bản Pro trị giá 200 NDT',
+    '4. 现场用户通过个人 UID 线上抢领（绑定 UID，不可转赠）': '4. Người dùng tại hiện trường nhận trực tuyến qua UID cá nhân (liên kết UID, không được chuyển nhượng)',
+    '代金券使用规则': 'Quy tắc sử dụng voucher',
+    '- 新用户：可抵扣全款，实现"0 元用百炼"': '- Người dùng mới: Có thể khấu trừ toàn bộ, thực hiện "Dùng Bải Luyện miễn phí"',
+    '- Light 版用户：可升级至 Pro 版': '- Người dùng phiên bản Light: Có thể nâng cấp lên phiên bản Pro',
+    '- Pro 版用户：可续费抵扣': '- Người dùng phiên bản Pro: Có thể khấu trừ gia hạn',
+    '- Coding Plan 老用户：可直接激活使用': '- Người dùng cũ Coding Plan: Có thể kích hoạt sử dụng trực tiếp',
+    '阶段三：自由体验与互动（14:30-18:00）': 'Giai đoạn 3: Trải nghiệm tự do và tương tác (14:30-18:00)',
+    '核心玩法区域': 'Khu vực hoạt động chính',
+    '1. 黑客松区': '1. Khu Hackathon',
+    '任务': 'Nhiệm vụ',
+    '：完成一个 Skill 开发并提交上墙': ': Hoàn thành phát triển một Skill và gửi lên tường trưng bày',
+    '奖励': 'Phần thưởng',
+    '：龙虾玩偶或钥匙扣（完成即得）': ': Thú nhồi bông Tôm hùm hoặc móc khóa (hoàn thành là nhận)',
+    '加分项': 'Điểm cộng',
+    '：愿意上台分享者可获得"龙虾大礼包"（T 恤、卫衣、日历、双肩包等）': ': Người sẵn lòng lên sân khấu chia sẻ có thể nhận "Đại quà Tôm hùm" (áo phông, áo hoodie, lịch, ba lô, v.v.)',
+    '2. Skills 展示墙': '2. Tường trưng bày Skills',
+    '- 使用 A4/A5 空白模板，用户手写填写：': '- Sử dụng mẫu trắng A4/A5, người dùng viết tay điền vào:',
+    '  - Skill 主人名': '  - Tên chủ sở hữu Skill',
+    '  - Skill 名称': '  - Tên Skill',
+    '  - Skill 介绍': '  - Giới thiệu Skill',
+    '- 写入 NFC 链接（现场提供 NFC 标签）': '- Ghi liên kết NFC (cung cấp thẻ NFC tại hiện trường)',
+    '- 张贴至专用展示区': '- Dán lên khu vực trưng bày chuyên dụng',
+    '3. 技能套圈区': '3. Khu Ném vòng kỹ năng',
+    '- 互动游戏体验': '- Trải nghiệm trò chơi tương tác',
+    '4. 医院摊位': '4. Gian hàng Bệnh viện',
+    '- 产品咨询与技术支持': '- Tư vấn sản phẩm và hỗ trợ kỹ thuật',
+    '5. 开发者分享区': '5. Khu chia sẻ của nhà phát triển',
+    '- 远长产品分享': '- Viễn Trường chia sẻ sản phẩm',
+    '- 2-3 位开发者代表分享实战案例': '- 2-3 đại diện nhà phát triển chia sẻ case study thực tế',
+    '阶段四：晚间直播（19:00）': 'Giai đoạn 4: Livestream buổi tối (19:00)',
+    '- 从现场分享者中遴选 2-3 人参与线上直播': '- Tuyển chọn 2-3 người từ những người chia sẻ tại hiện trường để tham gia livestream trực tuyến',
+    '- 直播脚本需提前与银海、远长及开发者对齐': '- Kịch bản livestream cần được thống nhất trước với Ngân Hải, Viễn Trường và các nhà phát triển',
+    '技术能力说明': 'Mô tả năng lực kỹ thuật',
+    '百炼内测版本（3 月 19 日上线）': 'Phiên bản nội kiểm Bải Luyện (ra mắt ngày 19/3)',
+    '内置 18 个 Skills': 'Tích hợp sẵn 18 Skills',
+    '- 搜索、信息检索': '- Tìm kiếm, truy xuất thông tin',
+    '- 文章生成': '- Tạo bài viết',
+    '- 图像生成（通义 Image 2.0）': '- Tạo hình ảnh (Thông Nghĩa Image 2.0)',
+    '- TTS、ASR': '- TTS, ASR',
+    '- Y2.6 等': '- Y2.6 v.v.',
+    '技术特点': 'Đặc điểm kỹ thuật',
+    '- 所有功能调用通义系列模型': '- Tất cả chức năng sử dụng mô hình dòng Thông Nghĩa',
+    '- 图像生成需用户手动配置 API Key（月底版本将支持自动读取）': '- Tạo hình ảnh cần người dùng tự cấu hình API Key (phiên bản cuối tháng sẽ hỗ trợ đọc tự động)',
+    '- 支持用户自行配置其他厂商 API Key 接入': '- Hỗ trợ người dùng tự cấu hình API Key của nhà cung cấp khác để kết nối',
+    '当前限制': 'Hạn chế hiện tại',
+    '- 网页生成功能暂不支持在线部署': '- Chức năng tạo trang web tạm thời chưa hỗ trợ triển khai trực tuyến',
+    '- 无本地部署链接': '- Không có liên kết triển khai nội bộ',
+    '物料与场地布置': 'Vật liệu và bố trí địa điểm',
+    '电视屏使用方案': 'Phương án sử dụng màn hình TV',
+    '门口屏幕': 'Màn hình cửa vào',
+    '：倒计时 + 待产包指引': ': Đếm ngược + Hướng dẫn túi đỡ đẻ',
+    '主屏幕': 'Màn hình chính',
+    '：PPT 轮播展示活动规则（便于动态调整）': ': Trình chiếu PPT luân phiên hiển thị quy tắc sự kiện (thuận tiện điều chỉnh linh hoạt)',
+    'KT 板内容': 'Nội dung bảng KT',
+    '1. 待产包指引': '1. Hướng dẫn túi đỡ đẻ',
+    '2. 出生仪式倒计时': '2. Đếm ngược Lễ ra đời',
+    '3. 黑客松兑换规则': '3. Quy tắc đổi thưởng Hackathon',
+    '4. 区域导览图': '4. Bản đồ hướng dẫn khu vực',
+    '5. Skills 空白海报模板墙（供用户填写）': '5. Tường mẫu poster trắng Skills (cho người dùng điền vào)',
+    '礼品准备': 'Chuẩn bị quà tặng',
+    '普惠礼品': 'Quà phổ thông',
+    '（完成即得）：': '(hoàn thành là nhận):',
+    '- 毛绒玩偶：50-100 个': '- Thú nhồi bông: 50-100 cái',
+    '- 钥匙扣：200-300 个': '- Móc khóa: 200-300 cái',
+    '- 贴纸、帆布袋': '- Sticker, túi vải',
+    '高价值礼品': 'Quà giá trị cao',
+    '（分享奖励）：': '(phần thưởng chia sẻ):',
+    '- T 恤、卫衣': '- Áo phông, áo hoodie',
+    '- 定制日历': '- Lịch thiết kế riêng',
+    '- 双肩包': '- Ba lô',
+    '- 杯子': '- Cốc',
+    '印刷物料': 'Vật liệu in ấn',
+    '- 龙虾档案纸质地图': '- Bản đồ giấy Hồ sơ Tôm hùm',
+    '- Skills 空白海报模板（A4/A5）': '- Mẫu poster trắng Skills (A4/A5)',
+    '- 活动海报（含报名二维码）': '- Poster sự kiện (có mã QR đăng ký)',
+    '待办清单': 'Danh sách công việc cần làm',
+    '紧急（3 月 18 日前完成）': 'Khẩn cấp (hoàn thành trước ngày 18/3)',
+    '设计类': 'Loại thiết kế',
+    '确认主 KV 设计初稿并推进延展': 'Xác nhận bản thảo thiết kế KV chính và triển khai mở rộng',
+    '（负责人：怀远 + 设计师）': '(Người phụ trách: Hoài Viễn + Nhà thiết kế)',
+    '整理所有 KT 板与物料文案并交付设计': 'Tổng hợp toàn bộ nội dung bảng KT và vật liệu rồi bàn giao cho thiết kế',
+    '（负责人：怀远 + Helen + AJ）': '(Người phụ trách: Hoài Viễn + Helen + AJ)',
+    '设计并印刷 Skills 空白海报模板': 'Thiết kế và in mẫu poster trắng Skills',
+    '（A4/A5 规格）': '(kích thước A4/A5)',
+    '完成活动海报微调': 'Hoàn thiện chỉnh sửa poster sự kiện',
+    '，将报名二维码打在公屏供训练营使用': ', hiển thị mã QR đăng ký trên màn hình công cộng cho khóa đào tạo sử dụng',
+    '场地类': 'Loại địa điểm',
+    '协调云谷中心确认可用墙面与电视设备': 'Phối hợp với Trung tâm Vân Cốc xác nhận tường và thiết bị TV có thể sử dụng',
+    '（负责人：怀远）': '(Người phụ trách: Hoài Viễn)',
+    '对接云谷中心申请专用上墙区域': 'Liên hệ Trung tâm Vân Cốc xin khu vực trưng bày trên tường chuyên dụng',
+    '，用于 Skills 海报成果展示': ', dùng để trưng bày thành quả poster Skills',
+    '设置临时 NFC 张贴区': 'Thiết lập khu vực dán NFC tạm thời',
+    '，确保黑客松成果可即时展示': ', đảm bảo thành quả Hackathon có thể trưng bày ngay',
+    '完成线下物料搭建与现场动线验收': 'Hoàn thành dựng vật liệu offline và nghiệm thu đường đi hiện trường',
+    '（负责人：庄庄 + 怀远，3 月 18 日下午）': '(Người phụ trách: Trang Trang + Hoài Viễn, chiều ngày 18/3)',
+    '规则类': 'Loại quy tắc',
+    '书面固化龙虾接生大礼包与黑客松礼品兑换双规则': 'Văn bản hóa quy tắc kép: Đại quà đỡ đẻ Tôm hùm và đổi thưởng quà Hackathon',
+    '，并同步 KT 板/电视公示': ', đồng thời công bố trên bảng KT/TV',
+    '明确礼品分发规则': 'Xác định rõ quy tắc phát quà',
+    '，按上台分享/贡献度分档打包龙虾大礼包': ', đóng gói Đại quà Tôm hùm theo mức độ chia sẻ trên sân khấu/đóng góp',
+    '确认两台电视使用方案': 'Xác nhận phương án sử dụng hai TV',
+    '：门口倒计时+主屏轮播玩法规则图': ': Đếm ngược ở cửa + Màn hình chính luân phiên hình ảnh luật chơi',
+    '重要（3 月 19 日前完成）': 'Quan trọng (hoàn thành trước ngày 19/3)',
+    '技术类': 'Loại kỹ thuật',
+    '19 号上午联合内测': 'Nội kiểm phối hợp sáng ngày 19',
+    '，银海负责上线后定向邀约开发者进群测试': ', Ngân Hải phụ trách mời đích danh nhà phát triển vào nhóm kiểm thử sau khi lên sóng',
+    '发布内测群二维码并组织首批测试': 'Phát hành mã QR nhóm nội kiểm và tổ chức đợt kiểm thử đầu tiên',
+    '（负责人：银海）': '(Người phụ trách: Ngân Hải)',
+    '内容类': 'Loại nội dung',
+    '确认开发者分享名单并组织脚本对齐会': 'Xác nhận danh sách người chia sẻ và tổ chức hội nghị thống nhất kịch bản',
+    '（负责人：AJ + 银海）': '(Người phụ trách: AJ + Ngân Hải)',
+    '完成直播脚本': 'Hoàn thành kịch bản livestream',
+    '，与银海、远长及开发者对齐': ', thống nhất với Ngân Hải, Viễn Trường và các nhà phát triển',
+    '宣传类': 'Loại truyền thông',
+    '明日（3 月 21 日）训练营中预告 21 日杭州活动': 'Ngày mai (21/3) thông báo trước sự kiện Hàng Châu ngày 21 trong khóa đào tạo',
+    '，并收集 Skill 需求许愿池': ', và thu thập nguyện vọng yêu cầu Skill',
+    '活动当天（3 月 21 日）': 'Ngày diễn ra sự kiện (21/3)',
+    '13:30 签到阶段': '13:30 Giai đoạn đăng ký',
+    '- [ ]  设置签到台，采集 UID 并引导开通百炼': '- [ ]  Thiết lập quầy đăng ký, thu thập UID và hướng dẫn kích hoạt Bải Luyện',
+    '- [ ]  同步发放龙虾出生纸': '- [ ]  Đồng thời phát giấy khai sinh Tôm hùm',
+    '- [ ]  门口倒计时屏幕启动': '- [ ]  Khởi động màn hình đếm ngược ở cửa vào',
+    '14:30 出生仪式': '14:30 Lễ ra đời',
+    '- [ ]  远长主持开场，完整介绍流程并引导开通百炼、采集 UID': '- [ ]  Viễn Trường chủ trì khai mạc, giới thiệu đầy đủ quy trình và hướng dẫn kích hoạt Bải Luyện, thu thập UID',
+    '- [ ]  统一发放 200 元 Pro 代金券，仅限现场用户线上抢领': '- [ ]  Phát đồng loạt voucher Pro 200 NDT, chỉ dành cho người dùng tại hiện trường nhận trực tuyến',
+    '14:30-18:00 自由体验': '14:30-18:00 Trải nghiệm tự do',
+    '- [ ]  黑客松区运营': '- [ ]  Vận hành khu Hackathon',
+    '- [ ]  Skills 展示墙维护': '- [ ]  Duy trì tường trưng bày Skills',
+    '- [ ]  礼品发放管理': '- [ ]  Quản lý phát quà',
+    '19:00 晚间直播': '19:00 Livestream buổi tối',
+    '- [ ]  2-3 位开发者参与线上直播': '- [ ]  2-3 nhà phát triển tham gia livestream trực tuyến',
+    '关键决策共识': 'Đồng thuận về các quyết định chính',
+    '代金券发放机制': 'Cơ chế phát voucher',
+    '：采用 UID 绑定方式，仅限现场用户领取，实现"0 元用百炼"核心卖点': ': Sử dụng phương thức liên kết UID, chỉ người dùng tại hiện trường mới được nhận, thực hiện điểm bán chính "Dùng Bải Luyện miễn phí"',
+    '取消独立装机环节': 'Hủy bỏ khâu cài đặt độc lập',
+    '：合并装机与福利发放，优化用户体验': ': Gộp cài đặt và phát phúc lợi, tối ưu trải nghiệm người dùng',
+    '简化礼品规则': 'Đơn giản hóa quy tắc quà tặng',
+    '：取消积分制，采用"完成即得"模式': ': Hủy bỏ hệ thống tích điểm, áp dụng mô hình "hoàn thành là nhận"',
+    '电视屏优先投屏': 'Ưu tiên chiếu màn hình TV',
+    '：关键规则通过 PPT 轮播展示，提升信息传达灵活性': ': Hiển thị các quy tắc chính qua PPT luân phiên, tăng tính linh hoạt truyền tải thông tin',
+    '风险提示': 'Cảnh báo rủi ro',
+    '动线风险': 'Rủi ro đường đi',
+    '：取消强制装机后人流易分散，需加强现场引导': ': Sau khi hủy cài đặt bắt buộc, dòng người dễ phân tán, cần tăng cường hướng dẫn tại chỗ',
+    '墙面使用': 'Sử dụng tường',
+    '：原定软木墙 4 月才可用，需确认临时方案': ': Tường gỗ mềm dự kiến tháng 4 mới dùng được, cần xác nhận phương án tạm thời',
+    '设计压力': 'Áp lực thiết kế',
+    '：主 KV 设计时间紧张，需一次性整理完文案减少反复修改': ': Thời gian thiết kế KV chính gấp rút, cần tổng hợp nội dung một lần để giảm sửa đi sửa lại',
+}
+
+# Additional entries with curly quotes
+t2 = {
+    '\uff1a\u767e\u70bc\u65b0\u7248\u672c\u5185\u6d4b + 200 \u5143 Pro \u7248\u4ee3\u91d1\u5238\u201c0 \u5143\u7528\u767e\u70bc\u201d': ': Phi\u00ean b\u1ea3n m\u1edbi B\u1ea3i Luy\u1ec7n n\u1ed9i ki\u1ec3m + Voucher 200 NDT phi\u00ean b\u1ea3n Pro \u201cD\u00f9ng B\u1ea3i Luy\u1ec7n mi\u1ec5n ph\u00ed\u201d',
+    '3. \u53d1\u653e\u201c\u9f99\u867e\u6863\u6848\u201d\u7eb8\u8d28\u5730\u56fe\uff08\u542b\u6d3b\u52a8\u6d41\u7a0b\u4e0e\u6253\u5361\u6307\u5f15\uff09': '3. Ph\u00e1t b\u1ea3n \u0111\u1ed3 gi\u1ea5y \u201cH\u1ed3 s\u01a1 T\u00f4m h\u00f9m\u201d (bao g\u1ed3m quy tr\u00ecnh s\u1ef1 ki\u1ec7n v\u00e0 h\u01b0\u1edbng d\u1eabn check-in)',
+    '4. \u5f15\u5bfc\u81f3\u201c\u5f85\u4ea7\u5305\u51c6\u5907\u533a\u201d\uff0c\u901a\u8fc7 KT \u677f/\u7535\u89c6\u5c4f\u4e86\u89e3\u6d3b\u52a8\u89c4\u5219': '4. H\u01b0\u1edbng d\u1eabn \u0111\u1ebfn \u201cKhu v\u1ef1c chu\u1ea9n b\u1ecb t\u00fai \u0111\u1ee1 \u0111\u1ebb\u201d, t\u00ecm hi\u1ec3u quy t\u1eafc s\u1ef1 ki\u1ec7n qua b\u1ea3ng KT/m\u00e0n h\u00ecnh TV',
+    '- \u5f85\u4ea7\u5305\u51c6\u5907\u533a\uff1a\u5165\u53e3\u5904 KT \u677f/\u7535\u89c6\u5c4f\u5c55\u793a\u201c\u51fa\u751f\u524d\u51c6\u5907\u201d\u6307\u5f15': '- Khu v\u1ef1c chu\u1ea9n b\u1ecb t\u00fai \u0111\u1ee1 \u0111\u1ebb: B\u1ea3ng KT/m\u00e0n h\u00ecnh TV \u1edf l\u1ed1i v\u00e0o hi\u1ec3n th\u1ecb h\u01b0\u1edbng d\u1eabn \u201cChu\u1ea9n b\u1ecb tr\u01b0\u1edbc khi ra \u0111\u1eddi\u201d',
+    '- \u5012\u8ba1\u65f6\u5c4f\u5e55\uff1a\u53ef\u79fb\u52a8\u7535\u89c6\u663e\u793a\u8ddd\u79bb\u201c\u51fa\u751f\u4eea\u5f0f\u201d\u5269\u4f59\u65f6\u95f4': '- M\u00e0n h\u00ecnh \u0111\u1ebfm ng\u01b0\u1ee3c: TV di \u0111\u1ed9ng hi\u1ec3n th\u1ecb th\u1eddi gian c\u00f2n l\u1ea1i \u0111\u1ebfn \u201cL\u1ec5 ra \u0111\u1eddi\u201d',
+    '- \u65b0\u7528\u6237\uff1a\u53ef\u62b5\u6263\u5168\u6b3e\uff0c\u5b9e\u73b0\u201c0 \u5143\u7528\u767e\u70bc\u201d': '- Ng\u01b0\u1eddi d\u00f9ng m\u1edbi: C\u00f3 th\u1ec3 kh\u1ea5u tr\u1eeb to\u00e0n b\u1ed9, th\u1ef1c hi\u1ec7n \u201cD\u00f9ng B\u1ea3i Luy\u1ec7n mi\u1ec5n ph\u00ed\u201d',
+    '\uff1a\u613f\u610f\u4e0a\u53f0\u5206\u4eab\u8005\u53ef\u83b7\u5f97\u201c\u9f99\u867e\u5927\u793c\u5305\u201d\uff08T \u6064\u3001\u536b\u8863\u3001\u65e5\u5386\u3001\u53cc\u80a9\u5305\u7b49\uff09': ': Ng\u01b0\u1eddi s\u1eb5n l\u00f2ng l\u00ean s\u00e2n kh\u1ea5u chia s\u1ebb c\u00f3 th\u1ec3 nh\u1eadn \u201c\u0110\u1ea1i qu\u00e0 T\u00f4m h\u00f9m\u201d (\u00e1o ph\u00f4ng, \u00e1o hoodie, l\u1ecbch, ba l\u00f4, v.v.)',
+    '\uff1a\u91c7\u7528 UID \u7ed1\u5b9a\u65b9\u5f0f\uff0c\u4ec5\u9650\u73b0\u573a\u7528\u6237\u9886\u53d6\uff0c\u5b9e\u73b0\u201c0 \u5143\u7528\u767e\u70bc\u201d\u6838\u5fc3\u5356\u70b9': ': S\u1eed d\u1ee5ng ph\u01b0\u01a1ng th\u1ee9c li\u00ean k\u1ebft UID, ch\u1ec9 ng\u01b0\u1eddi d\u00f9ng t\u1ea1i hi\u1ec7n tr\u01b0\u1eddng m\u1edbi \u0111\u01b0\u1ee3c nh\u1eadn, th\u1ef1c hi\u1ec7n \u0111i\u1ec3m b\u00e1n ch\u00ednh \u201cD\u00f9ng B\u1ea3i Luy\u1ec7n mi\u1ec5n ph\u00ed\u201d',
+    '\uff1a\u53d6\u6d88\u79ef\u5206\u5236\uff0c\u91c7\u7528\u201c\u5b8c\u6210\u5373\u5f97\u201d\u6a21\u5f0f': ': H\u1ee7y b\u1ecf h\u1ec7 th\u1ed1ng t\u00edch \u0111i\u1ec3m, \u00e1p d\u1ee5ng m\u00f4 h\u00ecnh \u201cho\u00e0n th\u00e0nh l\u00e0 nh\u1eadn\u201d',
+}
+t.update(t2)
+
+translated_count = 0
+kept_count = 0
+untranslated = []
+
+for block in data['blocks']:
+    for el in block['elements']:
+        if el['type'] == 'text_run':
+            content = el['content']
+            if content in t:
+                el['content'] = t[content]
+                translated_count += 1
+            elif re.match(r'^[\s\-\[\]\d\.:,;!?/\\=：]*$', content):
+                kept_count += 1
+            else:
+                untranslated.append(content)
+
+data['title'] = t.get(data['title'], data['title'])
+
+with open('_art6_trans.json', 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+
+print(f'Translated: {translated_count}, Kept: {kept_count}')
+if untranslated:
+    print(f'Untranslated ({len(untranslated)}):')
+    for u in untranslated:
+        print(f'  [{u}]')
+else:
+    print('All text translated!')
+print('Saved to _art6_trans.json')
